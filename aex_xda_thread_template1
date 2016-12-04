@@ -1,0 +1,339 @@
+[CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
+
+
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+[SIZE="3"][B]
+Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
+
+
+[img]http://i.imgur.com/KDVygxh.png[/img]
+
+[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP-OMS based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. #StayAOSP #StayExtended[/COLOR][/SIZE][/B]
+
+
+[img]http://i.imgur.com/Np7jfnY.png[/img]
+
+
+[B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are contsantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, head on to our G+ community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
+
+
+
+[CODE][B]-DUI(Fling/Pulse/Smartbar)
+-Substratum Theme Engine
+-Inbuilt SuperSU
+-Privacy Guard
+-Expanded Desktop
+-Dashboard suggestions/summaries (Enable/Disable)
+-Statusbar Clock/Date customizations
+-Statusbar Traffic Indicators
+-Notification count
+-Dt2s on Statusbar
+-QS quick pulldown
+-QS Brightness Slider(Enable/Disable)
+-QS Tiles Animations
+-Force expand notifications(Enable/Disable)
+-Immersive Mode messages(Enable/Disable)
+-Flashlight Notifications
+-Immersive Recents
+-Toast icon
+-MediaScanner behaviour on boot
+-Heads up Notifications(Enable/Disable)
+-Power Menu Customizations
+-Additional Battery Saver steps
+-Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Spanish Translations
+-PT BR Translations
+-Update Fling Logo
+-Add gestures back to settings app
+-QS haptic feedback
+-One tap data & Wifi tile
+-Auto brightness icon toggle
+-Breathing Notifications
+-Clickable clock and date in statusbar header
+-Long press gear icon in statusbar header launches Extensions
+-Show 4G instead LTE switch
+-Night Mode is back
+-Night Mode QS Tile
+-Long press caffeine tile action
+-Customize QS Rows/Columns
+-Customize small QS Tiles
+-StatusBar brightness control
+-Lockscreen Shortcut
+-Double tap on lockscreen to sleep
+-Quick Unlock for PIN/Password
+-Battery Styles and percentage
+-Change default file manager to MK Explorer
+-Add FMRadio
+-Add support for Jio4G Voice App
+-Navbar QS Tile
+-Flip Button Animation
+-Unlink Notification volume
+-Status bar clock Seconds
+-Partial ScreenShot Type
+-Screenshot Delay
+-Slimperience browser
+-Pixel's bootanimation(Experimantal)
+-Pixel's UI(Navbar/Accent/Pixel launcher)
+-OMS7
+-Camera sound toggle
+-Advance Ambient Display
+-Longpress power button on lockscreen for torch
+-Disable FC
+-Wakelock Blocker
+-Toggle Lockscreen Media Art
+-Toggle Lockscreen music Visualizer
+-Ticker
+-Bluetooth QS tile easy toggle(one touch)
+-CM's Eleven Music Player
+-Disable QS on Lockscreen
+-Invert Ambient display's Color
+-Toggle Dynamic notification card's color
+-Low Battery Notification Toggle
+-Hide Clock/Date/Alarm text from lockscreen
+-Lockscreen Clock's Font customizations
+-Weather on lockscreen
+And many more coming in future![/B][/CODE]
+
+
+[img]http://i.imgur.com/47WEHUl.png[/img]
+
+[SIZE="4"][B][U][COLOR="DeepSkyBlue"]
+Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
+
+[color=navy][URL="https://www.androidfilehost.com/?fid=529152257862685286"][COLOR="RoyalBlue"][SIZE="3"][B]Redmi Note 3 (Kenzo)[/B][/SIZE][/COLOR] [/URL][/color]
+
+[SIZE="3"][COLOR="YellowGreen"][B]Google Apps
+-[URL="http://opengapps.org/"]OpenGApps[/URL]/[URL="https://download.dirtyunicorns.com/gapps/Banks/"]BanksGApps[/B][/COLOR][/SIZE][/URL]
+
+[SIZE="3"][COLOR="DarkOrchid"][B]*CM 14/14.1 Firmwares can be found in the official thread of CyanogenMod. You can use Abhishek's firmware too!*[/B][/COLOR][/SIZE]
+
+
+[img]http://i.imgur.com/t709fnd.png[/img]
+
+
+[B][SIZE="4"]Want to try this awesomeness?[/SIZE][/B]
+
+
+[CODE][b]-Download the ROM and GApps of your choice
+-Backup each and every partition from TWRP Recovery
+-Make a full wipe (system, data, cache, dalvik)
+-Flash Cyanogenmod Firmware
+-Install the ROM
+-Install GAPPS package
+-Wipe cache!
+-And at last Reboot!
+[First boot will take few minutes! Keep patience]
+Clean Flash is always recommended![/b][/CODE]
+
+
+[img]http://i.imgur.com/t709fnd.png[/img]
+
+
+[SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
+
+
+[CODE][b]V1.2 Changelog
+-Merged 7.0.0_r19
+-Navbar QS Tile
+-Flip Button Animation
+-Unlink Notification volume
+-Status bar clock Seconds
+-Partial ScreenShot Type
+-Screenshot Delay
+-Replaced Chromium with Slimperience browser
+-Added Pixel's bootanimation(Experimental)
+-Added Pixel's UI(Navbar/Accent/Pixel launcher)
+-Merged OMS7
+-Camera sound toggle
+-Advance Ambient Display
+-Longpress power button on lockscreen for torch
+-Disable FC
+-Wakelock Blocker
+-Toggle Lockscreen Media Art
+-Toggle Lockscreen music Visualizer
+-Added Ticker
+-Bluetooth QS tile easy toggle(one touch)
+-Added CM's Eleven Music Player
+-Disable QS on Lockscreen
+-Invert Ambient display's Color
+-Toggle Dynamic notification card's color
+-Low Battery Notification Toggle
+-Hide Clock/Date/Alarm text from lockscreen
+-Lockscreen Clock's Font customizations
+-Weather on lockscreen
+-Added LockClock widget
+-Added various apps permissions
+-Fixed lots of npe and performance boost
+-Updated Translations(Spanish and PT-BR)[/b][/CODE]
+
+
+[img]http://i.imgur.com/WcLe541.png[/img]
+
+[SIZE="4"][B][COLOR="darkorchid"][COLOR="Red"]
+If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/COLOR][/COLOR][/B][/SIZE]
+
+[SIZE="3"][B]These Bugs are mostly related to Android 7.0 and some are device specific bugs. I'm trying my best to fix them![/B][/SIZE]
+
+[SIZE="3"][B]
+1) Random Front Camera Errors "Can't Connect to Camera". Present on most of the N Roms. Trying to fix it. You can try a custom kernel and please report here.
+2) Button Backlight Options in HW Settings aren't working. Use this app - [url]https://play.google.com/store/apps/details?id=org.sleepydragon.capbutnbrightness&hl=en[/url]
+3) The Default Governor is not set to interactive. Use any kernel manager to set it to Interactive.
+4)Screenshot sound plays on both Speaker and Headphone while Headphone Plugged-In
+can be temp. fixed by turning off Screenshot sound from sound settings. Will be fixed soon
+5)Flashlight toggle is buggy. Try disabling stock camera application.
+6) Goodix isn't tested. It may not work. Will fix it soon.
+7) If you guys face any calling issues, or in-call thingy - [url]http://forum.xda-developers.com/showpost.php?p=69738802&postcount=15[/url]
+8) USB Tethering is broken.
+9) [COLOR="Red"]VoLTE isn't supported by the ROM Natively but the Patch works.[/COLOR][/B][/SIZE]
+    [B][U][SIZE="3"]Procedure:
+[/SIZE][/U][/B]
+[HIDE] [SIZE="3"][B]~Clean Flashing Of Rom+Gapps (wipe system/dalvik/cache/data)
+~Flash Cm14 Firmware by Abhisek: [url]https://www.androidfilehost.com/?fid=385035244224398629[/url]
+~Flash AospExtendedVoLTE.zip : [url]http://forum.xda-developers.com/devdb/project/dl/?id=21827[/url]
+~Go To Mount>Mount system partition Read-Only
+~Flash VoLTE.zip : [url]http://forum.xda-developers.com/devdb/project/dl/?id=21816[/url]
+~Wipe Cache/Dalvik
+~Reboot
+~If still HD icon doesnt appear,Restore EFS backup of any VoLTE working rom or From the Latest dev MIUI MM[/B][/SIZE]
+[/HIDE]
+
+
+[img]http://i.imgur.com/zf0kMgF.png[/img]
+
+
+[SIZE="4"][B]
+Please Join Our [URL="https://plus.google.com/u/0/communities/106726906578669931141"][COLOR="Red"]Google+ Community[/COLOR][/URL]and Subscribe to our [URL="https://telegram.me/aospextended"][COLOR="RoyalBlue"]Telegram Channel. [/COLOR][/URL].Also join our [URL="https://telegram.me/aospextendedgroup"][COLOR="RoyalBlue"]Telegram Group Chat![/COLOR][/URL][/B][/SIZE]
+
+
+[img]http://i.imgur.com/wxV7wmi.png[/img]
+
+
+[B][SIZE="4"][COLOR="Black"]Recently we decided to add our own App for Wallpapers! Isn't it fun? But we can't design all our wallpapers on our own and we need help from you guys. If you guys are interested in creating Flat/Material design walls for AospExtended then you guys are welcome! Proper credits will be given in the app itself! Just join our Telegram Group Chat and inbox either [MENTION=5566914]ishubhamsingh[/MENTION] or [MENTION=5615686]AmolAmrit[/MENTION] We don't like our users to fight among each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and communitiy. #StayHappy #StayExtended[/COLOR][/SIZE][/B]
+
+
+
+[img]http://i.imgur.com/GDeu02t.png[/img]
+
+[SIZE="4"][B]Checkout this ROM!
+Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTION][/B][/SIZE]
+[HIDE][/HIDE]
+
+
+
+[img]http://i.imgur.com/nWBbgnc.png[/img]
+
+
+
+[B][SIZE="4"]People behind this amazing ROM![/SIZE][/B]
+
+[B][SIZE="4"]
+- [MENTION=5566914]ishubhamsingh[/MENTION](Owner/Dev/Designer)
+-AOSP-OMS(Base Rom)
+-Huge thanks to [MENTION=5272996]srisurya95[/MENTION]& [MENTION=5854483]Akhil Narang[/MENTION](Devs of AOSP-OMS)
+-Turbo Rom
+-Dirty Unicorns
+-AOSiP
+-Zephyr OS
+-SlimRom
+-BlissRom
+-CyanogenMod
+-TeamSubstratum
+-[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
+-[MENTION=6519039]jhenrique09 [/MENTION](PT BR Translation)
+-[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
+-[MENTION=5268708]creative21[/MENTION](For Dark Pixel BootAnimation)
+-[MENTION=1255308]SaschaHa[/MENTION](For Slimperience Browser)
+-[MENTION=7580472]AlienCreature7[/MENTION](For designing the thread template)[/SIZE][/B]
+
+
+[img]http://i.imgur.com/Y5vOKGE.png[/img]
+
+
+[B][SIZE="4"][COLOR="DarkOrange"]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
+
+[HIDE][SIZE="3"][B][COLOR="Red"]1]Base Of the  ROM & Version?[/COLOR]
+->Roms is Based on AOSP-OMS
+ 
+2][COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
+->Yes, full substratum support!
+ 
+3][COLOR="Red"]Which Firmware is recommended?[/COLOR]
+->Normal users:Cm14 FW by TheStrix :      
+   Link: [URL="https://goo.gl/hX63mc"]https://goo.gl/hX63mc[/URL]
+->VoLTE users:Cm14 FW By abhisek :  
+    Link: [URL="https://goo.gl/2HrG3B"]https://goo.gl/2HrG3B[/URL]
+ 
+4][COLOR="Red"]Which Gapps are recommended?[/COLOR]
+->OpenGapps or
+ ->BanksGapps
+   
+5][COLOR="Red"]How to Enable VoLTE?[/COLOR]
+->Read the OP again.
+ 
+ 6][COLOR="Red"]What about Goodix FP Support?[/COLOR]
+->Goodix isn't tested,It may not support.
+ 
+7][COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
+->No.
+ 
+8][COLOR="Red"]What about XPOSED?[/COLOR]
+->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+ 
+9][COLOR="Red"]What about custom Kernels?
+[/COLOR]->Radon & Agni Both are supported.
+ 
+10][COLOR="red"]When Will Be the Next Update?[/COLOR]
+->No ETAs please. ROM Will be updated whenever the new build is ready.
+ 
+11][COLOR="red"]I am facing FCs, Bugs,Some feature is broken?[/COLOR]
+->Provide Full info About your problem with logcats and the procedure to reproduce it.
+->How to take Logcats?
+   [url]https://goo.gl/UcTM9[/url]
+ 
+12][COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
+->Join our G+ community:
+->Join our telegram Group[/B][/SIZE]
+ 
+[/HIDE]
+[/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]AospExtended, ROM for the Xiaomi Redmi Note 3[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+[URL="http://forum.xda-developers.com/member.php?u=5615686"]AmolAmrit[/URL], [URL="http://forum.xda-developers.com/member.php?u=5566914"]ishubhamsingh[/URL]    
+[B]Source Code:[/B] [URL="https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended[/URL]
+
+[B]ROM OS Version:[/B] 7.x Nougat
+[B]Based On:[/B] AOSP-OMS
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+
+[B]Created[/B] 2016-11-25
+[B]Last Updated[/B] 2016-12-04
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]AospExtended, ROM for the Xiaomi Redmi Note 3[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+[URL="http://forum.xda-developers.com/member.php?u=5615686"]AmolAmrit[/URL], [URL="http://forum.xda-developers.com/member.php?u=5566914"]ishubhamsingh[/URL]    
+[B]Source Code:[/B] [URL="https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended[/URL]
+
+[B]ROM OS Version:[/B] 7.x Nougat
+[B]Based On:[/B] AOSP-OMS
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+
+[B]Created[/B] 2016-11-25
+[B]Last Updated[/B] 2016-12-04
