@@ -1,0 +1,259 @@
+[align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
+[font=Courier New][size=130][align=left][code]
+/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */
+[/code][/align][/size][/font]
+
+[align=center][font=Courier New][size=120][b][glow=#BF0000][quote]Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's considered as being rude![/quote][/glow][/b][/size][/font]
+
+[img]http://i.imgur.com/KDVygxh.png[/img]
+
+[font=Courier New][size=160][b][color=white]AOSP Extended is an AOSP-OMS based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.[/color][glow=#8080BF]#BeExtended[/glow][/b][/size][/font]
+
+
+[img]http://i.imgur.com/Np7jfnY.png[/img]
+
+
+[font=Courier New][size=130][b]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are contsantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, head on to our G+ community and post the list of features that you want! Features with commits will be more helpful![/b][/size][/font]
+
+
+
+[font=Courier New][size=120][b][code]
+-DUI(Fling/Pulse/Smartbar)
+-Substratum Theme Engine
+-Inbuilt SuperSU
+-Privacy Guard
+-Expanded Desktop
+-Dashboard suggestions/summaries (Enable/Disable)
+-Statusbar Clock/Date customizations
+-Statusbar Traffic Indicators
+-Notification count
+-Dt2s on Statusbar
+-QS quick pulldown
+-QS Brightness Slider(Enable/Disable)
+-QS Tiles Animations
+-Force expand notifications(Enable/Disable)
+-Immersive Mode messages(Enable/Disable)
+-Flashlight Notifications
+-Immersive Recents
+-Toast icon
+-MediaScanner behaviour on boot
+-Heads up Notifications(Enable/Disable)
+-Power Menu Customizations
+-Additional Battery Saver steps
+-Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Spanish Translations
+-PT BR Translations
+-Update Fling Logo
+-Add gestures back to settings app
+-QS haptic feedback
+-One tap data & Wifi tile
+-Auto brightness icon toggle
+-Breathing Notifications
+-Clickable clock and date in statusbar header
+-Long press gear icon in statusbar header launches Extensions
+-Show 4G instead LTE switch
+-Night Mode is back
+-Night Mode QS Tile
+-Long press caffeine tile action
+-Customize QS Rows/Columns
+-Customize small QS Tiles
+-StatusBar brightness control
+-Lockscreen Shortcut
+-Double tap on lockscreen to sleep
+-Quick Unlock for PIN/Password
+-Battery Styles and percentage
+-Change default file manager to MK Explorer
+-Add FMRadio
+-Navbar QS Tile
+-Flip Button Animation
+-Unlink Notification volume
+-Status bar clock Seconds
+-Partial ScreenShot Type
+-Screenshot Delay
+-Slimperience browser
+-Pixel's bootanimation(Experimantal)
+-Pixel's UI(Navbar/Accent/Pixel launcher)
+-OMS7
+-Camera sound toggle
+-Advance Ambient Display
+-Longpress power button on lockscreen for torch
+-Disable FC
+-Wakelock Blocker
+-Toggle Lockscreen Media Art
+-Toggle Lockscreen music Visualizer
+-Ticker
+-Bluetooth QS tile easy toggle(one touch)
+-CM's Eleven Music Player
+-Disable QS on Lockscreen
+-Invert Ambient display's Color
+-Toggle Dynamic notification card's color
+-Low Battery Notification Toggle
+-Hide Clock/Date/Alarm text from lockscreen
+-Lockscreen Clock's Font customizations
+-Weather on lockscreen
+And many more coming in future!
+[/code][/b][/size][/font]
+
+[img]http://i.imgur.com/47WEHUl.png[/img]
+
+[font=Courier New][size=120][b][u][color=DeepSkyBlue]
+Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
+
+[url=AFH/BB FOLDER LINK][font=Courier New][size=150][glow=RoyalBlue][b]DEVICE NAME[/b][/glow][/size][/font][/url]
+
+[font=Courier New][size=120][color=YellowGreen][b]Google Apps[/b][/color][/size][/font]
+[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=https://download.dirtyunicorns.com/gapps/Banks/][b][font=Courier New][size=150]BanksGApps[/size][/font][/b][/url]
+
+[img]http://i.imgur.com/t709fnd.png[/img]
+
+
+[b][size=120]Want to try this awesomeness?[/size][/b]
+
+
+[font=Courier New][size=120][b][code]-Download the ROM and GApps of your choice
+-Backup each and every partition from TWRP Recovery
+-Make a full wipe (system, data, cache, dalvik)
+-Install the ROM
+-Install GAPPS package
+-Wipe cache!
+-And at last Reboot!
+[First boot will take few minutes! Keep patience]
+Clean Flash is always recommended![/code][/b][/size][/font]
+
+
+[img]http://i.imgur.com/lhBOw2M.png[/img]
+
+
+[font=Courier New][size=120][b]Monitor the changelog here![/b][/size][/font]
+
+
+[font=Courier New][size=120][b][code]
+V1.2 Changelog
+-Merged 7.0.0_r19
+-Navbar QS Tile
+-Flip Button Animation
+-Unlink Notification volume
+-Status bar clock Seconds
+-Partial ScreenShot Type
+-Screenshot Delay
+-Replaced Chromium with Slimperience browser
+-Added Pixel's bootanimation(Experimental)
+-Added Pixel's UI(Navbar/Accent/Pixel launcher)
+-Merged OMS7
+-Camera sound toggle
+-Advance Ambient Display
+-Longpress power button on lockscreen for torch
+-Disable FC
+-Wakelock Blocker
+-Toggle Lockscreen Media Art
+-Toggle Lockscreen music Visualizer
+-Added Ticker
+-Bluetooth QS tile easy toggle(one touch)
+-Added CM's Eleven Music Player
+-Disable QS on Lockscreen
+-Invert Ambient display's Color
+-Toggle Dynamic notification card's color
+-Low Battery Notification Toggle
+-Hide Clock/Date/Alarm text from lockscreen
+-Lockscreen Clock's Font customizations
+-Weather on lockscreen
+-Added LockClock widget
+-Added various apps permissions
+-Fixed lots of npe and performance boost
+-Updated Translations(Spanish and PT-BR)[/code][/b][/size][/font]
+
+
+[img]http://i.imgur.com/WcLe541.png[/img]
+
+[font=Courier New][size=150][b][glow=Red]If you want any bug to be fixed please write here on devs-base in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/glow][/b][/size][/font]
+
+[font=Courier New][size=120][b]These Bugs are mostly related to Android 7.0 and some are device specific bugs. I'm trying my best to fix them![/b][/size][/font]
+
+[font=Courier New][size=120][b]
+* BUGS HERE
+[/b][/size][/font]
+
+[img]http://i.imgur.com/zf0kMgF.png[/img]
+
+
+[font=Courier New][size=120][b]
+Please Join Our [url=https://plus.google.com/u/0/communities/106726906578669931141][glow=Red]Google+ Community[/glow][/url]and Subscribe to our [url=https://telegram.me/aospextended][glow=RoyalBlue]Telegram Channel.[/glow][/url].Also join our [url=https://telegram.me/aospextendedgroup][glow=RoyalBlue]Telegram Group Chat![/glow][/url][/b][/size][/font]
+
+
+[img]http://i.imgur.com/wxV7wmi.png[/img]
+
+
+[font=Courier New][b][size=120][color=white]Recently we decided to add our own App for Wallpapers! Isn't it fun? But we can't design all our wallpapers on our own and we need help from you guys. If you guys are interested in creating Flat/Material design walls for AospExtended then you guys are welcome! Proper credits will be given in the app itself! Just join our Telegram Group Chat and inbox either @ishubhamsingh or @amolamrit We don't like our users to fight among each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. [glow=red]Always read the full OP. Don't Quote the whole OP.[/glow] Join our channel and communitiy.
+[glow=#8080BF]#StayHappy #BeExtended[/glow][/color][/size][/b][/font]
+
+[img]http://i.imgur.com/GDeu02t.png[/img]
+
+[hide] YOUR ATTACHMENTS COME HERE [/hide]
+
+[img]http://i.imgur.com/nWBbgnc.png[/img]
+
+
+
+[font=Courier New][b][size=120]People behind this amazing ROM![/size][/b]
+
+[b][size=120]
+- @ishubhamsingh(Owner/Dev/Designer)
+- AOSP-OMS(Base Rom)
+- Huge thanks to @srisurya95 & @akhilnarang (Devs of AOSP-OMS)
+- Turbo Rom
+- Dirty Unicorns
+- AOSiP
+- Zephyr OS
+- SlimRom
+- BlissRom
+- CyanogenMod
+- TeamSubstratum
+- @KrapK   (Spanish Translation)
+- @jhenrique09 (PT BR Translation)
+- @kormateusz (For MK Explorer)
+- @creative21 (For Dark Pixel BootAnimation)
+- @SaschaHa (For Slimperience Browser)
+- @AlienCreature7 (For designing the thread template banners,walls etc)[/size][/b][/font]
+
+
+[img]http://i.imgur.com/Y5vOKGE.png[/img]
+
+
+[font=Courier New][b][size=140][color=DarkOrange]I guess there is nothing wrong in reading facts![/color][/size][/b]
+
+[hide][size=120][b][color=Red]1]Base Of the  ROM & Version?[/color]
+->Roms is Based on AOSP-OMS
+ 
+2][color=Red]Does this ROM Support Substratum/CMTE?[/color]
+->Yes, full substratum support!
+ 
+3][color=Red]Which Gapps are recommended?[/color]
+->OpenGapps or
+ ->BanksGapps
+ 
+4][color=Red]What about XPOSED?[/color]
+->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+ 
+5][color=Red]What about custom Kernels?
+[/color]->You are free to try out available kernels,but in case of any bugs,we will not support.
+ 
+6][color=red]When Will Be the Next Update?[/color]
+->No ETAs please. ROM Will be updated whenever the new build is ready.
+ 
+7][color=red]I am facing FCs, Bugs,Some feature is broken?[/color]
+->Provide Full info About your problem with logcats and the procedure to reproduce it.
+->How to take Logcats?
+   [url]https://goo.gl/UcTM9[/url]
+ 
+8][color=red]I want to contribute To the Development of this ROM?[/color]
+->Join our G+ community:
+->Join our telegram Group
+->Pull Requests on Github[/b][/size][/hide][/font][/align]
