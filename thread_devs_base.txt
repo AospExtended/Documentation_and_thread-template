@@ -117,7 +117,7 @@ Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
 [url=AFH/BB FOLDER LINK][font=Courier New][size=150][glow=RoyalBlue][b]DEVICE NAME[/b][/glow][/size][/font][/url]
 
 [font=Courier New][size=120][color=YellowGreen][b]Google Apps[/b][/color][/size][/font]
-[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=https://download.dirtyunicorns.com/gapps/Banks/][b][font=Courier New][size=150]BanksGApps[/size][/font][/b][/url]
+[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=https://www.androidfilehost.com/?w=files&flid=124631][b][font=Courier New][size=150]DynamicGApps[/size][/font][/b][/url]
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
@@ -144,29 +144,27 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 
 [font=Courier New][size=120][b][code]
 V2.0 Changelog
-Rebased and merged Android  7.1.1_r4
-Added download provider as a file manager
-Removed Mk explorer
-Added new Battery style commits with themeing support
-Added recents Fab button
-Added recents free Memory bar
-Updated ROM Banner 
-Added DU'sHW Buttons Rebinding
-Added button Backlight settings
-Added upstream OMS Commits
-Added Dynamic Navbar
-Added HeadsUp Customisation
-Added Custom Carrier Label
-Performance Improvement
-Included our Application for Wallpapers, AEXPapers!
-More Goodies have been added[/code][/b][/size][/font]
+-Rebased and merged Android  7.1.1_r4
+-Added download provider as a file manager
+-Removed Mk explorer
+-Added new Battery style commits with themeing support
+-Added recents Fab button
+-Added recents free Memory bar
+-Updated ROM Banner 
+-Added DU'sHW Buttons Rebinding
+-Added button Backlight settings
+-Added upstream OMS Commits
+-Added Dynamic Navbar
+-Added HeadsUp Customisation
+-Added Custom Carrier Label
+-Performance Improvement
+-Included our Application for Wallpapers, AEXPapers!
+-More Goodies have been added[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
 
 [font=Courier New][size=150][b][glow=Red]If you want any bug to be fixed please write here on devs-base in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/glow][/b][/size][/font]
-
-[font=Courier New][size=120][b]These Bugs are mostly related to Android 7.0 and some are device specific bugs. I'm trying my best to fix them![/b][/size][/font]
 
 [font=Courier New][size=120][b]
 * BUGS HERE
@@ -228,7 +226,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
  
 3][color=Red]Which Gapps are recommended?[/color]
 ->OpenGapps or
- ->BanksGapps
+ ->DynamicGapps
  
 4][color=Red]What about XPOSED?[/color]
 ->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
