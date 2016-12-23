@@ -15,7 +15,7 @@
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
-[font=Courier New][size=160][b][color=white]AOSP Extended is an AOSP-OMS based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.[/color][glow=#8080BF]#BeExtended[/glow][/b][/size][/font]
+[font=Courier New][size=160][b][color=white]AOSP Extended is an AOSP based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.[/color][glow=#8080BF]#BeExtended[/glow][/b][/size][/font]
 
 
 [img]http://i.imgur.com/Np7jfnY.png[/img]
@@ -45,7 +45,6 @@
 -Immersive Recents
 -Toast icon
 -MediaScanner behaviour on boot
--Heads up Notifications(Enable/Disable)
 -Power Menu Customizations
 -Additional Battery Saver steps
 -Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
@@ -98,7 +97,15 @@
 -Low Battery Notification Toggle
 -Hide Clock/Date/Alarm text from lockscreen
 -Lockscreen Clock's Font customizations
--Weather on lockscreen
+-Weather on lockscree
+-AEXPapers
+-Heads up customizations
+-DU's HW button rebinding
+-Button backlight customizations
+-Recents clear all fab button and re-positioning
+-Recents Free Ram bar
+-Custom Carrier label
+-Dynamic navbar
 And many more coming in future!
 [/code][/b][/size][/font]
 
@@ -136,39 +143,23 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 
 
 [font=Courier New][size=120][b][code]
-V1.2 Changelog
--Merged 7.0.0_r19
--Navbar QS Tile
--Flip Button Animation
--Unlink Notification volume
--Status bar clock Seconds
--Partial ScreenShot Type
--Screenshot Delay
--Replaced Chromium with Slimperience browser
--Added Pixel's bootanimation(Experimental)
--Added Pixel's UI(Navbar/Accent/Pixel launcher)
--Merged OMS7
--Camera sound toggle
--Advance Ambient Display
--Longpress power button on lockscreen for torch
--Disable FC
--Wakelock Blocker
--Toggle Lockscreen Media Art
--Toggle Lockscreen music Visualizer
--Added Ticker
--Bluetooth QS tile easy toggle(one touch)
--Added CM's Eleven Music Player
--Disable QS on Lockscreen
--Invert Ambient display's Color
--Toggle Dynamic notification card's color
--Low Battery Notification Toggle
--Hide Clock/Date/Alarm text from lockscreen
--Lockscreen Clock's Font customizations
--Weather on lockscreen
--Added LockClock widget
--Added various apps permissions
--Fixed lots of npe and performance boost
--Updated Translations(Spanish and PT-BR)[/code][/b][/size][/font]
+V2.0 Changelog
+Rebased and merged Android  7.1.1_r4
+Added download provider as a file manager
+Removed Mk explorer
+Added new Battery style commits with themeing support
+Added recents Fab button
+Added recents free Memory bar
+Updated ROM Banner 
+Added DU'sHW Buttons Rebinding
+Added button Backlight settings
+Added upstream OMS Commits
+Added Dynamic Navbar
+Added HeadsUp Customisation
+Added Custom Carrier Label
+Performance Improvement
+Included our Application for Wallpapers, AEXPapers!
+More Goodies have been added[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
@@ -206,7 +197,8 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 
 [b][size=120]
 - @ishubhamsingh(Owner/Dev/Designer)
-- AOSP-OMS(Base Rom)
+- [url=https://github.com/AOSP-JF-MM]TeamJDC(Base)[/url]
+- AOSP-OMS
 - Huge thanks to @srisurya95 & @akhilnarang (Devs of AOSP-OMS)
 - Turbo Rom
 - Dirty Unicorns
@@ -216,9 +208,8 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 - BlissRom
 - CyanogenMod
 - TeamSubstratum
-- @KrapK   (Spanish Translation)
+- @KrapK  (Spanish Translation/Wallpapers)
 - @jhenrique09 (PT BR Translation)
-- @kormateusz (For MK Explorer)
 - @creative21 (For Dark Pixel BootAnimation)
 - @SaschaHa (For Slimperience Browser)
 - @AlienCreature7 (For designing the thread template banners,walls etc)[/size][/b][/font]
