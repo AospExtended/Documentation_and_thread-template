@@ -17,7 +17,8 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
-[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. A ROM by a user, for a user. #StayAOSP #ExtendYourDevice
+[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. A ROM by a user, for a user. #StayAOSP #ExtendYourDevice[/COLOR][/SIZE][/B]
+
 
 
 [img]http://i.imgur.com/Np7jfnY.png[/img]
@@ -28,6 +29,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 
 
 [CODE][B]-DUI(Fling/Pulse/Smartbar)
+-DUI(Fling/Pulse/Smartbar)
 -Substratum Theme Engine
 -Inbuilt SuperSU
 -Privacy Guard
@@ -46,7 +48,6 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Immersive Recents
 -Toast icon
 -MediaScanner behaviour on boot
--Heads up Notifications(Enable/Disable)
 -Power Menu Customizations
 -Additional Battery Saver steps
 -Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
@@ -73,7 +74,6 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Battery Styles and percentage
 -Change default file manager to MK Explorer
 -Add FMRadio
--Add support for Jio4G Voice App
 -Navbar QS Tile
 -Flip Button Animation
 -Unlink Notification volume
@@ -100,7 +100,16 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Low Battery Notification Toggle
 -Hide Clock/Date/Alarm text from lockscreen
 -Lockscreen Clock's Font customizations
--Weather on lockscreen
+-Weather on lockscree
+-AEXPapers
+-Heads up customizations
+-DU's HW button rebinding
+-Button backlight customizations
+-Recents clear all fab button and re-positioning
+-Recents Free Ram bar
+-Custom Carrier label
+-Dynamic navbar
+And many more coming in future!
 And many more coming in future![/B][/CODE]
 
 
