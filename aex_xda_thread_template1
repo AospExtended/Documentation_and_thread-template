@@ -17,7 +17,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
-[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP-OMS based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. #StayAOSP #StayExtended[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. A ROM by a user, for a user. #StayAOSP #ExtendYourDevice
 
 
 [img]http://i.imgur.com/Np7jfnY.png[/img]
@@ -112,7 +112,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [color=navy][URL="AFH link"][COLOR="RoyalBlue"][SIZE="3"][B]AndroidFileHost[/B][/SIZE][/COLOR] [/URL][/color]
 
 [SIZE="3"][COLOR="YellowGreen"][B]Google Apps
--[URL="http://opengapps.org/"]OpenGApps[/URL]/[URL="https://download.dirtyunicorns.com/gapps/Banks/"]BanksGApps[/B][/COLOR][/SIZE][/URL]
+-[URL="http://opengapps.org/"]OpenGApps[/URL]/[URL="https://download.dirtyunicorns.com/gapps/Banks/"]DynamicGApps[/B][/COLOR][/SIZE][/URL]
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
@@ -207,8 +207,9 @@ Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTIO
 [B][SIZE="4"]People behind this amazing ROM![/SIZE][/B]
 
 [B][SIZE="4"]
-- [MENTION=5566914]ishubhamsingh[/MENTION](Owner/Dev/Designer)
--AOSP-OMS(Base Rom)
+-[MENTION=5566914]ishubhamsingh[/MENTION](Owner/Dev/Designer)
+-[URL="https://github.com/AOSP-JF-MM"]JDC Team[/URL]
+-AOSP-OMS
 -Huge thanks to [MENTION=5272996]srisurya95[/MENTION]& [MENTION=5854483]Akhil Narang[/MENTION](Devs of AOSP-OMS)
 -Turbo Rom
 -Dirty Unicorns
@@ -218,12 +219,15 @@ Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTIO
 -BlissRom
 -CyanogenMod
 -TeamSubstratum
+-Nitrogen Project
+-Pure Nexus
+-GZR Community
 -[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
 -[MENTION=6519039]jhenrique09 [/MENTION](PT BR Translation)
 -[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
 -[MENTION=5268708]creative21[/MENTION](For Dark Pixel BootAnimation)
 -[MENTION=1255308]SaschaHa[/MENTION](For Slimperience Browser)
--[MENTION=7580472]AlienCreature7[/MENTION](For designing the thread template)[/SIZE][/B]
+-[MENTION=7580472]AlienCreature7[/MENTION](For designing the ROM Logo)[/SIZE][/B]
 
 
 [img]http://i.imgur.com/Y5vOKGE.png[/img]
@@ -231,31 +235,34 @@ Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTIO
 
 [B][SIZE="4"][COLOR="DarkOrange"]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
 
-[HIDE][SIZE="3"][B][COLOR="Red"]1]Base Of the  ROM & Version?[/COLOR]
-->Roms is Based on AOSP-OMS
+[HIDE][SIZE="3"][B][COLOR="Red"]-Base Of the  ROM & Version?[/COLOR]
+->Roms is Based on AOSP
+
+-[COLOR="red"]Why no OTA Support?[/COLOR]
+->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide OTAs and recommend clean flash.
  
-2][COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
+ -[COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
 ->Yes, full substratum support!
   
-4][COLOR="Red"]Which Gapps are recommended?[/COLOR]
+-[COLOR="Red"]Which Gapps are recommended?[/COLOR]
 ->OpenGapps or
- ->BanksGapps
+->DynamicGapps
     
-5][COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
+-[COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
 ->No.
  
-6][COLOR="Red"]What about XPOSED?[/COLOR]
+-[COLOR="Red"]What about XPOSED?[/COLOR]
 ->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
   
-7][COLOR="red"]When Will Be the Next Update?[/COLOR]
+-[COLOR="red"]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready.
  
-8][COLOR="red"]I am facing FCs, Bugs,Some feature is broken?[/COLOR]
+-[COLOR="red"]I am facing FCs, Bugs,Some feature is broken?[/COLOR]
 ->Provide Full info About your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
    [url]https://goo.gl/UcTM9[/url]
  
-9][COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
+-[COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
 ->Join our G+ community:
 ->Join our telegram Group[/B][/SIZE]
  
