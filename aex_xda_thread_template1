@@ -109,13 +109,10 @@ And many more coming in future![/B][/CODE]
 [SIZE="4"][B][U][COLOR="DeepSkyBlue"]
 Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 
-[color=navy][URL="https://www.androidfilehost.com/?fid=529152257862685286"][COLOR="RoyalBlue"][SIZE="3"][B]Redmi Note 3 (Kenzo)[/B][/SIZE][/COLOR] [/URL][/color]
+[color=navy][URL="AFH link"][COLOR="RoyalBlue"][SIZE="3"][B]AndroidFileHost[/B][/SIZE][/COLOR] [/URL][/color]
 
 [SIZE="3"][COLOR="YellowGreen"][B]Google Apps
 -[URL="http://opengapps.org/"]OpenGApps[/URL]/[URL="https://download.dirtyunicorns.com/gapps/Banks/"]BanksGApps[/B][/COLOR][/SIZE][/URL]
-
-[SIZE="3"][COLOR="DarkOrchid"][B]*CM 14/14.1 Firmwares can be found in the official thread of CyanogenMod. You can use Abhishek's firmware too!*[/B][/COLOR][/SIZE]
-
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
@@ -126,7 +123,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [CODE][b]-Download the ROM and GApps of your choice
 -Backup each and every partition from TWRP Recovery
 -Make a full wipe (system, data, cache, dalvik)
--Flash Cyanogenmod Firmware
+-Flash AEX Package
 -Install the ROM
 -Install GAPPS package
 -Wipe cache!
@@ -180,32 +177,6 @@ Clean Flash is always recommended![/b][/CODE]
 
 [SIZE="4"][B][COLOR="darkorchid"][COLOR="Red"]
 If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/COLOR][/COLOR][/B][/SIZE]
-
-[SIZE="3"][B]These Bugs are mostly related to Android 7.0 and some are device specific bugs. I'm trying my best to fix them![/B][/SIZE]
-
-[SIZE="3"][B]
-1) Random Front Camera Errors "Can't Connect to Camera". Present on most of the N Roms. Trying to fix it. You can try a custom kernel and please report here.
-2) Button Backlight Options in HW Settings aren't working. Use this app - [url]https://play.google.com/store/apps/details?id=org.sleepydragon.capbutnbrightness&hl=en[/url]
-3) The Default Governor is not set to interactive. Use any kernel manager to set it to Interactive.
-4)Screenshot sound plays on both Speaker and Headphone while Headphone Plugged-In
-can be temp. fixed by turning off Screenshot sound from sound settings. Will be fixed soon
-5)Flashlight toggle is buggy. Try disabling stock camera application.
-6) Goodix isn't tested. It may not work. Will fix it soon.
-7) If you guys face any calling issues, or in-call thingy - [url]http://forum.xda-developers.com/showpost.php?p=69738802&postcount=15[/url]
-8) USB Tethering is broken.
-9) [COLOR="Red"]VoLTE isn't supported by the ROM Natively but the Patch works.[/COLOR][/B][/SIZE]
-    [B][U][SIZE="3"]Procedure:
-[/SIZE][/U][/B]
-[HIDE] [SIZE="3"][B]~Clean Flashing Of Rom+Gapps (wipe system/dalvik/cache/data)
-~Flash Cm14 Firmware by Abhisek: [url]https://www.androidfilehost.com/?fid=385035244224398629[/url]
-~Flash AospExtendedVoLTE.zip : [url]http://forum.xda-developers.com/devdb/project/dl/?id=21827[/url]
-~Go To Mount>Mount system partition Read-Only
-~Flash VoLTE.zip : [url]http://forum.xda-developers.com/devdb/project/dl/?id=21816[/url]
-~Wipe Cache/Dalvik
-~Reboot
-~If still HD icon doesnt appear,Restore EFS backup of any VoLTE working rom or From the Latest dev MIUI MM[/B][/SIZE]
-[/HIDE]
-
 
 [img]http://i.imgur.com/zf0kMgF.png[/img]
 
@@ -265,75 +236,28 @@ Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTIO
  
 2][COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
 ->Yes, full substratum support!
- 
-3][COLOR="Red"]Which Firmware is recommended?[/COLOR]
-->Normal users:Cm14 FW by TheStrix :      
-   Link: [URL="https://goo.gl/hX63mc"]https://goo.gl/hX63mc[/URL]
-->VoLTE users:Cm14 FW By abhisek :  
-    Link: [URL="https://goo.gl/2HrG3B"]https://goo.gl/2HrG3B[/URL]
- 
+  
 4][COLOR="Red"]Which Gapps are recommended?[/COLOR]
 ->OpenGapps or
  ->BanksGapps
-   
-5][COLOR="Red"]How to Enable VoLTE?[/COLOR]
-->Read the OP again.
- 
- 6][COLOR="Red"]What about Goodix FP Support?[/COLOR]
-->Goodix isn't tested,It may not support.
- 
-7][COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
+    
+5][COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
 ->No.
  
-8][COLOR="Red"]What about XPOSED?[/COLOR]
+6][COLOR="Red"]What about XPOSED?[/COLOR]
 ->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
- 
-9][COLOR="Red"]What about custom Kernels?
-[/COLOR]->Radon & Agni Both are supported.
- 
-10][COLOR="red"]When Will Be the Next Update?[/COLOR]
+  
+7][COLOR="red"]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready.
  
-11][COLOR="red"]I am facing FCs, Bugs,Some feature is broken?[/COLOR]
+8][COLOR="red"]I am facing FCs, Bugs,Some feature is broken?[/COLOR]
 ->Provide Full info About your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
    [url]https://goo.gl/UcTM9[/url]
  
-12][COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
+9][COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
 ->Join our G+ community:
 ->Join our telegram Group[/B][/SIZE]
  
 [/HIDE]
 [/CENTER]
-
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]AospExtended, ROM for the Xiaomi Redmi Note 3[/B][/SIZE]
-
-[B][U]Contributors[/U][/B]
-[URL="http://forum.xda-developers.com/member.php?u=5615686"]AmolAmrit[/URL], [URL="http://forum.xda-developers.com/member.php?u=5566914"]ishubhamsingh[/URL]    
-[B]Source Code:[/B] [URL="https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended[/URL]
-
-[B]ROM OS Version:[/B] 7.x Nougat
-[B]Based On:[/B] AOSP-OMS
-
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-
-[B]Created[/B] 2016-11-25
-[B]Last Updated[/B] 2016-12-04
-
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]AospExtended, ROM for the Xiaomi Redmi Note 3[/B][/SIZE]
-
-[B][U]Contributors[/U][/B]
-[URL="http://forum.xda-developers.com/member.php?u=5615686"]AmolAmrit[/URL], [URL="http://forum.xda-developers.com/member.php?u=5566914"]ishubhamsingh[/URL]    
-[B]Source Code:[/B] [URL="https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended"]https://github.com/AospExtended[/URL]
-
-[B]ROM OS Version:[/B] 7.x Nougat
-[B]Based On:[/B] AOSP-OMS
-
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-
-[B]Created[/B] 2016-11-25
-[B]Last Updated[/B] 2016-12-04
