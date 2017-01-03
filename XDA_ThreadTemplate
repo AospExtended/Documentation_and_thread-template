@@ -133,7 +133,6 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 -Backup each and every partition from TWRP Recovery
 -Make a full wipe (system, data, cache, dalvik)
 -Flash AEX Package
--Install the ROM
 -Install GAPPS package
 -Wipe cache!
 -And at last Reboot!
@@ -147,39 +146,23 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]V1.2 Changelog
--Merged 7.0.0_r19
--Navbar QS Tile
--Flip Button Animation
--Unlink Notification volume
--Status bar clock Seconds
--Partial ScreenShot Type
--Screenshot Delay
--Replaced Chromium with Slimperience browser
--Added Pixel's bootanimation(Experimental)
--Added Pixel's UI(Navbar/Accent/Pixel launcher)
--Merged OMS7
--Camera sound toggle
--Advance Ambient Display
--Longpress power button on lockscreen for torch
--Disable FC
--Wakelock Blocker
--Toggle Lockscreen Media Art
--Toggle Lockscreen music Visualizer
--Added Ticker
--Bluetooth QS tile easy toggle(one touch)
--Added CM's Eleven Music Player
--Disable QS on Lockscreen
--Invert Ambient display's Color
--Toggle Dynamic notification card's color
--Low Battery Notification Toggle
--Hide Clock/Date/Alarm text from lockscreen
--Lockscreen Clock's Font customizations
--Weather on lockscreen
--Added LockClock widget
--Added various apps permissions
--Fixed lots of npe and performance boost
--Updated Translations(Spanish and PT-BR)[/b][/CODE]
+[CODE][b]V2.0 Changelog
+-Rebased and merged Android  7.1.1_r4
+-Added download provider as a file manager
+-Removed Mk explorer
+-Added new Battery style commits with themeing support
+-Added recents Fab button
+-Added recents free Memory bar
+-Updated ROM Banner 
+-Added DU'sHW Buttons Rebinding
+-Added button Backlight settings
+-Added upstream OMS Commits
+-Added Dynamic Navbar
+-Added HeadsUp Customisation
+-Added Custom Carrier Label
+-Performance Improvement
+-Included our Application for Wallpapers, AEXPapers!
+-More Goodies have been added[/b][/CODE]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
