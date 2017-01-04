@@ -4,4 +4,4 @@
 *Always take at least two reserved posts!
 *Be respectful to users.
 *If any fuss is created report us first.
-*Post Screenshots only in screenshot Tab
+*Post Screenshots only in screenshots section
