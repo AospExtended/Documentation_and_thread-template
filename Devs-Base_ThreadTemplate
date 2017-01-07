@@ -108,7 +108,7 @@
 -Recents Free Ram bar
 -Custom Carrier label
 -Dynamic navbar
-And many more coming in future!
+And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come!
 [/code][/b][/size][/font]
 
 [img]http://i.imgur.com/47WEHUl.png[/img]
@@ -145,23 +145,38 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 
 
 [font=Courier New][size=120][b][code]
-V2.0 Changelog
--Rebased and merged Android  7.1.1_r4
--Added download provider as a file manager
--Removed Mk explorer
--Added new Battery style commits with themeing support
--Added recents Fab button
--Added recents free Memory bar
--Updated ROM Banner 
--Added DU'sHW Buttons Rebinding
--Added button Backlight settings
--Added upstream OMS Commits
--Added Dynamic Navbar
--Added HeadsUp Customisation
--Added Custom Carrier Label
--Performance Improvement
--Included our Application for Wallpapers, AEXPapers!
--More Goodies have been added[/code][/b][/size][/font]
+AospExtended V2.1 #NewYearUpdate Changelog
+-Added Blur UI by XOSP
+-Power Notification Control is back
+-LineageOS Offline charging animation 
+-Added PA Battery 
+-Added AOKP System Animation and Interpolators
+-Navigation Bar Glitch fixed
+-Button Staying on after turning screen off fixed
+-Lockscreen Charging Current added
+-Permanently Hide Apps from Recents 
+-FP Authentication Switch added
+-Toast Animation Control
+-3 Finger Swipe Screenshot 
+-Pixel Sounds
+-Launch Music App on Headset Controls
+-Scrolling Cache Switch
+-Substratum App removed from system, now to use it install it from Play store to avoid further conflicts!
+-Updated PixelUI
+-Added Sound Tile, NFC Tile, Pulse Tile, Ambient Display Tile
+-Added Rotation Options
+-Added BatteryBar
+-Added QS Header Customisations
+-Added In-Call Vibrations
+-Updated Translations
+-Google Assistant Works Out of the Box
+-Fixed Battery QS Tile Size
+-Added About Us
+-OTA Support
+-Updated Banner, Fling Logo
+-Night Mode is back
+-Few More Goodies 
+Special thanks to all contributions made by Users and Developers, on our Github.[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
@@ -216,7 +231,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 -[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
 -[MENTION=5268708]creative21[/MENTION](For Dark Pixel BootAnimation)
 -[MENTION=1255308]SaschaHa[/MENTION](For Slimperience Browser)
--[MENTION=7580472]AlienCreature7[/MENTION](For designing the ROM Logo)[/size][/b][/font]
+-[MENTION=7580472]AlienCreature7[/MENTION] and [MENTION=7772507]Wizper99[/MENTION] (For designing the ROM Logo, Fling etc)[/size][/b][/font]
 
 
 [img]http://i.imgur.com/Y5vOKGE.png[/img]
