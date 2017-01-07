@@ -109,8 +109,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Recents Free Ram bar
 -Custom Carrier label
 -Dynamic navbar
-And many more coming in future!
-And many more coming in future![/B][/CODE]
+And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
 
 [img]http://i.imgur.com/47WEHUl.png[/img]
@@ -146,23 +145,38 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]V2.0 Changelog
--Rebased and merged Android  7.1.1_r4
--Added download provider as a file manager
--Removed Mk explorer
--Added new Battery style commits with themeing support
--Added recents Fab button
--Added recents free Memory bar
--Updated ROM Banner 
--Added DU'sHW Buttons Rebinding
--Added button Backlight settings
--Added upstream OMS Commits
--Added Dynamic Navbar
--Added HeadsUp Customisation
--Added Custom Carrier Label
--Performance Improvement
--Included our Application for Wallpapers, AEXPapers!
--More Goodies have been added[/b][/CODE]
+[CODE][b]AospExtended V2.1 #NewYearUpdate Changelog
+-Added Blur UI by XOSP
+-Power Notification Control is back
+-LineageOS Offline charging animation 
+-Added PA Battery 
+-Added AOKP System Animation and Interpolators
+-Navigation Bar Glitch fixed
+-Button Staying on after turning screen off fixed
+-Lockscreen Charging Current added
+-Permanently Hide Apps from Recents 
+-FP Authentication Switch added
+-Toast Animation Control
+-3 Finger Swipe Screenshot 
+-Pixel Sounds
+-Launch Music App on Headset Controls
+-Scrolling Cache Switch
+-Substratum App removed from system, now to use it install it from Play store to avoid further conflicts!
+-Updated PixelUI
+-Added Sound Tile, NFC Tile, Pulse Tile, Ambient Display Tile
+-Added Rotation Options
+-Added BatteryBar
+-Added QS Header Customisations
+-Added In-Call Vibrations
+-Updated Translations
+-Google Assistant Works Out of the Box
+-Fixed Battery QS Tile Size
+-Added About Us
+-OTA Support
+-Updated Banner, Fling Logo
+-Night Mode is back
+-Few More Goodies 
+Special thanks to all contributions made by Users and Developers, on our Github[/b][/CODE]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
@@ -219,7 +233,7 @@ Thanks to [MENTION=4765089]marko94[/MENTION] and [MENTION=5258037]NVDX11[/MENTIO
 -[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
 -[MENTION=5268708]creative21[/MENTION](For Dark Pixel BootAnimation)
 -[MENTION=1255308]SaschaHa[/MENTION](For Slimperience Browser)
--[MENTION=7580472]AlienCreature7[/MENTION](For designing the ROM Logo)[/SIZE][/B]
+-[MENTION=7580472]AlienCreature7[/MENTION] and [MENTION=7772507]Wizper99[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 
 [img]http://i.imgur.com/Y5vOKGE.png[/img]
