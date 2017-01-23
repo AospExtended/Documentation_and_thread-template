@@ -1,4 +1,4 @@
-Title - [ROM][7.1.1_r9][OFFICIAL] AospExtended ROM V3.0 [OMS/DUI]
+Title - [ROM][7.1.1_r9][OFFICIAL] AospExtended ROM V3.1 [OMS/DUI]
 
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
@@ -148,38 +148,17 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 
 
 [font=Courier New][size=120][b][code]
-AospExtended V3.0 #NewYearUpdate Changelog
--Added Blur UI by XOSP
--Power Notification Control is back
--LineageOS Offline charging animation 
--Added PA Battery 
--Added AOKP System Animation and Interpolators
--Navigation Bar Glitch fixed
--Button Staying on after turning screen off fixed
--Lockscreen Charging Current added
--Permanently Hide Apps from Recents 
--FP Authentication Switch added
--Toast Animation Control
--3 Finger Swipe Screenshot 
--Pixel Sounds
--Launch Music App on Headset Controls
--Scrolling Cache Switch
--Substratum App removed from system, now to use it install it from Play store to avoid further conflicts!
--Updated PixelUI
--Added Sound Tile, NFC Tile, Pulse Tile, Ambient Display Tile
--Added Rotation Options
--Added BatteryBar
--Added QS Header Customisations
--Added In-Call Vibrations
--Updated Translations
--Google Assistant Works Out of the Box
--Fixed Battery QS Tile Size
--Added About Us
--OTA Support
--Updated Banner, Fling Logo
--Night Mode is back
--Few More Goodies 
-Special thanks to all contributions made by Users and Developers, on our Github.[/code][/b][/size][/font]
+AospExtended V3.1 Update
+
+-Omni's QSHeaders Background
+-One Handed UI
+-Notification Intervals
+-Increasing Volume in Ringtone
+-D2S on Navbar
+-Long press Back button  to killapp
+-Dashboard Column configurations
+-Detailed Location QS Tile!
+-Masquerade "Twenty Procyon" (Urgent security patch update for Substratum v560)[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
