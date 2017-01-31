@@ -223,7 +223,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS
 [HIDE][SIZE="3"][B]-[COLOR="Red"]Base Of the  ROM & Version?[/COLOR]
 ->Roms is Based on AOSP
 
--[COLOR="red"]Why no Incremental updates Support?[/COLOR]
+-[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
 ->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide incremental updates and recommend clean flash.
  
  -[COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
