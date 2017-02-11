@@ -33,11 +33,20 @@ Title - [ROM][7.1.1_r9][OFFICIAL] AospExtended ROM V3.1 [OMS/DUI]
 [font=Courier New][size=120][b][code]
 -DUI(Fling/Pulse/Smartbar)
 -Substratum Theme Engine
+-Omni's QSHeaders Background
+-One Handed UI
 -Inbuilt SuperSU
 -Privacy Guard
 -Expanded Desktop
 -Dashboard suggestions/summaries (Enable/Disable)
 -Statusbar Clock/Date customizations
+-Dashboard suggestions/summaries (Enable/Disable)
+-Notification Intervals
+-Increasing Volume in Ringtone
+-D2S on Navbar
+-Long press Back button  to kill app
+-Dashboard Column configurations
+-Detailed Location QS Tile!
 -Statusbar Traffic Indicators
 -Notification count
 -Dt2s on Statusbar
@@ -248,7 +257,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
 
 -[COLOR="red"]Selinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->Nothing related to our ROM.
+->Nothing related to the ROM. Try other things.
  
 -[color=red]I am facing FCs, Bugs,Some feature is broken?[/color]
 ->Provide Full info About your problem with logcats and the procedure to reproduce it.
