@@ -11,3 +11,4 @@
 
 Links:
 [Official Devices](https://github.com/AospExtended/official_devices) | [Download Website](http://downloads.aospextended.com/)
+[Settings, About Us](https://github.com/AospExtended/platform_packages_apps_Settings/edit/7.1.1/res/values/device_maintainers_arrays.xml)
