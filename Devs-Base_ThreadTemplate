@@ -1,4 +1,4 @@
-Title - [ROM][7.1.1_r9][OFFICIAL] AospExtended ROM V3.2 [OMS/DUI]
+Title - [ROM][7.1.1_r9][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
@@ -157,32 +157,16 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 
 
 [font=Courier New][size=120][b][code]
-AospExtended V3.2 Changelog
+AospExtended V3.3 #SurpriseUpdate Changelog:
 
--7.1.1_r22 merge with Feb Security Patch
--Fixed fingerprint scanner issue
--Added toggle for Running Services
--Added Suspend actions feature
--Added ability to restrict WiFi/Data usage
--Fixed many derps
--Updated and vectorized icons
--More improvements
--Fixed setting app's shortcut
--Settings now look like it was on 7.0 settings, rem oved those header elevations
--Fixed number of devices connected in tethering issue
--QS Tile's title visibility toggle
--Fixed FC caused on opening free storage
--Fixed glitches with QS header backgrounds
--Added Scrollable QS tiles
--Unlock with fingerprint after reboot
--Added stock like Volte icon with toggle(Only on Volte supported devices)
--Added Language toggle and Screenrecord QS tiles
--Added scrambled pin layout
--Added network activity arrows with toggle
--Ringtone audio focus
--Optable root (Rootless/SuperSU/MagiskSu) [Depends on maintainer]
--Pixel animation in navbar
--Updated Translations)[/code][/b][/size][/font]
+-Merged March Security Patch
+-New Rootless Substratum and Theme Interface! And latest commits 
+-Advanced Ambient Display feature
+-DT2W on Ambient Display
+-Updated Translations
+-Updated UI Audios (Stock Google)
+-Added few alarm sounds
+-Omni's QS Weather![/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
