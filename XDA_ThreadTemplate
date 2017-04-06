@@ -1,4 +1,4 @@
-Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
+Title - [ROM][7.1.1_r26][OFFICIAL] AospExtended ROM V4.0 [OMS/DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -51,17 +51,17 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Notification count
 -Dt2s on Statusbar
 -QS quick pulldown
--QS Brightness Slider(Enable/Disable)
+-QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
--Force expand notifications(Enable/Disable)
--Immersive Mode messages(Enable/Disable)
+-Force expand notifications (Enable/Disable)
+-Immersive Mode messages (Enable/Disable)
 -Flashlight Notifications
 -Immersive Recents
 -Toast icon
 -MediaScanner behaviour on boot
 -Power Menu Customizations
 -Additional Battery Saver steps
--Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Volume Rocker tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
 -Spanish Translations
 -PT BR Translations
 -Update Fling Logo
@@ -91,9 +91,9 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Status bar clock Seconds
 -Partial ScreenShot Type
 -Screenshot Delay
--Slimperience browser
--Pixel's bootanimation(Experimantal)
--Pixel's UI(Navbar/Accent/Pixel launcher)
+-VIA Browser
+-Phonograph
+-Pixel's UI (Navbar/Accent/Pixel launcher)
 -OMS7
 -Camera sound toggle
 -Advance Ambient Display
@@ -103,8 +103,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Toggle Lockscreen Media Art
 -Toggle Lockscreen music Visualizer
 -Ticker
--Bluetooth QS tile easy toggle(one touch)
--CM's Eleven Music Player
+-Bluetooth QS tile easy toggle
 -Disable QS on Lockscreen
 -Invert Ambient display's Color
 -Toggle Dynamic notification card's color
@@ -115,7 +114,6 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -AEXPapers
 -Heads up customizations
 -DU's HW button rebinding
--Masquerade "Twenty Procyon" (Urgent security patch update for Substratum v560)
 -Button backlight customizations
 -Recents clear all fab button and re-positioning
 -Recents Free Ram bar
@@ -147,7 +145,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 -Install GAPPS package
 -Wipe cache!
 -And at last Reboot!
-[First boot will take few minutes! Keep patience]
+[First boot will take few minutes! p patience]
 Clean Flash is always recommended![/b][/CODE]
 
 
@@ -157,16 +155,56 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended V3.3 #SurpriseUpdate Changelog:
+[CODE][b]AospExtended V4.0 Update Changelog 
 
--Merged March Security Patch
--New Rootless Substratum and Theme Interface! And latest commits 
--Advanced Ambient Display feature
--DT2W on Ambient Display
+-ROM is rebased and done from scratch
+-Fixed USB Tethering in settings
+-Fixed Adaptable Storage [Not tested by us]
+-Fixed Carrier Label Alignment
+-Fixed Only 2G in 2nd Sim Slot in dual sim devices
+-Fixed Various UI Glitches
+-Performance, UI and Battery improvements
 -Updated Translations
--Updated UI Audios (Stock Google)
--Added few alarm sounds
--Omni's QS Weather!
+-Enable/Disable DND during calls
+-Removed Privacy Guard and added AppOps
+-Simplified Ticker
+-Added Slim Recents
+-Status Bar Weather
+-Fixed Crash issue in storage manager app
+-Update interfacer
+-Add Missing OMS stuff
+-Update Our Default Wall
+-Remove FP Settings on a Non-FP device
+-Enable/Disable Power Menu on lockscreen
+-Dynamic Location Tile
+-Compass tile
+-CPU Info
+-Alarms Blocker
+-Clock Date Customisations
+-Removed CM 11 Music player
+-Added Phonograph
+-More Rounded Icons
+-Removed Slimperience
+-Added Via Browser
+-Imgur Gallery (Settings > About Us) is now supported and all AEXPapers will shift there. App will no longer be updated
+-Fixed that lag in AEXPapers too
+-Bluetooth Headset Battery Level in statusbar
+-Alarms Blocker
+-On The Go Mode
+-Clock and Date Customisations
+-Make Roaming Icon Conditional
+-Screenshot crop and share
+-More DUI Customisations
+-Add Dash Charging support for OnePlus 3/3T
+-Fixed Partial screenshot bugs
+-Improve Stock Bootanimation
+-Battery Status on ambient display
+-Updated SnapdragonCamera with various fixes
+-And Many more
+
+Note: We haven't merged April Patch yet because it's a 7.1.2 merge and it will take time for us to fully test everything. It may break few stuff in different devices, hence this release. Please be patient about it and don't spam us with this question.
+
+Builds will be up on our official website when it's ready so don't ask for ETA.
 [/b][/CODE]
 
 
@@ -218,6 +256,8 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS
 -AOSiP
 -OmniROM
 -GZR Community
+-Lakor Tools for Via Browser
+-Kabou Zeid for Phonograph
 -[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
 -[MENTION=6519039]jhenrique09 [/MENTION](PT BR Translation)
 -[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
@@ -261,8 +301,8 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS
 -[COLOR="red"]Adaway is not working :([/COLOR]
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
 
--[COLOR="red"]Selinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->Nothing related to the ROM. Try other things.
+-[COLOR="red"]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
+->It is everything good with the sources. You should try other things first and then contact your maintainer.
 
 -[COLOR="red"]I want to contribute To the Development of this ROM?[/COLOR]
 ->Join our G+ community:
