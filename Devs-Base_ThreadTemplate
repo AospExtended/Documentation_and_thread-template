@@ -1,4 +1,4 @@
-Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
+Title - [ROM][7.1.1_r26][OFFICIAL] AospExtended ROM V4.0 [OMS/DUI]
 
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
@@ -31,7 +31,7 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 
 
 [font=Courier New][size=120][b][code]
--DUI(Fling/Pulse/Smartbar)
+-DUI (Fling/Pulse/Smartbar)
 -Substratum Theme Engine
 -Omni's QSHeaders Background
 -One Handed UI
@@ -49,19 +49,19 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
 -Notification count
--Dt2s on Statusbar
+-D2S on Statusbar
 -QS quick pulldown
--QS Brightness Slider(Enable/Disable)
+-QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
--Force expand notifications(Enable/Disable)
--Immersive Mode messages(Enable/Disable)
+-Force expand notifications (Enable/Disable)
+-Immersive Mode messages (Enable/Disable)
 -Flashlight Notifications
 -Immersive Recents
 -Toast icon
 -MediaScanner behaviour on boot
 -Power Menu Customizations
 -Additional Battery Saver steps
--Volume Rocker tweaks(Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Volume Rocker tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
 -Spanish Translations
 -PT BR Translations
 -Update Fling Logo
@@ -73,7 +73,6 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 -Clickable clock and date in statusbar header
 -Long press gear icon in statusbar header launches Extensions
 -Show 4G instead LTE switch
--Night Mode is back
 -Night Mode QS Tile
 -Long press caffeine tile action
 -Customize QS Rows/Columns
@@ -83,7 +82,6 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 -Double tap on lockscreen to sleep
 -Quick Unlock for PIN/Password
 -Battery Styles and percentage
--Change default file manager to MK Explorer
 -Add FMRadio
 -Navbar QS Tile
 -Flip Button Animation
@@ -92,9 +90,7 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 -Partial ScreenShot Type
 -Screenshot Delay
 -Slimperience browser
--Pixel's bootanimation(Experimantal)
--Pixel's UI(Navbar/Accent/Pixel launcher)
--OMS7
+-Pixel's UI (Navbar/Accent/Pixel launcher)
 -Camera sound toggle
 -Advance Ambient Display
 -Longpress power button on lockscreen for torch
@@ -103,8 +99,8 @@ Title - [ROM][7.1.1_r25][OFFICIAL] AospExtended ROM V3.3 [OMS/DUI]
 -Toggle Lockscreen Media Art
 -Toggle Lockscreen music Visualizer
 -Ticker
--Bluetooth QS tile easy toggle(one touch)
--CM's Eleven Music Player
+-VIA  Browser
+-Bluetooth QS tile easy toggle
 -Disable QS on Lockscreen
 -Invert Ambient display's Color
 -Toggle Dynamic notification card's color
@@ -146,7 +142,7 @@ Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
 -Install GAPPS package
 -Wipe cache!
 -And at last Reboot!
-[First boot will take few minutes! Keep patience]
+[First boot will take few minutes! Have patience]
 Clean Flash is always recommended![/code][/b][/size][/font]
 
 
@@ -156,17 +152,56 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 [font=Courier New][size=120][b]Monitor the changelog here![/b][/size][/font]
 
 
-[font=Courier New][size=120][b][code]
-AospExtended V3.3 #SurpriseUpdate Changelog:
+[font=Courier New][size=120][b][code]AospExtended V4.0 Update Changelog 
 
--Merged March Security Patch
--New Rootless Substratum and Theme Interface! And latest commits 
--Advanced Ambient Display feature
--DT2W on Ambient Display
+-ROM is rebased and done from scratch
+-Fixed USB Tethering in settings
+-Fixed Adaptable Storage [Not tested by us]
+-Fixed Carrier Label Alignment
+-Fixed Only 2G in 2nd Sim Slot in dual sim devices
+-Fixed Various UI Glitches
+-Performance, UI and Battery improvements
 -Updated Translations
--Updated UI Audios (Stock Google)
--Added few alarm sounds
--Omni's QS Weather![/code][/b][/size][/font]
+-Enable/Disable DND during calls
+-Removed Privacy Guard and added AppOps
+-Simplified Ticker
+-Added Slim Recents
+-Status Bar Weather
+-Fixed Crash issue in storage manager app
+-Update interfacer
+-Add Missing OMS stuff
+-Update Our Default Wall
+-Remove FP Settings on a Non-FP device
+-Enable/Disable Power Menu on lockscreen
+-Dynamic Location Tile
+-Compass tile
+-CPU Info
+-Alarms Blocker
+-Clock Date Customisations
+-Removed CM 11 Music player
+-Added Phonograph
+-More Rounded Icons
+-Removed Slimperience
+-Added Via Browser
+-Imgur Gallery (Settings > About Us) is now supported and all AEXPapers will shift there. App will no longer be updated
+-Fixed that lag in AEXPapers too
+-Bluetooth Headset Battery Level in statusbar
+-Alarms Blocker
+-On The Go Mode
+-Clock and Date Customisations
+-Make Roaming Icon Conditional
+-Screenshot crop and share
+-More DUI Customisations
+-Add Dash Charging support for OnePlus 3/3T
+-Fixed Partial screenshot bugs
+-Improve Stock Bootanimation
+-Battery Status on ambient display
+-Updated SnapdragonCamera with various fixes
+-And Many more
+
+Note: We haven't merged April Patch yet because it's a 7.1.2 merge and it will take time for us to fully test everything. It may break few stuff in different devices, hence this release. Please be patient about it and don't spam us with this question.
+
+Builds will be up on our official website when it's ready so don't ask for ETA.[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
@@ -218,6 +253,8 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 -AOSiP
 -OmniROM
 -GZR Community
+-Lakor Tools for Via Browser
+-Kabou Zeid for Phonograph
 -[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
 -[MENTION=6519039]jhenrique09 [/MENTION](PT BR Translation)
 -[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
@@ -257,10 +294,10 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 -[COLOR="red"]Adaway is not working :([/COLOR]
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
 
--[COLOR="red"]Selinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->Nothing related to the ROM. Try other things.
+-[COLOR="red"]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
+->It is everything good with the sources. You should try other things first and then contact your maintainer.
  
--[color=red]I am facing FCs, Bugs,Some feature is broken?[/color]
+-[color=red]I am facing FCs, Bugs, Some feature is broken?[/color]
 ->Provide Full info About your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
    [url]https://goo.gl/UcTM9[/url]
