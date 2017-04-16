@@ -1,4 +1,4 @@
-Title - [ROM][7.1.1_r26][OFFICIAL] AospExtended ROM V4.0 [OMS/DUI]
+Title - [ROM][7.1.2_r4][OFFICIAL] AospExtended ROM V4.1 [OMS/DUI]
 
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
@@ -127,7 +127,7 @@ Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
 [url=http://downloads.aospextended.com/][font=Courier New][size=150][glow=RoyalBlue][b]DEVICE NAME[/b][/glow][/size][/font][/url]
 
 [font=Courier New][size=120][color=YellowGreen][b]Google Apps[/b][/color][/size][/font]
-[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=http://downloads.aospextended.com/gapps/][b][font=Courier New][size=150]DynamicGApps[/size][/font][/b][/url]
+[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=http://downloads.aospextended.com/gapps/][b][font=Courier New][size=150]BeansGApps[/size][/font][/b][/url]
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
@@ -152,56 +152,16 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 [font=Courier New][size=120][b]Monitor the changelog here![/b][/size][/font]
 
 
-[font=Courier New][size=120][b][code]AospExtended V4.0 Update Changelog 
+[font=Courier New][size=120][b][code]AospExtended V4.1 Update Changelog 
 
--ROM is rebased and done from scratch
--Fixed USB Tethering in settings
--Fixed Adaptable Storage [Not tested by us]
--Fixed Carrier Label Alignment
--Fixed Only 2G in 2nd Sim Slot in dual sim devices
--Fixed Various UI Glitches
--Performance, UI and Battery improvements
--Updated Translations
--Enable/Disable DND during calls
--Removed Privacy Guard and added AppOps
--Simplified Ticker
--Added Slim Recents
--Status Bar Weather
--Fixed Crash issue in storage manager app
--Update interfacer
--Add Missing OMS stuff
--Update Our Default Wall
--Remove FP Settings on a Non-FP device
--Enable/Disable Power Menu on lockscreen
--Dynamic Location Tile
--Compass tile
--CPU Info
--Alarms Blocker
--Clock Date Customisations
--Removed CM 11 Music player
--Added Phonograph
--More Rounded Icons
--Removed Slimperience
--Added Via Browser
--Imgur Gallery (Settings > About Us) is now supported and all AEXPapers will shift there. App will no longer be updated
--Fixed that lag in AEXPapers too
--Bluetooth Headset Battery Level in statusbar
--Alarms Blocker
--On The Go Mode
--Clock and Date Customisations
--Make Roaming Icon Conditional
--Screenshot crop and share
--More DUI Customisations
--Add Dash Charging support for OnePlus 3/3T
--Fixed Partial screenshot bugs
--Improve Stock Bootanimation
--Battery Status on ambient display
--Updated SnapdragonCamera with various fixes
--And Many more
-
-Note: We haven't merged April Patch yet because it's a 7.1.2 merge and it will take time for us to fully test everything. It may break few stuff in different devices, hence this release. Please be patient about it and don't spam us with this question.
-
-Builds will be up on our official website when it's ready so don't ask for ETA.[/code][/b][/size][/font]
+-Merged 7.1.2_r4 with April security patch
+-Ticker option for music track change
+-Updated roaming icon hide, for new roaming logo in 7.1.2 update
+-Force dialer headsup notification
+-Removed inbuilt Email app
+-Seperate Battery style for status bar and QS Tile
+-Etc
+[/code][/b][/size][/font]
 
 
 [img]http://i.imgur.com/WcLe541.png[/img]
