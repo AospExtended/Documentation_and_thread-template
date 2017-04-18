@@ -35,8 +35,7 @@ Title - [ROM][7.1.2_r4][OFFICIAL] AospExtended ROM V4.1 [OMS/DUI]
 -Substratum Theme Engine
 -Omni's QSHeaders Background
 -One Handed UI
--Inbuilt SuperSU
--Privacy Guard
+-AppOps
 -Expanded Desktop
 -Dashboard suggestions/summaries (Enable/Disable)
 -Statusbar Clock/Date customizations
@@ -89,7 +88,6 @@ Title - [ROM][7.1.2_r4][OFFICIAL] AospExtended ROM V4.1 [OMS/DUI]
 -Status bar clock Seconds
 -Partial ScreenShot Type
 -Screenshot Delay
--Slimperience browser
 -Pixel's UI (Navbar/Accent/Pixel launcher)
 -Camera sound toggle
 -Advance Ambient Display
@@ -107,7 +105,7 @@ Title - [ROM][7.1.2_r4][OFFICIAL] AospExtended ROM V4.1 [OMS/DUI]
 -Low Battery Notification Toggle
 -Hide Clock/Date/Alarm text from lockscreen
 -Lockscreen Clock's Font customizations
--Weather on lockscree
+-Weather on lockscreen
 -AEXPapers
 -Heads up customizations
 -DU's HW button rebinding
@@ -240,7 +238,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
  
 -[color=Red]Which Gapps are recommended?[/color]
 ->OpenGapps or
-->DynamicGapps
+->BeansGApps
  
 -[color=Red]What about XPOSED?[/color]
 ->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
