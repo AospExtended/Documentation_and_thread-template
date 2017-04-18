@@ -36,8 +36,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Substratum Theme Engine
 -Omni's QSHeaders Background
 -One Handed UI
--Inbuilt SuperSU
--Privacy Guard
+-AppOps
 -Expanded Desktop
 -Statusbar Clock/Date customizations
 -Dashboard suggestions/summaries (Enable/Disable)
@@ -107,7 +106,7 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Low Battery Notification Toggle
 -Hide Clock/Date/Alarm text from lockscreen
 -Lockscreen Clock's Font customizations
--Weather on lockscree
+-Weather on lockscreen
 -AEXPapers
 -Heads up customizations
 -DU's HW button rebinding
@@ -240,7 +239,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
   
 -[COLOR="Red"]Which Gapps are recommended?[/COLOR]
 ->OpenGapps or
-->DynamicGapps
+->BeansGApps
     
 -[COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
 ->No.
