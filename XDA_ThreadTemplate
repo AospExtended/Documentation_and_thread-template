@@ -1,4 +1,4 @@
-Title - [ROM][7.1.2_r4][OFFICIAL] AospExtended ROM V4.1 [OMS/DUI]
+Title - [ROM][7.1.2_r8][OFFICIAL] AospExtended ROM V4.2 [OMS/DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -151,15 +151,40 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended V4.1 Update Changelog 
+[CODE][b]AospExtended V4.2 May Update
 
--Merged 7.1.2_r4 with April security patch
--Ticker option for music track change
--Updated roaming icon hide, for new roaming logo in 7.1.2 update
--Force dialer headsup notification
--Removed inbuilt Email app
--Seperate Battery style for status bar and QS Tile
--Etc
+-Merged May Patch 7.1.2_r8 
+-Updated Packages and Translations
+-Updated pre-built APKs
+-AEXPapers is back
+-New AEX OTA
+-Droped Lock Clock
+-Switched to OmniJaws
+-CAF Sound Recorder
+-Keyguard Status Bar clock and Weather
+-Nav Bar Button Tint
+-Improve​d Screen Pinning
+-SystemUI Restart
+-Updated Sounds
+-Processor Info in about phone
+-Kernel Enforcing and Permissive info in about phone
+-Fixed Gap after removing QSTiles
+-Custom settings for Power Plug Disconnect and Connect
+-Tile for HW keys Enable/Disable
+-Center lockscreen shortcuts
+-Removed stausbar Ticker fade animation
+-Fixed Swaped nightlight brightness
+-Extensions QS Tile
+-System App Remover
+-Grid Recents UI 
+-Update OMS Commits
+-Fixed mismatched fonts in Lockscreen Status Bar Clock
+-Updated MusicFX with DSP Modes 
+-Fixed Bluetooth Receiving issue
+-Performance enchancements and bug fixes 
+
+Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. Remove any kind of security PINs/Password and Fingerprints before flashing this build.
+AEXPapers will be updated from our server side and shortly all walls will be added. We are a little busy now.
 
 
 [/b][/CODE]
@@ -180,7 +205,7 @@ Please Join Our [URL="https://plus.google.com/u/0/communities/106726906578669931
 [img]http://i.imgur.com/wxV7wmi.png[/img]
 
 
-[B][SIZE="4"][COLOR="Black"]AEXPapers will no longer be updated because it takes lot of time and effort to maintain our App. We have moved all our walls to our [URL="aospextended.imgur.com"]ImgurGallery.[/URL] All sort of contributions are welcomed. You can post your walls in our G+ community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and communitiy. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Black"] All sort of contributions are welcomed. You can post your walls in our G+ community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and communitiy. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
 
 
 
