@@ -253,7 +253,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 [font=Courier New][b][size=140][color=DarkOrange]I guess there is nothing wrong in reading facts![/color][/size][/b]
 
 [hide][size=120][b]-[color=Red]Base Of the  ROM & Version?[/color]
-->Roms is Based on AOSP
+->Rom is Based on AOSP
 
 -[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
 ->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide incremental updates and recommend clean flash.
@@ -279,7 +279,7 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
 
 -[COLOR="red"]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->It is everything good with the sources. You should try other things first and then contact your maintainer.
+->Everything is good with the sources. You should try other things first and then contact your maintainer.
  
 -[color=red]I am facing FCs, Bugs, Some feature is broken?[/color]
 ->Provide Full info About your problem with logcats and the procedure to reproduce it.
