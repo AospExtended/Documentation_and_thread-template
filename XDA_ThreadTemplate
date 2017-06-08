@@ -1,4 +1,4 @@
-Title - [ROM][7.1.2_r8][OFFICIAL] AospExtended ROM V4.2 [OMS/DUI]
+Title - [ROM][7.1.2_r17][OFFICIAL] AospExtended ROM V4.3 [OMS/DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -36,6 +36,8 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Substratum Theme Engine
 -Omni's QSHeaders Background
 -One Handed UI
+-MicroG
+-Grid Recents UI
 -AppOps
 -Expanded Desktop
 -Statusbar Clock/Date customizations
@@ -151,40 +153,38 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended V4.2 May Update
+[CODE][b]AospExtended V4.3 June Update
 
--Merged May Patch 7.1.2_r8 
--Updated Packages and Translations
--Updated pre-built APKs
--AEXPapers is back
--New AEX OTA
--Droped Lock Clock
--Switched to OmniJaws
--CAF Sound Recorder
--Keyguard Status Bar clock and Weather
--Nav Bar Button Tint
--Improve​d Screen Pinning
--SystemUI Restart
--Updated Sounds
--Processor Info in about phone
--Kernel Enforcing and Permissive info in about phone
--Fixed Gap after removing QSTiles
--Custom settings for Power Plug Disconnect and Connect
--Tile for HW keys Enable/Disable
--Center lockscreen shortcuts
--Removed stausbar Ticker fade animation
--Fixed Swaped nightlight brightness
--Extensions QS Tile
--System App Remover
--Grid Recents UI 
--Update OMS Commits
--Fixed mismatched fonts in Lockscreen Status Bar Clock
--Updated MusicFX with DSP Modes 
--Fixed Bluetooth Receiving issue
--Performance enchancements and bug fixes 
+-June security patch 7.1.2_r17 merge
+-Remove pixel icons
+-Add MicroG support
+-Improve AEX settings header
+-Add AEX platlogo
+-Add AEX settings drawer header
+-Add new #BeExtended headers
+-Fix battery icon theming
+-Update OMS commits
+-Rootless SystemUI restart
+-Use more vectorized icon
+-Add lockscreen pattern grid size
+-Screen pinning option in Grid recents UI
+-Recents task locking
+-Fix navigation bar always showing on the left
+-Fix various NPEs
+-Add AOSPA Optimisations
+-Add Xbox key layout
+-Volume key cursor control
+-Option to enable/disable home key during incoming call
+-Improve expanded desktop QS tile
+-Add support for sensitive numbers
+-Silent mode is back
+-Update pre-built APKs
+-Update all packages
+-Update translations
+-Performance enhancements and bug fixes
 
-Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. Remove any kind of security PINs/Password and Fingerprints before flashing this build.
-AEXPapers will be updated from our server side and shortly all walls will be added. We are a little busy now.
+Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
+Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
 
 [/b][/CODE]
