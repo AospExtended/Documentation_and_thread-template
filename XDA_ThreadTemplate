@@ -15,7 +15,7 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
  */[/CODE]
 
 [SIZE="3"][B]
-Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
+Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
 
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
@@ -40,83 +40,80 @@ Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's cons
 -Grid Recents UI
 -AppOps
 -Expanded Desktop
--Statusbar Clock/Date customizations
--Dashboard suggestions/summaries (Enable/Disable)
+-Statusbar Clock/Date Customizations
+-Dashboard Suggestions/Summaries (Enable/Disable)
 -Notification Intervals
 -Increasing Volume in Ringtone
--D2S on Navbar
--Long press Back button  to kill app
--Dashboard Column configurations
+-D2S On Navbar
+-Long Press Back button  to Kill App
+-Dashboard Column Configurations
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
--Notification count
--Dt2s on Statusbar
--QS quick pulldown
+-Notification Count
+-DT2s On Statusbar
+-QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
--Force expand notifications (Enable/Disable)
+-Force Expand Notifications (Enable/Disable)
 -Immersive Mode messages (Enable/Disable)
 -Flashlight Notifications
 -Immersive Recents
--Toast icon
--MediaScanner behaviour on boot
+-Toast Icon
+-MediaScanner Behaviour On Boot
 -Power Menu Customizations
 -Additional Battery Saver steps
--Volume Rocker tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
--Spanish Translations
--PT BR Translations
--Update Fling Logo
--Add gestures back to settings app
--QS haptic feedback
--One tap data & Wifi tile
--Auto brightness icon toggle
+-Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Add Gestures Back to Settings App
+-QS Haptic Feedback
+-One Tap Data & Wifi Tile
+-Auto Brightness Icon Toggle
 -Breathing Notifications
--Clickable clock and date in statusbar header
--Long press gear icon in statusbar header launches Extensions
+-Clickable Clock and Date in Statusbar Header
+-Long Press Gear Icon in Statusbar Header Launches Extensions
 -Show 4G instead LTE switch
 -Night Mode QS Tile
--Long press caffeine tile action
+-Long press Caffeine Tile Action
 -Customize QS Rows/Columns
 -Customize small QS Tiles
--StatusBar brightness control
+-StatusBar Brightness Control
 -Lockscreen Shortcut
--Double tap on lockscreen to sleep
+-Double Tap on Lockscreen to Sleep
 -Quick Unlock for PIN/Password
--Battery Styles and percentage
--Add FMRadio
+-Battery Styles and Percentage
+-FMRadio
 -Navbar QS Tile
 -Flip Button Animation
--Unlink Notification volume
--Status bar clock Seconds
--Partial ScreenShot Type
+-Unlink Notification Volume
+-Status bar Clock Seconds
+-Partial Screenshot Type
 -Screenshot Delay
 -VIA Browser
 -Phonograph
 -Pixel's UI (Navbar/Accent/Pixel launcher)
--Camera sound toggle
+-Camera Sound Toggle
 -Advance Ambient Display
--Longpress power button on lockscreen for torch
+-Longpress Power Button on Lockscreen for Torch
 -Disable FC
 -Wakelock Blocker
 -Toggle Lockscreen Media Art
--Toggle Lockscreen music Visualizer
+-Toggle Lockscreen Music Visualizer
 -Ticker
--Bluetooth QS tile easy toggle
+-Bluetooth QS Tile Easy Toggle
 -Disable QS on Lockscreen
--Invert Ambient display's Color
--Toggle Dynamic notification card's color
+-Invert Ambient Display's Color
+-Toggle Dynamic Notification Card's Color
 -Low Battery Notification Toggle
--Hide Clock/Date/Alarm text from lockscreen
--Lockscreen Clock's Font customizations
--Weather on lockscreen
+-Hide Clock/Date/Alarm Text from Lockscreen
+-Lockscreen Clock's Font Customizations
+-Weather on Lockscreen
 -AEXPapers
--Heads up customizations
--DU's HW button rebinding
--Button backlight customizations
--Recents clear all fab button and re-positioning
+-Heads up Customizations
+-DU's HW Button Rebinding
+-Button Backlight Customizations
+-Recents Clear All FAB button and Re-positioning
 -Recents Free Ram bar
 -Custom Carrier label
--Dynamic navbar
+-Dynamic Navbar
 And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
 
@@ -265,13 +262,13 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 [B][SIZE="4"][COLOR="DarkOrange"]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
 
 [HIDE][SIZE="3"][B]-[COLOR="Red"]Base Of the  ROM & Version?[/COLOR]
-->Rom is Based on AOSP
+->Rom is based on AOSP
 
 -[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
 ->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide incremental updates and recommend clean flash.
  
  -[COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
-->Yes, full substratum support!
+->Yes, full Substratum support!
   
 -[COLOR="Red"]Which Gapps are recommended?[/COLOR]
 ->OpenGapps or
@@ -281,13 +278,13 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ->No.
  
 -[COLOR="Red"]What about XPOSED?[/COLOR]
-->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+->XPOSED For N is not out yet. Still in development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
   
 -[COLOR="red"]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready. We generally provide monthly updates with latest security patches and new features.
  
 -[COLOR="red"]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
-->Provide Full info About your problem with logcats and the procedure to reproduce it.
+->Provide full info about your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
    [url]https://goo.gl/UcTM9[/url]
  
@@ -297,11 +294,11 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[COLOR="red"]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
 ->Everything is good with the sources. You should try other things first and then contact your maintainer.
 
--[COLOR="red"]You want to contribute To the development of this ROM?[/COLOR]
+-[COLOR="red"]I want to contribute to the development of this ROM.[/COLOR]
 ->Join our [URL="https://plus.google.com/u/0/communities/106726906578669931141"][COLOR="Red"]Google+ community[/COLOR][/URL]
 ->Join our [URL="https://telegram.me/aospextendedgroup"][COLOR="RoyalBlue"]Telegram group chat[/COLOR][/URL]
 
--[COLOR="red"]You want to contribute to the translation of this ROM?[/COLOR]
+-[COLOR="red"]I want to contribute to the translation of this ROM.[/COLOR]
 ->Visit our [URL="http://translate.aospextended.com/"][COLOR="Green"]Crowdin[/COLOR][/URL]
 [/B][/SIZE]
  
