@@ -1,4 +1,4 @@
-Title - [ROM][7.1.2_r17][OFFICIAL] AospExtended ROM V4.3 [OMS/DUI]
+Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -153,35 +153,45 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended V4.3 June Update
+[CODE][b]AospExtended 4.4 July Update
 
--June security patch 7.1.2_r17 merge
--Remove pixel icons
--Add MicroG support
--Improve AEX settings header
--Add AEX platlogo
--Add AEX settings drawer header
--Add new #BeExtended headers
--Fix battery icon theming
--Update OMS commits
--Rootless SystemUI restart
--Use more vectorized icon
--Add lockscreen pattern grid size
--Screen pinning option in Grid recents UI
--Recents task locking
--Fix navigation bar always showing on the left
+-Merge July security patch
+-Merge upstream commits from CAF
+-Fix launch of music player on headset connect after reboot
+-Music player on headset connect: Add bluetooth compatibility
+-Add safe headset volume option
+-Optimise HWUI
+-Switch to Chromium webview
+-Fix wrong peek height of notification panel
+-Speed up fingerprint wakeup and unlock scenario
+-Fix camera shutter sound toggle
+-Fix many random crashes
+-Add HW home button wake
+-Improve night mode
+-Improve QS tiles
+-Add ADB Over Network support and QS tile
+-Fix network arrows not showing when data save was enabled
 -Fix various NPEs
--Add AOSPA Optimisations
--Add Xbox key layout
--Volume key cursor control
--Option to enable/disable home key during incoming call
--Improve expanded desktop QS tile
--Add support for sensitive numbers
--Silent mode is back
--Update pre-built APKs
--Update all packages
--Update translations
--Performance enhancements and bug fixes
+-Fix memory leaks and errors
+-Switch to Launcer3 (Pixel UI + Icon pack support)
+-Change internal shared storage icon progress bar accent
+-Add boot option in AppOps
+-Add new smart bar icons
+-Add left navigation bar pulse support
+-Fix memory corruption on sound trigger
+-Option to display disabled data indicator icons
+-Add option to enable button backlight only when the button is pressed
+-Set GBoard theme to pixel by default
+-AEX OTA is completely themable now
+-Add support for Crowdin
+-Fix icon themeing on Valerie and few more themes
+-Fix hiding of developer options
+-Fix smartbar DPI updation
+-Update all translations
+-Update all pre-built packages
+-Update AEXPapers
+-Update all source-built packages
+-Bug fixes and performance improvements
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
