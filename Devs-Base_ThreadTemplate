@@ -3,7 +3,7 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
 [font=Courier New][size=130][align=left][code]
-/*
+/* 
  * Your warranty is now void.
  *
  * I am not responsible for bricked devices, dead SD cards,
@@ -14,7 +14,7 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
  */
 [/code][/align][/size][/font]
 
-[align=center][font=Courier New][size=120][b][glow=#BF0000][quote]Read the whole OP! Be Respectful to each other and don't ask for ETAs, it's considered as being rude![/quote][/glow][/b][/size][/font]
+[align=center][font=Courier New][size=120][b][glow=#BF0000][quote]Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/quote][/glow][/b][/size][/font]
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
@@ -26,12 +26,11 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
 [img]http://i.imgur.com/Np7jfnY.png[/img]
 
 
-[font=Courier New][size=130][b]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are contsantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, head on to our G+ community and post the list of features that you want! Features with commits will be more helpful![/b][/size][/font]
-
+[font=Courier New][size=130][b]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We are not thinking of cherry-picking every feature out there. Our aim is to add important features that we think should be here and also what you think. For addition of more tweaks or features, head on to our G+ community and post the list of features that you want! Features with commits will be more helpful![/b][/size][/font]
 
 
 [font=Courier New][size=120][b][code]
--DUI (Fling/Pulse/Smartbar)
+-DUI(Fling/Pulse/Smartbar)
 -Substratum Theme Engine
 -Omni's QSHeaders Background
 -One Handed UI
@@ -39,83 +38,80 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
 -Grid Recents UI
 -AppOps
 -Expanded Desktop
--Dashboard suggestions/summaries (Enable/Disable)
--Statusbar Clock/Date customizations
--Dashboard suggestions/summaries (Enable/Disable)
+-Statusbar Clock/Date Customizations
+-Dashboard Suggestions/Summaries (Enable/Disable)
 -Notification Intervals
 -Increasing Volume in Ringtone
--D2S on Navbar
--Long press Back button  to kill app
--Dashboard Column configurations
+-D2S On Navbar
+-Long Press Back button  to Kill App
+-Dashboard Column Configurations
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
--Notification count
--D2S on Statusbar
--QS quick pulldown
+-Notification Count
+-DT2s On Statusbar
+-QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
--Force expand notifications (Enable/Disable)
+-Force Expand Notifications (Enable/Disable)
 -Immersive Mode messages (Enable/Disable)
 -Flashlight Notifications
 -Immersive Recents
--Toast icon
--MediaScanner behaviour on boot
+-Toast Icon
+-MediaScanner Behaviour On Boot
 -Power Menu Customizations
 -Additional Battery Saver steps
--Volume Rocker tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
--Spanish Translations
--PT BR Translations
--Update Fling Logo
--Add gestures back to settings app
--QS haptic feedback
--One tap data & Wifi tile
--Auto brightness icon toggle
+-Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Add Gestures Back to Settings App
+-QS Haptic Feedback
+-One Tap Data & Wifi Tile
+-Auto Brightness Icon Toggle
 -Breathing Notifications
--Clickable clock and date in statusbar header
--Long press gear icon in statusbar header launches Extensions
+-Clickable Clock and Date in Statusbar Header
+-Long Press Gear Icon in Statusbar Header Launches Extensions
 -Show 4G instead LTE switch
 -Night Mode QS Tile
--Long press caffeine tile action
+-Long press Caffeine Tile Action
 -Customize QS Rows/Columns
 -Customize small QS Tiles
--StatusBar brightness control
+-StatusBar Brightness Control
 -Lockscreen Shortcut
--Double tap on lockscreen to sleep
+-Double Tap on Lockscreen to Sleep
 -Quick Unlock for PIN/Password
--Battery Styles and percentage
--Add FMRadio
+-Battery Styles and Percentage
+-FMRadio
 -Navbar QS Tile
 -Flip Button Animation
--Unlink Notification volume
--Status bar clock Seconds
--Partial ScreenShot Type
+-Unlink Notification Volume
+-Status bar Clock Seconds
+-Partial Screenshot Type
 -Screenshot Delay
+-VIA Browser
+-Phonograph
 -Pixel's UI (Navbar/Accent/Pixel launcher)
--Camera sound toggle
+-Camera Sound Toggle
 -Advance Ambient Display
--Longpress power button on lockscreen for torch
+-Longpress Power Button on Lockscreen for Torch
 -Disable FC
 -Wakelock Blocker
 -Toggle Lockscreen Media Art
--Toggle Lockscreen music Visualizer
+-Toggle Lockscreen Music Visualizer
 -Ticker
--VIA  Browser
--Bluetooth QS tile easy toggle
+-Bluetooth QS Tile Easy Toggle
 -Disable QS on Lockscreen
--Invert Ambient display's Color
--Toggle Dynamic notification card's color
+-Invert Ambient Display's Color
+-Toggle Dynamic Notification Card's Color
 -Low Battery Notification Toggle
--Hide Clock/Date/Alarm text from lockscreen
--Lockscreen Clock's Font customizations
--Weather on lockscreen
+-Hide Clock/Date/Alarm Text from Lockscreen
+-Lockscreen Clock's Font Customizations
+-Weather on Lockscreen
 -AEXPapers
--Heads up customizations
--DU's HW button rebinding
--Button backlight customizations
--Recents clear all fab button and re-positioning
+-Heads up Customizations
+-DU's HW Button Rebinding
+-Button Backlight Customizations
+-Recents Clear All FAB button and Re-positioning
 -Recents Free Ram bar
 -Custom Carrier label
--Dynamic navbar
+-Dynamic Navbar
 And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come!
 [/code][/b][/size][/font]
 
@@ -134,11 +130,10 @@ Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
 
 [b][size=120]Want to try this awesomeness?[/size][/b]
 
-
 [font=Courier New][size=120][b][code]-Download the ROM and GApps of your choice
 -Backup each and every partition from TWRP Recovery
 -Make a full wipe (system, data, cache, dalvik)
--Install AEX Package
+-Flash AEX Package
 -Install GAPPS package
 -Wipe cache!
 -And at last Reboot!
@@ -192,7 +187,7 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 -Update all source-built packages
 -Bug fixes and performance improvements
 
-Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed.
+Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
 [/code][/b][/size][/font]
@@ -202,15 +197,12 @@ Remove any kind of security PINs/Password and Fingerprints before flashing this 
 
 [font=Courier New][size=150][b][glow=Red]If you want any bug to be fixed please write here on devs-base in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/glow][/b][/size][/font]
 
-[font=Courier New][size=120][b]
-* BUGS HERE
-[/b][/size][/font]
 
 [img]http://i.imgur.com/zf0kMgF.png[/img]
 
-
 [font=Courier New][size=120][b]
-Please Join Our [url=https://plus.google.com/u/0/communities/106726906578669931141][glow=Red]Google+ Community[/glow][/url] and Subscribe to our [url=https://telegram.me/aospextended][glow=RoyalBlue]Telegram Channel.[/glow][/url]Also join our [url=https://telegram.me/aospextendedgroup][glow=RoyalBlue]Telegram Group Chat![/glow][/url][/b][/size][/font]
+Please Join Our [url=https://plus.google.com/u/0/communities/106726906578669931141][COLOR=Red]Google+ Community[/COLOR][/url] and Subscribe to our [url=https://telegram.me/aospextended][COLOR=RoyalBlue]Telegram Channel.[/COLOR][/url]Also join our [url=https://telegram.me/aospextendedgroup][COLOR=RoyalBlue]Telegram Group Chat![/COLOR][/url]
+Do you want to translate to your language? Visit our [URL="http://translate.aospextended.com/"][COLOR=Green]Crowdin[/COLOR][/url][/b][/size][/font]
 
 
 [img]http://i.imgur.com/wxV7wmi.png[/img]
@@ -262,43 +254,45 @@ Please Join Our [url=https://plus.google.com/u/0/communities/1067269065786699311
 
 [font=Courier New][b][size=140][color=DarkOrange]I guess there is nothing wrong in reading facts![/color][/size][/b]
 
-[hide][size=120][b]-[color=Red]Base Of the  ROM & Version?[/color]
-->Rom is Based on AOSP
+[hide][size=120][b]-[COLOR=Red]Base Of the  ROM & Version?[/COLOR]
+->Rom is based on AOSP
 
 -[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
 ->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide incremental updates and recommend clean flash.
+
+
+-[COLOR=Red]Does this ROM Support Substratum/CMTE?[/COLOR]
+->Yes, full Substratum support!
  
- 
--[color=Red]Does this ROM Support Substratum/CMTE?[/color]
-->Yes, full substratum support!
- 
--[color=Red]Which Gapps are recommended?[/color]
+-[COLOR=Red]Which Gapps are recommended?[/COLOR]
 ->OpenGapps or
 ->BeansGApps
- 
--[color=Red]What about XPOSED?[/color]
+
+-[COLOR=Red]Will this ROM relock the bootloader?[/COLOR]
+->No.
+
+-[COLOR=Red]What about XPOSED?[/COLOR]
 ->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
  
--[color=Red]What about custom Kernels?
-[/color]->You are free to try out available kernels,but in case of any bugs,we will not support.
- 
--[color=red]When Will Be the Next Update?[/color]
+-[COLOR=Red]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready. We generally provide monthly updates with latest security patches and new features.
 
--[COLOR="red"]Adaway is not working :([/COLOR]
-->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
-
--[COLOR="red"]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->Everything is good with the sources. You should try other things first and then contact your maintainer.
- 
--[color=red]I am facing FCs, Bugs, Some feature is broken?[/color]
-->Provide Full info About your problem with logcats and the procedure to reproduce it.
+-[COLOR=red]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
+->Provide full info about your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
    [url]https://goo.gl/UcTM9[/url]
- 
--[color=red]I want to contribute To the Development of this ROM?[/color]
-->Join our G+ community:
-->Join our telegram Group
-->Pull Requests on Github[/b][/size][/hide][/font][/align]
+   
+-[COLOR=red]Adaway is not working :([/COLOR]
+->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]   
+
+-[COLOR=Red]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
+->Everything is good with the sources. You should try other things first and then contact your maintainer.
+
+-[COLOR=Red]I want to contribute to the development of this ROM.[/COLOR]
+->Join our [URL="https://plus.google.com/u/0/communities/106726906578669931141"][COLOR=Red]Google+ community[/COLOR][/URL]
+->Join our [URL="https://telegram.me/aospextendedgroup"][COLOR=RoyalBlue]Telegram group chat[/COLOR][/URL]
+
+-[COLOR=Red]I want to contribute to the translation of this ROM.[/COLOR]
+->Visit our [URL="http://translate.aospextended.com/"][COLOR=Green]Crowdin[/COLOR][/URL][/b][/size][/hide][/font][/align]
 
 //Thread designed by Shubham Singh and Amol Amrit//
