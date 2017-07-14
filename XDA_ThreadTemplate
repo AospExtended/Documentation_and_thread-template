@@ -170,7 +170,7 @@ Clean Flash is always recommended![/b][/CODE]
 -Fix network arrows not showing when data save was enabled
 -Fix various NPEs
 -Fix memory leaks and errors
--Switch to Launcer3 (Pixel UI + Icon pack support)
+-Switch to Launcher3 (Pixel UI + Icon pack support)
 -Change internal shared storage icon progress bar accent
 -Add boot option in AppOps
 -Add new smart bar icons
