@@ -1,4 +1,4 @@
-Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
+Title - [ROM][7.1.2_r29][OFFICIAL] AospExtended ROM V4.5 [OMS/DUI]
 
 
 [align=center][img]http://i.imgur.com/spbb374.png[/img][/align]
@@ -112,6 +112,8 @@ Title - [ROM][7.1.2_r24][OFFICIAL] AospExtended ROM V4.4 [OMS/DUI]
 -Recents Free Ram bar
 -Custom Carrier label
 -Dynamic Navbar
+-Paranoid Android PIE Controls
+-Pocket Lock & Pocket Jugde (Accidental Touch)
 And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come!
 [/code][/b][/size][/font]
 
@@ -123,7 +125,7 @@ Download ROM, GApps here for your device![/color][/u][/b][/size][/font]
 [url=http://downloads.aospextended.com/][font=Courier New][size=150][glow=RoyalBlue][b]DEVICE NAME[/b][/glow][/size][/font][/url]
 
 [font=Courier New][size=120][color=YellowGreen][b]Google Apps[/b][/color][/size][/font]
-[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=http://downloads.aospextended.com/gapps/][b][font=Courier New][size=150]BeansGApps[/size][/font][/b][/url]
+[font=Courier New][size=120]-[/size][/font][url=http://opengapps.org/][b][font=Courier New][size=150]OpenGApps[/size][/font][/b][/url][font=Courier New][size=150]/[/size][/font][url=https://www.androidfilehost.com/?w=files&flid=171925][b][font=Courier New][size=150]BeansGApps[/size][/font][/b][/url]
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
@@ -147,45 +149,39 @@ Clean Flash is always recommended![/code][/b][/size][/font]
 [font=Courier New][size=120][b]Monitor the changelog here![/b][/size][/font]
 
 
-[font=Courier New][size=120][b][code]AospExtended 4.4 July Update
+[font=Courier New][size=120][b][code]AospExtended 4.5 August Update
 
--Merge July security patch
--Merge upstream commits from CAF
--Fix launch of music player on headset connect after reboot
--Music player on headset connect: Add bluetooth compatibility
--Add safe headset volume option
--Optimise HWUI
--Switch to Chromium webview
--Fix wrong peek height of notification panel
--Speed up fingerprint wakeup and unlock scenario
--Fix camera shutter sound toggle
--Fix many random crashes
--Add HW home button wake
--Improve night mode
--Improve QS tiles
--Add ADB Over Network support and QS tile
--Fix network arrows not showing when data save was enabled
--Fix various NPEs
--Fix memory leaks and errors
--Switch to Launcher3 (Pixel UI + Icon pack support)
--Change internal shared storage icon progress bar accent
--Add boot option in AppOps
--Add new smart bar icons
--Add left navigation bar pulse support
--Fix memory corruption on sound trigger
--Option to display disabled data indicator icons
--Add option to enable button backlight only when the button is pressed
--Set GBoard theme to pixel by default
--AEX OTA is completely themable now
--Add support for Crowdin
--Fix icon themeing on Valerie and few more themes
--Fix hiding of developer options
--Fix smartbar DPI updation
+-Merge August security patch
+-Merge latest CAF Tag in respective repos
+-Add support for Snapdragon LLVM toolchain (SDClang)
+-Add support for boost framework
+-Add support for fling velocities
+-Enable/Disable kill button on notification guts
+-Improve SlimRecents
+-Fix string derps
+-Fix In-Call vibrations
+-Animate icon while locking a task
+-Fix Lockscreen shortcut icons disappearing after reboot
+-Make button long press delay configurable in SmartBar
+-Fix layout of system header
+-Fix task lock and free form button placement
+-Fix Dex2oat
+-Fix In-Call timer bug
+-Fix reloading of theme in AEX OTA
+-Fix theme issues in screen pinning mode
+-Disable home button wake on devices with sensitive HW buttons
+-Add Paranoid Android Pie controls
+-Add check for accidental touch
+-Add pocket lock and pocket judge
+-Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
+-Fix many memory leaks 
+-Option to block sensor for certain packages
+-Fix few NPEs
+-Increase sensitive numbers support
 -Update all translations
+-Update AEX Papers
 -Update all pre-built packages
--Update AEXPapers
--Update all source-built packages
--Bug fixes and performance improvements
+-Performance enhancements and bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
@@ -239,6 +235,7 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 -AOSiP
 -OmniROM
 -GZR Community
+-AOSPA
 -Lakor Tools for Via Browser
 -Kabou Zeid for Phonograph
 -[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
