@@ -1,4 +1,4 @@
-Title - [ROM][7.1.2_r29][OFFICIAL] AospExtended ROM V4.5 [OMS/DUI]
+Title - [ROM][7.1.2_r29][OFFICIAL] AospExtended ROM V4.6 [OMS/DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -152,35 +152,20 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 4.5 August Update
+[CODE][b]AospExtended 4.6 September Update! Final Nougat release
 
--Merge August security patch
+-Merge September security patch
+-Merge latest AOSP Tag
 -Merge latest CAF Tag in respective repos
--Add support for Snapdragon LLVM toolchain (SDClang)
--Add support for boost framework
--Add support for fling velocities
--Enable/Disable kill button on notification guts
--Improve SlimRecents
--Fix string derps
--Fix In-Call vibrations
--Animate icon while locking a task
--Fix Lockscreen shortcut icons disappearing after reboot
--Make button long press delay configurable in SmartBar
--Fix layout of system header
--Fix task lock and free form button placement
--Fix Dex2oat
--Fix In-Call timer bug
--Fix reloading of theme in AEX OTA
--Fix theme issues in screen pinning mode
--Disable home button wake on devices with sensitive HW buttons
--Add Paranoid Android Pie controls
--Add check for accidental touch
--Add pocket lock and pocket judge
--Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
--Fix many memory leaks 
--Option to block sensor for certain packages
+-New AospExtended bootanimation
+-Fixed adaptable storage
+-Fix memory leaks
+-Add support for more boost frameworks from Paranoid Android
+-Improve fingerprint scanner performance
+-Allow user to add or remove QS tiles with one click
+-DUI: Support for left  landscape navbar
+-DUI: Migrate from broadcasts to API for some action handling 
 -Fix few NPEs
--Increase sensitive numbers support
 -Update all translations
 -Update AEX Papers
 -Update all pre-built packages
