@@ -8,7 +8,7 @@ Here we are linking you a very clean user friendly manual, go through the index 
 
 If you want to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. You can contact @FireLord1 @ishubhamsingh @jhenrique09 and @AmolAmrit Any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
-We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Pull Requests Here for Offiical devices](https://github.com/AospExtended/official_devices)  Sumbit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link. And Sumbit it ASAP once you are allowed to maintain your device officially for AospExtended OS.
+We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices)  Sumbit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link. And Sumbit it ASAP once you are allowed to maintain your device officially for AospExtended OS.
 
 **Note:** You can push patches for Official Devices repo on our gerrit too.
 
@@ -17,19 +17,19 @@ You can use these tools for writing your changelog in markdown format - [Markdow
 
 **Important Links:**
 
-- [Our Website, Downloads and Usage Statistics](http://www.aospextended.com/) |
-- [Our Github](https://github.com/AospExtended/)  |
-- [Gerrit Code Review](http://gerrit.aospextended.com/) |
-- [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) |
-- [Pull Requests Here for Offiical devices](https://github.com/AospExtended/official_devices) |
-- [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/) |
-- [Telegram Channel](https://telegram.me/aospextended/) |
-- [Theme Resources](https://github.com/AospExtended/AEX-Scripts/) |
+- [Our Website, Downloads and Usage Statistics](http://www.aospextended.com/) 
+- [Our Github](https://github.com/AospExtended/)  
+- [Gerrit Code Review](http://gerrit.aospextended.com/) 
+- [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) 
+- [Apply for Offiical devices](https://github.com/AospExtended/official_devices) 
+- [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/)
+- [Telegram Channel](https://telegram.me/aospextended/) 
+- [Theme Resources](https://github.com/AospExtended/AEX-Scripts/) 
 - [Extended Devices](https://github.com/AospExtended-devices/) 
-- [Settings, About us section](https://github.com/AospExtended/platform_packages_apps_Settings/blob/8.x/res/values/ex_maintainers.xml) |
-- [Markdown editor ](http://dillinger.io/) |
-- [Markdown cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
-- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) |
-- [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/index.html/) |
-- [AospExtended Gallery](https://aospextended.imgur.com/) |
-- [Facebook page!](https://www.facebook.com/aospextended/) |
+- [Settings - About us section](https://github.com/AospExtended/platform_packages_apps_Settngs/blob/8.x/res/values/ex_maintainers.xml)
+- [Markdown editor ](http://dillinger.io/) 
+- [Markdown cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) 
+- [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/index.html/) 
+- [AospExtended Gallery](https://aospextended.imgur.com/) 
+- [Facebook page!](https://www.facebook.com/aospextended/) 
