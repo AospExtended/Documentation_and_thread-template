@@ -255,7 +255,7 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 ->No.
 
 -[COLOR=Red]What about XPOSED?[/COLOR]
-->XPOSED For N is not out yet. Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+->Still in Development. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
  
 -[COLOR=Red]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready. We generally provide monthly updates with latest security patches and new features.
