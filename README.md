@@ -8,7 +8,7 @@ Here we are linking you a very clean user friendly manual, go through the index 
 
 If you want to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. You can contact @FireLord1 @ishubhamsingh @jhenrique09 and @AmolAmrit Any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
-We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices)  Sumbit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link. And Sumbit it ASAP once you are allowed to maintain your device officially for AospExtended OS.
+We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices)  Sumbit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link (Hidden). Go through the ReadMe in Official Devices repo. Sumbit these info ASAP once you are allowed to maintain your device officially for AospExtended OS.
 
 **Note:** You can push patches for Official Devices repo on our gerrit too.
 
