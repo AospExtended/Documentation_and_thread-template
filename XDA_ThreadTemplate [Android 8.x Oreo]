@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r4][UNOFFFICIAL] AospExtended ROM V5.1 [OMS/DUI]
+Title - [ROM][8.1.0_r4][UNOFFICIAL] AospExtended ROM V5.1 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -34,98 +34,60 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [CODE][B]
 -DUI(Fling/Pulse/Smartbar)
 -Substratum Theme Engine
--Omni's QSHeaders Background
--One Handed UI
--MicroG
--Grid Recents UI
--AppOps
--Expanded Desktop
--Statusbar Clock/Date Customizations
+-App Ops
+-Toggle power menu on Lockscreen
+-Force Expand Notification
+-Toggle between 4G and LTE icon
+-Statusbar brightness control
+-Toggle wake on plug
+-Toggle Medias art on Lockscreen
+-Cpu info switch
+-Disable orange color in battery saver mode
+-Losckcreen Charging info
+-Compass QS Tile
+-Sound QS Tile
+-PiP QS tile
+-Turn on wifi automatically
 -Dashboard Suggestions/Summaries (Enable/Disable)
--Notification Intervals
--Increasing Volume in Ringtone
+-Expanded Desktop
 -D2S On Navbar
--Long Press Back button  to Kill App
--Dashboard Column Configurations
+-Lockscreen DT2S
+-Toggle Always on display
+-Run SysUI tuner from Extensions
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
--Notification Count
 -DT2S On Statusbar
 -QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
--QS Tiles Animations
 -Force Expand Notifications (Enable/Disable)
--Immersive Mode messages (Enable/Disable)
--Flashlight Notifications
--Immersive Recents
 -Toast Icon
--MediaScanner Behaviour On Boot
--Power Menu Customizations
--Additional Battery Saver steps
--Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
--Add Gestures Back to Settings App
--QS Haptic Feedback
--One Tap Data & Wifi Tile
--Auto Brightness Icon Toggle
--Breathing Notifications
--Clickable Clock and Date in Statusbar Header
--Long Press Gear Icon in Statusbar Header Launches Extensions
 -Show 4G instead LTE switch
 -Night Mode QS Tile
--Long press Caffeine Tile Action
+-Power Menu Customizations
 -Customize QS Rows/Columns
--Customize small QS Tiles
 -StatusBar Brightness Control
 -Lockscreen Shortcut
--Double Tap on Lockscreen to Sleep
--Quick Unlock for PIN/Password
--Battery Styles and Percentage
--FMRadio
--Navbar QS Tile
--Flip Button Animation
--Unlink Notification Volume
--Status bar Clock Seconds
--Partial Screenshot Type
--Screenshot Delay
--VIA Browser
--Phonograph
--Pixel's UI (Navbar/Accent/Pixellauncher)
--Camera Sound Toggle
--Advance Ambient Display
--Longpress Power Button on Lockscreen for Torch
--Disable FC
--Wakelock Blocker
--Toggle Lockscreen Media Art
--Toggle Lockscreen Music Visualizer
--Ticker
--Bluetooth QS Tile Easy Toggle
--Disable QS on Lockscreen
--Invert Ambient Display's Color
--Toggle Dynamic Notification Card's Color
--Low Battery Notification Toggle
--Hide Clock/Date/Alarm Text from Lockscreen
--Lockscreen Clock's Font Customizations
--Weather on Lockscreen
--AEXPapers
--Heads up Customizations
 -DU's HW Button Rebinding
 -Button Backlight Customizations
+-Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode/call answer)
+-Auto Brightness Icon Toggle
+-Long Press Gear Icon in Statusbar Header Launches Extensions
+-Unlink Notification Volume
+-Partial Screenshot Type
+-Pixel's UI (Navbar/Accent/Pixel launcher)
 -Recents Clear All FAB button and Re-positioning
 -Recents Free Ram bar
--Custom Carrier label
--Dynamic Navbar
--Paranoid Android PIE Controls
--Pocket Lock & Pocket Judge (Accidental Touch)
--Toggle power menu on Lockscreen
--Grid Recents
--CPU info switch
--Disable orange color in battery saver mode
--PiP QS tile
--New pretty adaptive icons for included AOSP apps
--Toggle Always On display
--Run SysUI tuner from Extensions
--Built in DarkUI with multiple accents
-And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
+-Headsup QS tile
+-Headsup extensions(Snooze,Timeout,Stoplist and Blacklist)
+-Toggle Dashboard Suggestions and Conditions
+-AEXPapers
+-VIA Browser
+-Retro Music Player
+-New pretty adaptive icons for included aosp apps
+
+And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. 
+So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, 
+to see how far we have come![/B][/CODE]
 
 
 [img]http://i.imgur.com/47WEHUl.png[/img]
@@ -136,13 +98,12 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [color=navy][URL="http://downloads.aospextended.com/"][COLOR="RoyalBlue"][SIZE="3"][B]DEVICE NAME[/B][/SIZE][/COLOR] [/URL][/color]
 
 [SIZE="3"][COLOR="YellowGreen"][B]Google Apps
--[URL="http://opengapps.org/"]OpenGApps[/URL]/[URL="https://www.androidfilehost.com/?w=files&flid=171925"]BeansGApps[/B][/COLOR][/SIZE][/URL]
+-[URL="https://cloud.kenzoroms.club/?dir=opengapps"]GApps[/URL][/B][/COLOR][/SIZE]
+
 
 [img]http://i.imgur.com/t709fnd.png[/img]
 
-
 [B][SIZE="4"]Want to try this awesomeness?[/SIZE][/B]
-
 
 [CODE][b]-Download the ROM and GApps of your choice
 -Backup each and every partition from TWRP Recovery
@@ -161,9 +122,20 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.x Changelog
+[CODE][b]AospExtended 5.1 January Update![BETA]
 
-
+-Merge January security patch
+-Merge latest AOSP Tag
+-Updated power menu icons
+-Mobile Data Disabled on First Boot
+-Added Retro Music Player
+-Added doubletap/longpress power to toggle torch
+-Added Two New Theme [Dark/Back]
+-Added many accent colour to choose from
+-Update all translations
+-Update AEX Papers
+-Update all pre-built packages
+-Performance enhancements and bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
@@ -191,12 +163,6 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 [B][SIZE="4"][COLOR="Black"] All sort of contributions are welcomed. You can post your walls in our G+ community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and communitiy. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
 
 
-
-[img]http://i.imgur.com/GDeu02t.png[/img]
-
-[SIZE="4"][B]Checkout this ROM!
-YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
-
 [img]http://i.imgur.com/nWBbgnc.png[/img]
 
 
@@ -206,14 +172,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 [B][SIZE="4"]
 -[MENTION=5566914]ishubhamsingh[/MENTION](Owner/Dev/Designer)
 -[URL="https://github.com/AOSP-JF-MM"]JDC Team[/URL]
--[URL="https://github.com/AOSP-RRO"]AOSP-OMS[/URL]
--Huge thanks to [MENTION=5272996]srisurya95[/MENTION]& [MENTION=5854483]Akhil Narang[/MENTION](Devs of AOSP-OMS)
--[URL="https://github.com/TurboROM-Legacy"]TurboRom[/URL]
 -[URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/URL]
--[URL="https://github.com/AOSiP"]AOSiP[/URL]
--[URL="https://github.com/Zephyr-OS"]ZephyrOS[/URL]
--[URL="https://github.com/SlimRoms"]SlimRoms[/URL]
--[URL="https://github.com/BlissRoms"]BlissRoms[/URL]
 -[URL="https://github.com/LineageOS"]LineageOS/Cyanogenmod[/URL]
 -[URL="https://github.com/substratum/"]TeamSubstratum[/URL]
 -[URL="https://github.com/nitrogen-project"]Nitrogen Project[/URL]
@@ -221,15 +180,9 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[URL="https://github.com/omnirom"]OmniROM[/URL]
 -[URL="https://github.com/aospa"]AOSPA[/URL]
 -[URL="https://github.com/ezio84"]ABC ROM[/URL]
--[URL="https://github.com/GZOSP"]GZR Community[/URL]
+-[URL="https://plus.google.com/communities/109330559573276360638"]GZR Community[/URL]
 -Lakor Tools for Via Browser
--Kabou Zeid for Phonograph
--Hemanth S for Retro
--[MENTION=7725051]KrapK [/MENTION](Spanish Translation)
--[MENTION=6519039]jhenrique09 [/MENTION](PT BR Translation)
--[MENTION=3065130]kormateusz [/MENTION](For MK Explorer)
--[MENTION=5268708]creative21[/MENTION](For Dark Pixel BootAnimation)
--[MENTION=1255308]SaschaHa[/MENTION](For Slimperience Browser)
+-Hemanth S Tobi for Retro Music Player
 -[MENTION=7580472]AlienCreature7[/MENTION] and [MENTION=7772507]Wizper99[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 
@@ -239,7 +192,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 [B][SIZE="4"][COLOR="DarkOrange"]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
 
 [HIDE][SIZE="3"][B]-[COLOR="Red"]Base Of the  ROM & Version?[/COLOR]
-->Rom is based on AOSP
+->Rom is based on AOSP. 
 
 -[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
 ->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuffs are merged and added. So we don't provide incremental updates and recommend clean flash.
@@ -248,14 +201,13 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ->Yes, full Substratum support!
   
 -[COLOR="Red"]Which Gapps are recommended?[/COLOR]
-->OpenGapps or
-->BeansGApps
-    
+->OpenGapps
+
 -[COLOR="Red"]Will this ROM relock the bootloader?[/COLOR]
 ->No.
  
 -[COLOR="Red"]What about XPOSED?[/COLOR]
-->We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+->XPOSED is still in beta stage. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
   
 -[COLOR="red"]When Will Be the Next Update?[/COLOR]
 ->No ETAs please. ROM Will be updated whenever the new build is ready. We generally provide monthly updates with latest security patches and new features.
@@ -263,7 +215,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[COLOR="red"]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
 ->Provide full info about your problem with logcats and the procedure to reproduce it.
 ->How to take Logcats?
-   [url]https://goo.gl/UcTM9[/url]
+ [url]https://goo.gl/UcTM9[/url]
  
 -[COLOR="red"]Adaway is not working :([/COLOR]
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
@@ -281,5 +233,6 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
  
 [/HIDE]
 [/CENTER]
+
 
 //Thread designed by Shubham Singh and Amol Amrit//
