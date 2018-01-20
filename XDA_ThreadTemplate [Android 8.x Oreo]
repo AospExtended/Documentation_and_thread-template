@@ -34,60 +34,101 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [CODE][B]
 -DUI(Fling/Pulse/Smartbar)
 -Substratum Theme Engine
--App Ops
--Toggle power menu on Lockscreen
--Force Expand Notification
--Toggle between 4G and LTE icon
--Statusbar brightness control
--Toggle wake on plug
--Toggle Medias art on Lockscreen
--Cpu info switch
--Disable orange color in battery saver mode
--Losckcreen Charging info
--Compass QS Tile
--Sound QS Tile
--PiP QS tile
--Turn on wifi automatically
--Dashboard Suggestions/Summaries (Enable/Disable)
+-Omni's QSHeaders Background
+-One Handed UI
+-MicroG
+-Grid Recents UI
+-AppOps
 -Expanded Desktop
+-Statusbar Clock/Date Customizations
+-Dashboard Suggestions/Summaries (Enable/Disable)
+-Notification Intervals
+-Increasing Volume in Ringtone
 -D2S On Navbar
--Lockscreen DT2S
--Toggle Always on display
--Run SysUI tuner from Extensions
+-Long Press Back button  to Kill App
+-Dashboard Column Configurations
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
+-Notification Count
 -DT2S On Statusbar
 -QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
+-QS Tiles Animations
 -Force Expand Notifications (Enable/Disable)
+-Immersive Mode messages (Enable/Disable)
+-Flashlight Notifications
+-Immersive Recents
 -Toast Icon
+-MediaScanner Behaviour On Boot
+-Power Menu Customizations
+-Additional Battery Saver steps
+-Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+-Add Gestures Back to Settings App
+-QS Haptic Feedback
+-One Tap Data & Wifi Tile
+-Auto Brightness Icon Toggle
+-Breathing Notifications
+-Clickable Clock and Date in Statusbar Header
+-Long Press Gear Icon in Statusbar Header Launches Extensions
 -Show 4G instead LTE switch
 -Night Mode QS Tile
--Power Menu Customizations
+-Long press Caffeine Tile Action
 -Customize QS Rows/Columns
+-Customize small QS Tiles
 -StatusBar Brightness Control
 -Lockscreen Shortcut
--DU's HW Button Rebinding
--Button Backlight Customizations
--Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode/call answer)
--Auto Brightness Icon Toggle
--Long Press Gear Icon in Statusbar Header Launches Extensions
+-Double Tap on Lockscreen to Sleep
+-Quick Unlock for PIN/Password
+-Battery Styles and Percentage
+-FMRadio
+-Navbar QS Tile
+-Flip Button Animation
 -Unlink Notification Volume
+-Status bar Clock Seconds
 -Partial Screenshot Type
--Pixel's UI (Navbar/Accent/Pixel launcher)
--Recents Clear All FAB button and Re-positioning
--Recents Free Ram bar
--Headsup QS tile
--Headsup extensions(Snooze,Timeout,Stoplist and Blacklist)
--Toggle Dashboard Suggestions and Conditions
--AEXPapers
+-Screenshot Delay
 -VIA Browser
 -Retro Music Player
--New pretty adaptive icons for included aosp apps
+-Pixel's UI (Navbar/Accent/Pixellauncher)
+-Camera Sound Toggle
+-Advance Ambient Display
+-Longpress Power Button on Lockscreen for Torch
+-Disable FC
+-Wakelock Blocker
+-Toggle Lockscreen Media Art
+-Toggle Lockscreen Music Visualizer
+-Ticker
+-Bluetooth QS Tile Easy Toggle
+-Disable QS on Lockscreen
+-Invert Ambient Display's Color
+-Toggle Dynamic Notification Card's Color
+-Low Battery Notification Toggle
+-Hide Clock/Date/Alarm Text from Lockscreen
+-Lockscreen Clock's Font Customizations
+-Weather on Lockscreen
+-AEXPapers
+-Heads up Customizations
+-DU's HW Button Rebinding
+-Button Backlight Customizations
+-Recents Clear All FAB button and Re-positioning
+-Recents Free Ram bar
+-Custom Carrier label
+-Dynamic Navbar
+-Paranoid Android PIE Controls
+-Pocket Lock & Pocket Judge (Accidental Touch)
+-Toggle power menu on Lockscreen
+-Grid Recents
+-CPU info switch
+-Disable orange color in battery saver mode
+-PiP QS tile
+-New pretty adaptive icons for included AOSP apps
+-Toggle Always On display
+-Run SysUI tuner from Extensions
+-Built in DarkUI with multiple accents
 
-And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. 
-So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, 
-to see how far we have come![/B][/CODE]
+NOTE:Many features might be missing in the intial release
+
+And many more coming in future! Many extensions are added in each update so we miss out adding new extensions in this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
 
 [img]http://i.imgur.com/47WEHUl.png[/img]
@@ -122,20 +163,8 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.1 January Update![BETA]
+[CODE][b]AospExtended 5.x Changelog
 
--Merge January security patch
--Merge latest AOSP Tag
--Updated power menu icons
--Mobile Data Disabled on First Boot
--Added Retro Music Player
--Added doubletap/longpress power to toggle torch
--Added Two New Theme [Dark/Back]
--Added many accent colour to choose from
--Update all translations
--Update AEX Papers
--Update all pre-built packages
--Performance enhancements and bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
@@ -162,6 +191,11 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 
 [B][SIZE="4"][COLOR="Black"] All sort of contributions are welcomed. You can post your walls in our G+ community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and communitiy. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
 
+
+[img]http://i.imgur.com/GDeu02t.png[/img]
+
+[SIZE="4"][B]Checkout this ROM!
+YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 
 [img]http://i.imgur.com/nWBbgnc.png[/img]
 
