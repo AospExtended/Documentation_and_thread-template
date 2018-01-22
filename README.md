@@ -1,5 +1,12 @@
 # **Official documentation and thread template guidelines for AospExtended OS.**
 
+
+![bannar7](https://user-images.githubusercontent.com/16361700/35181477-49f85b56-fde8-11e7-80f7-028639417690.png)
+
+
+
+
+
 Maintainers are asked to follow the guidelines in the template. Always take at least two reserved posts! Be respectful to users. If any fuss is created report us before doing anything.
 
 Coming to the next part, is our [Gerrit Code Review](http://gerrit.aospextended.com/) system. We introduced this system with our Oreo source [It is to be noted that developers can push patches for our 7.x Nougat branch also]. We got a lot of support from other developers and maintainers in Nouagt and hence we have our gerrit running.
@@ -29,7 +36,6 @@ You can use these tools for writing your changelog in markdown format - [Markdow
 - [Settings - About us section](https://github.com/AospExtended/platform_packages_apps_Settings/blob/8.1.x/res/values/ex_maintainers.xml)
 - [Markdown editor ](http://dillinger.io/) 
 - [Markdown cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) 
 - [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/index.html/) 
 - [AospExtended Gallery](https://aospextended.imgur.com/) 
 - [Facebook page!](https://www.facebook.com/aospextended/) 
