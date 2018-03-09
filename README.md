@@ -30,6 +30,7 @@ You can use these tools for writing your changelog in markdown format - [Markdow
 - [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) 
 - [Apply for Offiical devices](https://github.com/AospExtended/official_devices) 
 - [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/)
+- [Our Blog](https://blog.aospextended.com/)
 - [Telegram Channel](https://telegram.me/aospextended/) 
 - [Theme Resources](https://github.com/AospExtended/AEX-Scripts/) 
 - [Extended Devices](https://github.com/AospExtended-devices/) 
