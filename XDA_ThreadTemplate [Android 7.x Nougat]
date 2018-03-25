@@ -177,7 +177,7 @@ Clean Flash is always recommended![/b][/CODE]
 -Fix some translations
 -Port auto face-unlock from Oreo
 -Add switch for faceunlock
--Fix DND mode
+-Disable HW Keys haptic feedback on lockscreen
 -Update pocket judge
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
