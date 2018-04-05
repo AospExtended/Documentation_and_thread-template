@@ -19,9 +19,6 @@ We have website, where Official Builds are posted. So if you are an official mai
 
 **Note:** You can push patches for Official Devices repo on our gerrit too.
 
-Our OTA app has a feature to give device specific changelogs! You can go here [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) and create a new .md file with the codename of your device, devicecodename.md and write your changelogs in markdown format and do a Pull request.
-You can use these tools for writing your changelog in markdown format - [Markdown editor ](http://dillinger.io/) | [Markdown cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 **Important Links:**
 
 - [Our Website, Downloads and Usage Statistics](http://www.aospextended.com/) 
