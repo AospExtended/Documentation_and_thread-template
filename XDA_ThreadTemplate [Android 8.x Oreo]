@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r15][UNOFFICIAL] AospExtended ROM V5.3 [DUI]
+Title - [ROM][8.1.0_r20][UNOFFICIAL] AospExtended ROM V5.4 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -163,39 +163,44 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.3 Changelog
+[CODE][b]AospExtended 5.4 Changelog
 
--Merged March Security Patch(8.1.0_r15)
--Added left clock position, dropped center clock
--Smart notification fixes
--Merged OMS exposure commits
--Added Pixel2 XL Ringtones,Alarms
--Added Scramble PIN layout option
--Added Quick unlock
--Added increasing ring volume feature
--Configurable rotation degrees 0, 90, 180 & 270
--H/W nav button toggle QS tile
--Toggle for data saver statusbar icon
--Added Keyguard, Statusbar weather (Omnijaws)
--Added statusbar date position
--Added statusbar battery styles
--Navigation bar QS tile
--Google sound search QS tile
--Added battery level to ambient display
--Toggle pattern error visibility
--Toggle pattern dots visibility
--Toggle swipe-up to unlock
--Added 3x3, 4x4, 5x5 ,6x6 pattern grid size
--Toggle data disabled cross
--Kill app button in notification guts
--Add support for Turbo charger info on lockscreen
--Option to switch between Fade/Scroll ticker animation
--Improvements in Slim recents
--Option to toggle various stuffs, set grid size etc in Launcher3
--Fixed local terminal not showing up
--Inbuilt system app remover
--Merged various other patches
--Imported translations from crowdin
+-Merged Android 8.1.0_r20
+-Merged April Security Patch 
+-Update all packages
+-Update all translations
+-Disable Quick settings on secure lock screen
+-Add AOKP animations and tweaks
+-Add Scrolling cache
+-Swipe down 3 fingers for screenshot
+-Fruity pebbles from DU!
+-Disable Fruity pebble when substratum overlays are enabled
+-Add Theme QS Tile
+-Re-design Extensions app!
+-Update OMS stuff
+-Add Substratum Service commits (Rootless substratum)
+-Fixed airplane mode on power menu
+-Merge statusbar battery icon fixes
+-Fixed widgets not loading issue
+-Added screenshot edit option
+-Configure QS panel transparency
+-Add QS tiles animations
+-Disable QS footer warnings
+-Allow QS customizer to use custom rows and columns
+-Improvements in hide QS tile’s title
+-Configure USB default mode
+-Android P animations
+-Toggle for P animations
+-Center clock finally!
+-Added Ambient display QS tile
+-AOD tile
+-AOD disabled by default
+-Add lockscreen visualizer
+-Option to launch running services from QS footer
+-Updates in AOSP dialer & Contacts apps
+-Signal strength improvement
+-Performance improvement
+-Lots of bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
