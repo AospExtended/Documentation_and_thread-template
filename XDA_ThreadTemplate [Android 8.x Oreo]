@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r20][OFFICIAL] AospExtended ROM V5.4 [DUI]
+Title - [ROM][8.1.0_r26][OFFICIAL] AospExtended ROM V5.5 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -163,44 +163,40 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.4 Changelog
+[CODE][b]AospExtended 5.5 Changelog
 
--Merged Android 8.1.0_r20
--Merged April Security Patch 
+-Merge May security patch (8.1.0_r26)
 -Update all packages
 -Update all translations
--Disable Quick settings on secure lock screen
--Add AOKP animations and tweaks
--Add Scrolling cache
--Swipe down 3 fingers for screenshot
--Fruity pebbles from DU!
--Disable Fruity pebble when substratum overlays are enabled
--Add Theme QS Tile
--Re-design Extensions app!
--Update OMS stuff
--Add Substratum Service commits (Rootless substratum)
--Fixed airplane mode on power menu
--Merge statusbar battery icon fixes
--Fixed widgets not loading issue
--Added screenshot edit option
--Configure QS panel transparency
--Add QS tiles animations
--Disable QS footer warnings
--Allow QS customizer to use custom rows and columns
--Improvements in hide QS tile’s title
--Configure USB default mode
--Android P animations
--Toggle for P animations
--Center clock finally!
--Added Ambient display QS tile
--AOD tile
--AOD disabled by default
--Add lockscreen visualizer
--Option to launch running services from QS footer
--Updates in AOSP dialer & Contacts apps
--Signal strength improvement
--Performance improvement
--Lots of bug fixes
+-Update DUI
+-Update telephony
+-Update SlimRecents
+-Add support for boostframework (device specific)
+-Add support for wireless FM (device specific)
+-Add Sustained performance mode for Dialer
+-Add sensor blocking of applications
+-Add dialer look-up
+-Add accidental touch
+-Add Wakelock blocker
+-Add Alarm blocker
+-Add Battery bar
+-Add Pocketjudge
+-Add support for SmartPixels (device specific)
+-Add support for blacklisting app in share button
+-Add OmiStyles (QS Headers)
+-Add suspend actions
+-Add tile scroller for QS tiles
+-Add running services toggle
+-Add support for answer to reset for sim cards
+-Add search indexing for Extensions
+-Faster lockscreen animations
+-Fix issues with Smartbar theming
+-Fix weird recent menu P animation
+-Fix QS footer
+-Fix QS animations
+-Fix % txt with square battery style
+-UI/UX improvements
+-Performance improvement and bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
