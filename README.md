@@ -17,6 +17,10 @@ If you want to maintain your device officially then you need to contact any of o
 
 We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices)  Sumbit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link (Hidden). Go through the ReadMe in Official Devices repo. Sumbit these info ASAP once you are allowed to maintain your device officially for AospExtended OS.
 
+Our OTA app has a feature to give device specific changelogs! You can go here [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) to upload changelogs. For each new version, you need to upload the changelog to this repository in the device specific folder.
+
+The file name must be in this format: yyyyMMdd-Hm.txt
+
 **Note:** You can push patches for Official Devices repo on our gerrit too.
 
 **Important Links:**
@@ -26,6 +30,7 @@ We have website, where Official Builds are posted. So if you are an official mai
 - [Gerrit Code Review](http://gerrit.aospextended.com/) 
 - [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/) 
 - [Apply for Offiical devices](https://github.com/AospExtended/official_devices) 
+- [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs)
 - [Help us translate AospExtended ROM and bring it to the world!](http://translate.aospextended.com/)
 - [Our Blog](https://blog.aospextended.com/)
 - [Telegram Channel](https://telegram.me/aospextended/) 
