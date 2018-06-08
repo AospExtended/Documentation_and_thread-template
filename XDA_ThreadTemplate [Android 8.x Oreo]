@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r26][OFFICIAL] AospExtended ROM V5.5 [DUI]
+Title - [ROM][8.1.0_r30][OFFICIAL] AospExtended ROM V5.6 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -163,40 +163,41 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.5 Changelog!
+[CODE][b]AospExtended 5.6 Changelog!
 
--Merge May security patch (8.1.0_r26)
--Update all packages
--Update all translations
--Update DUI
--Update telephony
--Update SlimRecents
--Add support for boostframework (device specific)
--Add support for wireless FM (device specific)
--Add Sustained performance mode for Dialer
--Add sensor blocking of applications
--Add dialer look-up
--Add accidental touch
--Add Wakelock blocker
--Add Alarm blocker
--Add Battery bar
--Add Pocketjudge
--Add support for SmartPixels (device specific)
--Add support for blacklisting app in share button
--Add OmiStyles (QS Headers)
--Add suspend actions
--Add tile scroller for QS tiles
--Add running services toggle
--Add support for answer to reset for sim cards
--Add search indexing for Extensions
--Faster lockscreen animations
--Fix issues with Smartbar theming
--Fix weird recent menu P animation
--Fix QS footer
--Fix QS animations
--Fix % txt with square battery style
--UI/UX improvements
--Performance improvement and bug fixes
+- Merge June security patch (8.1.0_r30)
+- Update all packages
+- Update all translations
+- Add Fingerprint blockage for pocket lock
+- Add support for more FLAC rates
+- Add fingerprint gesture support (Device Specific)
+- Add edge gesture support
+- Add and improve DU clock style
+- Add more styles for clock
+- Add DU font engine
+- Add more fonts
+- Add support for HSR and HFR rates
+- Add more accents
+- Fix accent theming on Extended UI
+- Allow to use Jelly instead of Via as the default browser (Maintainer’s choice)
+- Allow to use GCam as default camera app (Maintainer’s choice)
+- Add back stock animation speed
+- Fix swiping away of locked tasks
+- Fix center clock not showing in QS header
+- Add support for webview theming
+- Add option to disable wallpaper tint
+- Add back notification counter
+- Fix screenrecorder notification actions
+- Add option to hide edit icon from QS footer
+- Add new default wallpaper
+- Add grid or android go style recents
+- Add statusbar NFC icon with toggle (Device Specific)
+- Improve face unlocking
+- Improve SmartPixels
+- Fix all possible NPEs
+- Under the hood improvements
+- UI/UX improvements
+- Performance improvement and bug fixes
 
 Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
