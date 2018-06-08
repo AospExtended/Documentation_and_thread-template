@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r26][OFFICIAL] AospExtended ROM V5.5 [DUI]
+Title - [ROM][8.1.0_r30][OFFICIAL] AospExtended ROM V5.6 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -20,7 +20,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
-[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based ROM which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. A ROM by a user, for a user. #StayAOSP #ExtendYourDevice #BeExtended[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based ROM which provides stock UI/UX with various customizations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates. A ROM by a user, for a user. #StayAOSP #ExtendYourDevice #BeExtended[/COLOR][/SIZE][/B]
 
 
 
@@ -33,11 +33,12 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 
 [CODE][B]
 -DUI(Fling/Pulse/Smartbar)
--Substratum Theme Engine
+-DU Font Engine
+-Substratum Theme Engine Rootless Support
 -Omni's QSHeaders Background
 -One Handed UI
 -MicroG
--Grid Recents UI
+-Grid/GO Recents UI
 -AppOps
 -Expanded Desktop
 -Statusbar Clock/Date Customizations
@@ -50,7 +51,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
 -Notification Count
--DT2S On Statusbar
+-DT2S On Statusbar and Lockscreen
 -QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
@@ -63,7 +64,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Power Menu Customizations
 -Additional Battery Saver steps
 -Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
--Add Gestures Back to Settings App
+-Fingerprint and Edge Gestures Support
 -QS Haptic Feedback
 -One Tap Data & Wifi Tile
 -Auto Brightness Icon Toggle
@@ -77,30 +78,27 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Customize small QS Tiles
 -StatusBar Brightness Control
 -Lockscreen Shortcut
--Double Tap on Lockscreen to Sleep
 -Quick Unlock for PIN/Password
 -Battery Styles and Percentage
--FMRadio
 -Navbar QS Tile
 -Flip Button Animation
 -Unlink Notification Volume
 -Status bar Clock Seconds
 -Partial Screenshot Type
 -Screenshot Delay
--VIA Browser
+-Via/Jelly Browser
 -Retro Music Player
--Pixel's UI (Navbar/Accent/Pixellauncher)
+-Pixel's UI, Ringtones, Launcher, and Wallpapers
 -Camera Sound Toggle
--Advance Ambient Display
+-Advanced Ambient Display Customizations
+-Smart Pixels
 -Longpress Power Button on Lockscreen for Torch
 -Disable FC
 -Wakelock Blocker
 -Toggle Lockscreen Media Art
 -Toggle Lockscreen Music Visualizer
 -Ticker
--Bluetooth QS Tile Easy Toggle
 -Disable QS on Lockscreen
--Invert Ambient Display's Color
 -Toggle Dynamic Notification Card's Color
 -Low Battery Notification Toggle
 -Hide Clock/Date/Alarm Text from Lockscreen
@@ -117,16 +115,12 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Paranoid Android PIE Controls
 -Pocket Lock & Pocket Judge (Accidental Touch)
 -Toggle power menu on Lockscreen
--Grid Recents
--CPU info switch
--Disable orange color in battery saver mode
+-CPU Info Switch
+-Disable Orange Color in Battery Saver Mode
 -PiP QS tile
--New pretty adaptive icons for included AOSP apps
--Toggle Always On display
+-New Pretty Adaptive Icons for included AOSP apps
 -Run SysUI tuner from Extensions
--Built in DarkUI with multiple accents
-
-NOTE:Many features might be missing in the initial release
+-Built-in Light/Dark/Wallpaper-Based and EXTENDED UI Support
 
 And many more coming in future! Many extensions are added in each update so we miss out adding new extensions to this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
@@ -163,42 +157,44 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b]AospExtended 5.5 Changelog!
+[CODE][b] AospExtended v5.6 Changelog
 
--Merge May security patch (8.1.0_r26)
+-Merge June security patch (8.1.0_r30)
 -Update all packages
 -Update all translations
--Update DUI
--Update telephony
--Update SlimRecents
--Add support for boostframework (device specific)
--Add support for wireless FM (device specific)
--Add Sustained performance mode for Dialer
--Add sensor blocking of applications
--Add dialer look-up
--Add accidental touch
--Add Wakelock blocker
--Add Alarm blocker
--Add Battery bar
--Add Pocketjudge
--Add support for SmartPixels (device specific)
--Add support for blacklisting app in share button
--Add OmiStyles (QS Headers)
--Add suspend actions
--Add tile scroller for QS tiles
--Add running services toggle
--Add support for answer to reset for sim cards
--Add search indexing for Extensions
--Faster lockscreen animations
--Fix issues with Smartbar theming
--Fix weird recent menu P animation
--Fix QS footer
--Fix QS animations
--Fix % txt with square battery style
+-Add Fingerprint blockage for pocket lock
+-Add support for more FLAC rates
+-Add fingerprint gesture support (Device Specific)
+-Add edge gesture support
+-Add and improve DU clock style
+-Add more styles for clock
+-Add DU font engine
+-Add more fonts
+-Add support for HSR and HFR rates
+-Add more accents
+-Fix accent theming on Extended UI
+-Allow to use Jelly instead of Via as the default browser (Maintainer’s choice)
+-Allow to use GCam as default camera app (Maintainer’s choice)
+-Add back stock animation speed
+-Fix swiping away of locked tasks
+-Fix center clock not showing in QS header
+-Add support for Webview theming
+-Add option to disable wallpaper tint
+-Add back notification counter
+-Fix screen recorder notification actions
+-Add option to hide edit icon from QS footer
+-Add new default wallpaper
+-Add grid or android go style recents
+-Add status bar NFC icon with toggle (Device Specific)
+-Improve face unlocking
+-Improve SmartPixels
+-Fix all possible NPEs
+-Under the hood improvements
 -UI/UX improvements
 -Performance improvement and bug fixes
 
-Clean flash is always recommended​. Bug reports are not appreciated  if not clean flashed. 
+
+Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
 
@@ -228,6 +224,7 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 
 [SIZE="4"][B]Checkout this ROM!
 YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
+
 
 [img]http://i.imgur.com/nWBbgnc.png[/img]
 
@@ -260,10 +257,10 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 [HIDE][SIZE="3"][B]-[COLOR="Red"]Base Of the  ROM & Version?[/COLOR]
 ->Rom is based on AOSP. 
 
--[COLOR="red"]Why no "Incremental updates" Support?[/COLOR]
-->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuff are merged and added. So we don't provide incremental updates and recommend clean flash.
+-[COLOR="red"]Why no "Incremental/Delta updates" Support?[/COLOR]
+->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuff is merged and added. So we don't provide incremental updates and recommend a clean flash.
  
- -[COLOR="Red"]Does this ROM Support Substratum/CMTE?[/COLOR]
+ -[COLOR="Red"]Does this ROM Support Substratum?[/COLOR]
 ->Yes, full Substratum support!
   
 -[COLOR="Red"]Which Gapps are recommended?[/COLOR]
@@ -273,13 +270,13 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ->No.
  
 -[COLOR="Red"]What about XPOSED?[/COLOR]
-->XPOSED is still in beta stage. We like Xposed but it messes up with the system so before giving any bug reports make sure you have xposed uninstalled.
+->XPOSED is still in beta stage. We like Xposed but it messes up with the system so before giving any bug reports make sure you have Xposed uninstalled.
   
 -[COLOR="red"]When Will Be the Next Update?[/COLOR]
-->No ETAs please. ROM Will be updated whenever the new build is ready. We generally provide monthly updates with latest security patches and new features.
+->No ETAs, please. ROM Will be updated whenever the new build is ready by your maintainer. We generally provide monthly updates with latest security patches and new features.
  
 -[COLOR="red"]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
-->Provide full info about your problem with logcats and the procedure to reproduce it.
+->Provide full info about your problem with logcat and the procedure to reproduce it.
 ->How to take Logcats?
  [url]https://goo.gl/UcTM9[/url] and [url]https://goo.gl/J4CSEP[/url]
  
