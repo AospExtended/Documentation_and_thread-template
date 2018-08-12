@@ -1,4 +1,4 @@
-Title - [ROM][8.1.0_r36][OFFICIAL] AospExtended ROM V5.7 [DUI]
+Title - [ROM][8.1.0_r43[OFFICIAL] AospExtended ROM V5.8 [DUI]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -157,49 +157,39 @@ Clean Flash is always recommended![/b][/CODE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v5.7 Changelog
+[CODE][b] AospExtended v5.8 Changelog
 
--Merge July security patch (8.1.0_r36)
+-Merge August security patch (8.1.0_r43)
 -Update all packages
 -Update all translation
--Update APNs
 -Update audioflinger
--Add custom MusicFX package
--Add support for display for radio tech
--Add per-app network restrictions feature
--Add special captive portal servers for China
--Add FP unlocking after reboot option
--Add new bootanimation (Thanks to moelle)
--Add ripple effect to power menu items
--Add animations to advance power menu
--Add back stock view configurations
--Add support to allow system theme/font options alongside substratum
--Add lower delays to edge gesture long press
--Add some wakelocks and alarms to blockers
--Add chocolate UI
--Add dark UI overlays for AOSP Dialer, Contacts and Files app
--Disable wallpaper based tint scrim
--Make power menu lockdown require stong auth
--Make scrambled pin layout multi user friendly
--Move some extensions to proper section
--Improve calculation method of LTE antenna reception
--Improve stock recent’s header layout
--Improve Ambient Music layout and enable by default
--Improve DUI backup/restore
--Cleanup accent picker
--Remove white/black accent
--Optimise Shut down time
--Improve grid/go recents to fix recents lag
--Use pixel blue color for calculator
--Fix Miracast issues
--Fix lock tasks icon size
--Fix few typos
--Fix DUI custom button image on encrypted devices
+-Update APNs
+-Add OP gestures
+-Add call recording
+-Add call statistics
+-Add per call account selection
+-Add camera key long press toggle ability (Device specific)
+-Add and improve LTE toggle tile
+-Add support for more modes in LTE toggle tile
+-Add custom rounded corner and padding preferences
+-Add more fonts in font engine
+-Add forced headsup for dialer
+-Add QS tile accent tint toggle
+-Add platform and RAM info to “Model and Hardware” dialogue
+-Revert back to stock recents icon size
+-Support executable shimming
+-Remove carrier text for disabled sim
+-Hide signal icons for disabled sim
+-Proper SSN implementation
+-Fix recents tile overlapping on icons
+-Fix share button lag
+-Fix black, opaque notification shade issue
+-Fix APN bearer settings (Add OK/Cancel option)
+-Fix lock clock size after rebooting
+-Fix notification sound crash
 -Fix few NPEs
--Under the hood improvements
--Lots of UI/UX improvements
+-UI/UX improvements
 -Performance improvement and bug fixes
-
 
 Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
