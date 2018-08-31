@@ -9,7 +9,7 @@
 
 Maintainers are asked to follow the guidelines in the template. Always take at least two reserved posts! Be respectful to users. If any fuss is created report us before doing anything.
 
-Coming to the next part, is our [Gerrit Code Review](http://gerrit.aospextended.com/) system. We introduced this system with our Oreo source [It is to be noted that developers can push patches for our 7.x Nougat branch also]. We got a lot of support from other developers and maintainers in Nouagt and hence we have our gerrit running.
+Coming to the next part, is our [Gerrit Code Review](http://gerrit.aospextended.com/) system. We introduced this system with our Oreo source [It is to be noted that developers can push patches for our 7.x Nougat branch also]. We got a lot of support from other developers and maintainers in Nougat and hence we have our gerrit running.
 Pushing patches on gerrit is very easy. You need to have an account on our gerrit obviously and you need to link your SSH keys which you have with you on your build-server or your build-machine with your gerrit account. Once you have done that you are all set with your gerrit log-in set-up.
 Here we are linking you a very clean user friendly manual, go through the index properly and know your stuff properly! [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/intro-user.html)
 
