@@ -1,4 +1,4 @@
-Thread Title - [ROM][9.0.0_r10] AospExtended ROM V6.0 [OFFICIAL]
+Thread Title - [ROM][9.0.0_r10] AospExtended ROM V6.0 [UNOFFICIAL]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -86,7 +86,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Status bar Clock Seconds
 -Partial Screenshot Type
 -Screenshot Delay
--AEXPapers our wallpaper app
+-AEXPapers - our wallpaper app
 -Via/Jelly Browser
 -Retro Music Player
 -Pixel's UI, Ringtones, and Wallpapers
@@ -121,7 +121,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Run SysUI tuner from Extensions
 -Built-in Light/Dark/Wallpaper-Based and EXTENDED UI Themes
 
-NOTE:Many features might be missing in the initial release
+NOTE: Many features might be missing in the initial release
 
 And many more coming in future! Many extensions are added in each update so we miss out adding new extensions to this list. So always keep on checking the latest changelog in our G+ Community, and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
@@ -218,7 +218,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[URL="https://plus.google.com/communities/109330559573276360638"]GZR Community[/URL]
 -[URL="https://github.com/LakorTi"]Lakor Tools[/URL] for Via Browser
 -[URL="https://github.com/h4h13"]Hemanth S Tobi[/URL] for Retro Music Player
--[MENTION=7580472]AlienCreature7[/MENTION] and [MENTION=7772507]Wizper99[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
+-[MENTION=7580472]AlienCreature7[/MENTION], [MENTION=7772507]Wizper99[/MENTION], [MENTION=7751333]Allstargaurav[/MENTION] and [MENTION=6357786]harsh sharma[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 
 [img]http://i.imgur.com/Y5vOKGE.png[/img]
@@ -247,6 +247,15 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[COLOR="Red"]What about XPOSED?[/COLOR]
 ->XPOSED is still in beta stage. We like Xposed but it messes up with the system so before giving any bug reports make sure you have Xposed uninstalled.
  
+-[COLOR="red"]When Will Be the Next Update?[/COLOR]
+->No ETAs, please. ROM Will be updated whenever the new build is ready by your maintainer. We generally provide monthly updates with latest security patches and new features.
+	
+-[COLOR="red"]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
+	->Provide full info about your problem with logcat and the procedure to reproduce it.
+	
+->How to take Logcats?
+	->[url]https://goo.gl/UcTM9[/url] and [url]https://goo.gl/J4CSEP[/url]
+
 -[COLOR="red"]Adaway is not working :([/COLOR]
 ->Download it from here [URL="https://forum.xda-developers.com/showthread.php?t=2190753"]Adaway[/URL]
 
