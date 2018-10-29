@@ -15,6 +15,8 @@ Here we are linking you a very clean user friendly manual, go through the index 
 
 If you want to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. You can contact @FireLord1 @ishubhamsingh @jhenrique09 and @AmolAmrit Any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
+**Maintainers please note:** Our OTA and Download center implementations have been revamped, and can support both Oreo and Pie builds, but it won't work on old Oreo builds, although would work on newer builds. However, if you still want to add your old Oreo builds to our new download center then please contact us on Telegram or Google Hangouts for the procdeure. Devices with builds older than 5.7 have been dropped, and the last Oreo builds of all remaining devices have already been moved to our new downlod center.
+
 We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices)  Submit your Name, XDA Thread Link, XDA Profile Link, Device Name and Android Filehost Folder Link (Hidden). Go through the ReadMe in Official Devices repo. Submit these info ASAP once you are allowed to maintain your device officially for AospExtended OS.
 
 Our OTA app has a feature to give device specific changelogs! You can go here [Device specific changelogs](https://github.com/AospExtended-Devices/Changelogs) to upload changelogs. For each new version, you need to upload the changelog to this repository in the device specific folder.
