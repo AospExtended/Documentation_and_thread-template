@@ -1,7 +1,7 @@
 # **Official documentation and thread template guidelines for AospExtended OS.**
 
 
-![bannar7](https://user-images.githubusercontent.com/16361700/35181477-49f85b56-fde8-11e7-80f7-028639417690.png)
+![bannar7](https://raw.githubusercontent.com/AospExtended/Documentation_and_thread-template/9.x/PieBanner.png)
 
 
 
