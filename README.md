@@ -13,7 +13,7 @@ Coming to the next part, is our [Gerrit Code Review](http://gerrit.aospextended.
 Pushing patches on gerrit is very easy. You need to have an account on our gerrit obviously and you need to link your SSH keys which you have with you on your build-server or your build-machine with your gerrit account. Once you have done that you are all set with your gerrit log-in set-up.
 Here we are linking you a very clean user friendly manual, go through the index properly and know your stuff properly! [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/intro-user.html)
 
-If you want to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. You can contact @FireLord1 @ishubhamsingh @AmolAmrit and @allstargaurav . Any issues with building and if you want to ask anything related to it, feel free to hit us up!
+If you want to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. You can contact [FireLord1](https://firelord.github.io/), [ishubhamsingh](https://www.ishubhamsingh.com/), [AmolAmrit](https://goo.gl/hESV7S) or [allstargaurav](https://github.com/allstargaurav). Do not contact more than one developer at a time. Any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
 We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices). Go through the ReadMe in Official Devices repo and add your data in the .json file accordingly. Submit these info ASAP once you are allowed to maintain your device officially for AospExtended OS.
 
