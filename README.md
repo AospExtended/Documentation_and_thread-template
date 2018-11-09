@@ -8,9 +8,9 @@ Maintainers are asked to follow the guidelines mentioned here and for the thread
 
 If you wish to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. But before applying for the official maintainership, you need to go through our [Official maintainer's rules/guidelines here](https://github.com/AospExtended/Documentation_and_thread-template/blob/9.x/Maintainers_Rules.md). You need to strictly comply with our rules. 
 
-You can contact us on telegram at @FireLord1, @ishubhamsingh, @AmolAmrit or @allstargaurav. Do not contact more than one developer at a time. Any issues with building and if you want to ask anything related to it, feel free to hit us up!
+You can contact us on telegram at @FireLord1, @ishubhamsingh, @AmolAmrit or @allstargaurav. Do not contact more than one developer at a time. If you have any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
-We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices). Go through the ReadMe in Official Devices repo and add your data in the .json file accordingly. Submit these info ASAP once you are allowed to maintain your device officially for AospExtended OS.
+We have website, where Official Builds are posted. So if you are an official maintainer then create a pull request for it, [Apply for Official devices](https://github.com/AospExtended/official_devices). Go through the ReadMe in Official Devices repo and add your data in the .json file accordingly. Submit these info ASAP, once you are allowed to maintain your device officially for AospExtended OS.
 
 Our OTA app has a feature to give device specific changelogs! You can go here [Device official builds & changelog](https://github.com/AospExtended-Devices/official_builds) to upload changelogs. Please read the ReadMe file once to understand the structure before you fill in your data. For each new version, you need to upload the changelog to this repository in the device specific folder.
 
