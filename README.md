@@ -6,7 +6,7 @@
 
 Maintainers are asked to follow the guidelines mentioned here and for the thread template. Always take at least two reserved posts! Be respectful to users. If any fuss is created report us before doing anything. 
 
-If you wish to maintain your device officially then you need to contact any of our team members on Telegram or Google Hangouts. But before applying for the official maintainership, you need to go through our [Official maintainer's rules/guidelines here](https://github.com/AospExtended/Documentation_and_thread-template/blob/9.x/Maintainers_Rules.md). You need to strictly comply with our rules. 
+If you wish to maintain your device officially then you must fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSd3RyjUjb-QAMh231KXlZFipLgFjDlhFCnHS4tptlwlnI_7-w/viewform?usp=pp_url) and provide all details mention in form. But before applying for the official maintainership, you need to go through our [Official maintainer's rules/guidelines here](https://github.com/AospExtended/Documentation_and_thread-template/blob/9.x/Maintainers_Rules.md). You need to strictly comply with our rules.
 
 You can contact us on telegram at @FireLord1, @ishubhamsingh, @AmolAmrit or @allstargaurav. Do not contact more than one developer at a time. If you have any issues with building and if you want to ask anything related to it, feel free to hit us up!
 
@@ -23,7 +23,7 @@ Here we are linking you a very clean user friendly manual, go through the index 
 **Important Links:**
 
 - [Our Website, Downloads and Usage Statistics](http://www.aospextended.com/)
-- [Our Github](https://github.com/AospExtended/)  
+- [Our Github](https://github.com/AospExtended/)
 - [Gerrit Code Review](http://gerrit.aospextended.com/)
 - [Documentation, Official Devices & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template/)
 - [Maintainers Rules](https://github.com/AospExtended/Documentation_and_thread-template/blob/9.x/Maintainers_Rules.md)
