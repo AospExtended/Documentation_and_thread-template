@@ -18,10 +18,6 @@ Coming to the next part, is our [Gerrit Code Review](http://gerrit.aospextended.
 Pushing patches on gerrit is very easy. You need to have an account on our gerrit obviously and you need to link your SSH keys which you have with you on your build-server or your build-machine with your gerrit account. Once you have done that you are all set with your gerrit log-in set-up.
 Here we are linking you a very clean user friendly manual, go through the index properly and know your stuff properly! [Gerrit Manual for AospExtended OS](http://gerrit.aospextended.com/Documentation/intro-user.html)
 
-**Note:** You can push patches for Official Devices repo on our gerrit too.
-
-**Important Links:**
-
 - [Our Website, Downloads and Usage Statistics](http://www.aospextended.com/)
 - [Our Github](https://github.com/AospExtended/)
 - [Gerrit Code Review](http://gerrit.aospextended.com/)
