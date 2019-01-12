@@ -1,4 +1,4 @@
-Thread Title - [ROM][9.0.0_r21] AospExtended ROM V6.1 [UNOFFICIAL]
+Thread Title - [ROM][9.0.0_r30] AospExtended ROM V6.2 [UNOFFICIAL]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -158,40 +158,45 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v6.1 Changelog
+[CODE][b] AospExtended v6.2 Changelog
 
--Merge December security patch (9.0.0_r21)
--Update all translations
--Add Frameworkboost support (Device specific)
--Add Full navbar gesture
--Add Smartnav (Smartbar, pulse, fling)
--Add Pulse blacklist
--Add Ambient music ticker
--Add Expanded desktop
--Add Expanded desktop QS tile
--Add QS styles
--Add option to mute with gesture
--Add New bootanimation by Edoardo Zullo
--Add button to AppErrorDialog to upload crash information to dogbin
--Add support for HW encryption
--Add Ringtone support for MSIM
--Add cycle mode for QS location tile
--Add Nightlight brightness mode
--Add toggle for data disabled indicator
--Update HW-key binding
--Enable call blocking by default in dialer
--Improvements in statusbar bluetooth battery indicator
--Option to control ring volume using vol key
--Configurable 0, 90, 180 and 270 degree rotation
--Use custom fingerprint for re-caching
--Remove statusbar padding
--Fix partial screenshot
--Fix black icon in notification cards on using dark themes
--Fix screensaver FC
--Fix official maintainers list in About Us
--Launcher3: Toggle for legacy icon mask
--Launcher3: Round corners for recent cards
--Launcher3: Improve system theme support
+- Merge January security patch (9.0.0_r)
+- Update all translations
+- Update all pre-built apks
+- Update all of our packages
+- Update weather client
+- Update Boostframework support 
+- Update Ambient music
+- Update & fix theming issues
+- Update audio configs
+- Update In-call UI
+- Rework auto-brightness implementation
+- Add Increasing ring feature
+- Add Custom font service
+- Add Custom carrier label support
+- Add Statusbar brightness control
+- Add Battery bar customisation
+- Add support for rootless substratum
+- Add Custom rounded corner & padding feature
+- Add Three finger swipe screenshot feature
+- Add Custom AOKP system animations
+- Add Custom screen off animations
+- Add Custom Gaming Mode tile
+- Add Option to disable scrolling cache
+- Add Switch to enable/disable locksreen media art
+- Add Lockscreen visualizer
+- Add Switch for Oreo like recents
+- Add Memory bar for recents
+- Add Face Unlock V2
+- Add AppOps
+- Add SmartPixels feature
+- Add Running services toggle
+- Add OnePlus navigation gestures
+- Add support for auto call recording in dialer
+- Improve notification log
+- Fix high battery drain after using flashlight
+- Fix high frame rate recording
+- Bug fixes and performance improvements
 
 Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
