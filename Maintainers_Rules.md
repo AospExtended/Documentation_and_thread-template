@@ -2,11 +2,7 @@ These are basic rules/guidelines for **Maintainers**. **Maintainers** here by re
 
 ## Rules/Guidelines
 
-- Maintainers of AOSP EXTENDED **must** have basic knowledge of Linux, working with Android ROMs, git, GitHub, Gerrit.
-
-- Maintainers **must** own the device and do all their own testing. The blind building is not acceptable.
-
-- Maintainers **must** maintain an XDA-thread for their current official builds. If not, a link must be provided where they are providing support to users.
+- Maintainers **must** behave properly and must contribute towards the creation of a positive environment. They **must not** troll, insult, use hate words, do personal attacks or any action that is unacceptable towards the creation of a positive environment.
 
 - The source code of the device being maintained **must** be open for forking, inspection etc. Maintainers may host their trees at AOSP EXTENDED Device organization on GitHub. If not, they **must** provide a link to their Device, Vendor and Kernel source on their support thread.
 
@@ -15,8 +11,6 @@ These are basic rules/guidelines for **Maintainers**. **Maintainers** here by re
 - The device **must not** have any outside dependencies. All dependencies **must** be open sourced and ready to be forked with proper authorship/commit history.
 
 - Maintainers **must** push OTA update after a version release and before another. Any device which fails to receive 2 consecutive OTA will be removed from official devices.
-
-- Maintainers **must** behave properly and must contribute towards the creation of a positive environment. They **must not** troll, insult, use hate words, do personal attacks or any action that is unacceptable towards the creation of a positive environment.
 
 - Maintainers **must** upload changelogs for each build.
 
