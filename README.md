@@ -1,4 +1,4 @@
-# Documentation and Thread Template
+# Documentation and Thread Template for AospExtended OS
 
 ![bannar7](https://raw.githubusercontent.com/AospExtended/Documentation_and_thread-template/9.x/PieBanner.png)
 
@@ -14,7 +14,7 @@ If you fulfill the criteria mentioned below, fill out this [**form**](https://do
 
 ## Maintainer Requirements
 - Must be familiar with Github and have intermediate knowledge of it
-- Must be able to Push/Pull and review changes on [Gerrit](https://github.com/AospExtended/0)
+- Must be able to Push/Pull and review changes on [Gerrit](http://gerrit.aospextended.com/)
 - Must be doing Unofficial build for at least 2-3 month before applying
 - Must own the device
 - Must have an XDA-thread for their current builds. If not, a link must be provided where they are providing support to users
