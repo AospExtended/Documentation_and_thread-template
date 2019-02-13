@@ -1,4 +1,4 @@
-Thread Title - [ROM][9.0.0_r30] AospExtended ROM V6.2 [UNOFFICIAL]
+Thread Title - [ROM][9.0.0_r31] AospExtended ROM V6.3 [UNOFFICIAL]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -158,44 +158,36 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v6.2 Changelog
+[CODE][b] AospExtended v6.3 Changelog
 
-- Merge January security patch (9.0.0_r)
+- Merge February security patch (9.0.0_r31)
 - Update all translations
 - Update all pre-built apks
 - Update all of our packages
-- Update weather client
-- Update Boostframework support 
+- Update Boostframework 
+- Update activity manager service (AMS) 
 - Update Ambient music
-- Update & fix theming issues
-- Update audio configs
-- Update In-call UI
-- Rework auto-brightness implementation
-- Add Increasing ring feature
-- Add Custom font service
-- Add Custom carrier label support
-- Add Statusbar brightness control
-- Add Battery bar customisation
-- Add support for rootless substratum
-- Add Custom rounded corner & padding feature
-- Add Three finger swipe screenshot feature
-- Add Custom AOKP system animations
-- Add Custom screen off animations
-- Add Custom Gaming Mode tile
-- Add Option to disable scrolling cache
-- Add Switch to enable/disable locksreen media art
-- Add Lockscreen visualizer
-- Add Switch for Oreo like recents
-- Add Memory bar for recents
-- Add Face Unlock V2
-- Add AppOps
-- Add SmartPixels feature
-- Add Running services toggle
-- Add OnePlus navigation gestures
-- Add support for auto call recording in dialer
-- Improve notification log
-- Fix high battery drain after using flashlight
-- Fix high frame rate recording
+- Update Sim colors
+- Update dialer app
+- Add Lockscreen clock styles
+- Add Recents icon pack support
+- Add ADB over network support
+- Add option to hide lockscreen clock
+- Add option to hide lockscreen items
+- Add Incall vibrations seperately
+- Add Kill app button on notification guts
+- Add option to minimise notifications when screen is on
+- Add Less notifications sound feature
+- Add Onehanded mode feature
+- Add Compass QS tile
+- Add LTE tile
+- Add battery temperature in battery stats
+- Add Wellbeing dark theme
+- Add option to set call log deletion limit
+- Add adjustable volume steps
+- Revamp our dark theme
+- Refresh statusbar clock properly
+- Improve theming on certain elements
 - Bug fixes and performance improvements
 
 Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
