@@ -1,4 +1,4 @@
-Thread Title - [ROM][9.0.0_r35] AospExtended ROM V6.5 [UNOFFICIAL]
+Thread Title - [ROM][9.0.0_r40] AospExtended ROM V6.6 [UNOFFICIAL]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -34,9 +34,8 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [CODE][B]
 -DUI(Fling/Pulse/Smartbar)
 -DU Font Engine
--Omni's QSHeaders Background
 -One-Handed UI
--Grid/GO Recents UI
+-Live Display
 -AppOps
 -Expanded Desktop
 -Statusbar Clock/Date Customizations
@@ -68,7 +67,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Breathing Notifications
 -Long Press Gear Icon in Statusbar Header Launches Extensions
 -Show 4G instead of LTE switch
--Night Mode QS Tile
+-Reading Mode QS Tile
 -Long press Caffeine Tile Action
 -Customize QS Rows/Columns
 -Customize small QS Tiles
@@ -103,16 +102,12 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Oreo Recents Clear All FAB button and Re-positioning
 -Oreo Recents Free Ram bar
 -Custom Carrier label
--Paranoid Android PIE Controls
 -Toggle power menu on Secured Lockscreen
 -CPU Info Switch
 -Disable Orange Color in Battery Saver Mode
--PiP QS tile
 -New Pretty Adaptive Icons for included AOSP apps
 -Run SysUI tuner from Extensions
 -Built-in Light/Dark/Black/Chocolate/Wallpaper-Based and EXTENDED UI Themes
-
-NOTE: Many features might be missing in the initial release
 
 And many more coming in the future! Many extensions are added in each update so we miss out adding new extensions to this list. So always keep on checking the latest changelog on our [URL="https://blog.aospextended.com/"]Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
@@ -149,24 +144,38 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v6.5 Changelog
+[CODE][b] AospExtended v6.6 Changelog
 
-
-- Merged April security patch (9.0.0_r35)
-- Updated all translations
-- Updated all pre-built apks
-- Android Q inspired lock screen clock
-- Added Aggressive Battery
-- Added support for WPS
-- Added new lock screen clock style
-- Added option to enable seconds in status bar clock
-- Notch-city: Add 3 mode display cutout handler (Only for notched devices)
-- Improvement in ambient music ticker’s layout
-- Rebased our OTA app
-- Removed extended vol panel toggles, the expandable panel is enough
-- Improvements to AOSP Calendar
-- Fixed some theming issues in DocumentsUI (Files)
-- Improvements and fixes to the default launcher
+- Merge June security patch (9.0.0_r40)
+- Update all translations
+- Update all pre-built apks
+- Update all of our packages
+- Update APN configs
+- Update Weather client
+- Update Boostframework
+- Update our launcher with Quick Space
+- Add Pocket Lock feature
+- Add Sysserv support for Substratum theme engine
+- Add Pixel Navigation bar animation 
+- Add Live Display 
+- Add Font QS tile
+- Add Aggressive battery saving feature
+- Add Android Q's seek bar to media notification
+- Add Android Q's  lock screen clock style
+- Add Android Q's status bar battery icon
+- Add Less boring heads up feature
+- Add Battery animation in settings
+- Add a new Elegant UI theme
+- Improve UI for certain applications
+- Improve three finger swipe screenshot feature
+- Improve some UI/UX aspects
+- Improve auxiliary camera support
+- Improve Bluetooth SBC 
+- Improve Location QS tile
+- Fix battery icon shortcut
+- Fix some theme issues 
+- Fix AOSP WFD (Miracast) support
+- Fix audio server crashes again
 - Under the hood improvements
 - Bug fixes and performance improvements
 
