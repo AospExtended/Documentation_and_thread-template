@@ -1,4 +1,4 @@
-Thread Title - [ROM][9.0.0_r40] AospExtended ROM V6.6 [UNOFFICIAL]
+Thread Title - [ROM][9.0.0_r46] AospExtended ROM V6.7 [UNOFFICIAL]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -144,37 +144,31 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v6.6 Changelog
+[CODE][b] AospExtended v6.7 Changelog
 
-- Merge June security patch (9.0.0_r40)
+- Merge August security patch (9.0.0_r46)
 - Update all translations
-- Update all pre-built apks
 - Update all of our packages
 - Update APN configs
-- Update Weather client
-- Update Boostframework
-- Update our launcher with Quick Space
-- Add Pocket Lock feature
-- Add Sysserv support for Substratum theme engine
-- Add Pixel Navigation bar animation 
-- Add Live Display 
-- Add Font QS tile
-- Add Android Q's seek bar to media notification
-- Add Android Q's status bar battery icon
-- Add Less boring heads up feature
-- Add Battery animation in settings
-- Add a new Elegant UI theme
-- Improve UI for certain applications
-- Improve three finger swipe screenshot feature
+- Update Boostframework configs
+- Update MusicFX
+- Update Launcher 3
+- Add new default wallpaper
+- Add VPN QS tile
+- Add per-app data restriction
+- Add privacy guard
+- Add proximity speaker for calls
+- Add an option for the AEX Logo in status bar
+- Add smart mute feature
+- Add some new fonts
+- Improve Gaming Mode
+- Improve Pocket Lock
+- Improve Live Display
+- Improve the Q style lock clock
+- Improve VoLTE toggle
 - Improve some UI/UX aspects
-- Improve auxiliary camera support
-- Improve Bluetooth SBC 
-- Improve Location QS tile
-- Fix battery icon shortcut
-- Fix some theme issues 
-- Fix AOSP WFD (Miracast) support
-- Fix audio server crashes again
-- Under the hood improvements
+- Fix few theming issues
+- Lot of under the hood improvements
 - Bug fixes and performance improvements
 
 Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
