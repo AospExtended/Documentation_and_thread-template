@@ -1,6 +1,6 @@
 # Documentation and Thread Template for AospExtended OS
 
-![bannar7](https://raw.githubusercontent.com/AospExtended/Documentation_and_thread-template/9.x/PieBanner.png)
+![bannar7](https://raw.githubusercontent.com/AospExtended/Documentation_and_thread-template/10.x/Banner.png)
 
 ## Guidelines
 Maintainers are asked to follow the guidelines mentioned below and for the thread template. Always take at least two reserved posts! Be respectful to users. If any fuss is created report us before doing anything.
