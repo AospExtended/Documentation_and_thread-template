@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r23] AospExtended ROM V7.0 [UNOFFICIAL]
+Thread Title - [ROM][10.0.0_r32] AospExtended ROM V7.0 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -74,6 +74,21 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -AEXPapers - our wallpaper app
 -Via/Jelly Browser
 -Pixel's UI and Ringtones
+-Incall Vibration Option
+-Option to Disable Data Disabled Indicator Icon
+-Option to Disable Roaming Indicator
+-Option to Disable Hardware Navigation Keys
+-Volume Key Cursor Control
+-Hardware Buttons Customization
+-CPU info overlay
+-Option to use power key as shutter
+-Option to Wake on plug 
+-Running services icon toggle in quick settings
+-Lockscreen Visualizer
+-Smart Pulldown
+-Option to Move QS Brightness Slider [Top/Bottom]
+-QS Brightness Slider Buttons
+-BatteryBar customization
 
 NOTE: Few features might be missing in our initial release
 
@@ -113,10 +128,30 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.0 Changelog
+[CODE][b] AospExtended v7.0 Changelog - 13/03/2020
 
-- Initial version with latest security patches
-
+- Merged March Security Patches
+- Added Volume key cursor control
+- Added Incall Vibration option
+- Added Option to Disable Data Disabled Indicator Icon 
+- Added Option to Disable Roaming Indicator
+- Added Button Backlight Customization
+- Added Option to Disable Hardware Navigation Keys
+- Added Home Button Wakeup Support
+- Added CPU info overlay
+- Added permission to camera to use power key as shutter
+- Added Wake on plug option
+- Added Running services icon toggle
+- Added Lockscreen Visualizer feature
+- Added Option to Disable QS Footer Warnings
+- Added Smart Pulldown
+- Added Option to Move QS Brightness Slider [Top/Bottom]
+- Added Auto Brightness Toggle to Quick Settings
+- Added QS Brightness Slider Buttons
+- Added StatusBar Brightness Control
+- Added BatteryBar customization
+- Added Option - Make heads up less annoying [Show heads up only for dialer or messaging app if they are not in foreground]
+ 
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
