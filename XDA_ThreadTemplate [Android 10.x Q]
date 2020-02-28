@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r23] AospExtended ROM V7.0 [UNOFFICIAL]
+Thread Title - [ROM][10.0.0_r28] AospExtended ROM V7.0 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -74,6 +74,11 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -AEXPapers - our wallpaper app
 -Via/Jelly Browser
 -Pixel's UI and Ringtones
+-Incall Vibration Option
+-Option to Disable Data Disabled Indicator Icon
+-Option to Disable Roaming Indicator
+-Option to Disable Hardware Navigation Keys
+-Volume Key Cursor Control
 
 NOTE: Few features might be missing in our initial release
 
@@ -113,9 +118,16 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.0 Changelog
+[CODE][b] AospExtended v7.0 Changelog - 17/02/2020
 
-- Initial version with latest security patches
+- Merged February Security Patches
+- Added Volume key cursor control
+- Added Incall Vibration option
+- Added Option to Disable Data Disabled Indicator Icon 
+- Added Option to Disable Roaming Indicator
+- Added Button Backlight Customization
+- Added Option to Disable Hardware Navigation Keys
+- Added Home Button Wakeup Support
 
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
