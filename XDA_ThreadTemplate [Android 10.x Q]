@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r33] AospExtended ROM V7.1 [UNOFFICIAL]
+Thread Title - [ROM][10.0.0_r36] AospExtended ROM V7.2 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -128,49 +128,36 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.1 Changelog - 11/04/2020
+[CODE][b] AospExtended v7.2 Changelog - 13/05/2020
 
-- Merge April security patch (10.0.0_r33)
-- Update all of our packages
-- Update pre-built apks
-- Add LS media art blur customisation
-- Add toggle for FP with vibration
-- Add toggle for persistent settings icon on QS panel
-- Add option to force full screen aspect ratio on pre-O applications
-- Add volume key cursor control
-- Add in-call vibration options
-- Add toggle for display data disabled indicator
-- Add toggle for roaming indicator
-- Add HW navigation button light customisation
-- Add HW key disable support
-- Add support for home button wake
-- Add CPU info overlay
-- Add LS visualiser with customisation
-- Add toggle for QS footer warnings
-- Add smart pull down
-- Add brightness slider position customisation
-- Add brightness slider toggle
-- Add auto-brightness icon toggle
-- Add status bar brightness control gesture
-- Add battery bar
-- Add less boring heads-up
-- Add option to mute media with gesture
-- Add kill app button to notification guts
-- Add custom carrier label and label placement
-- Add notch support for carrier label
-- Add custom rounded corner and padding preferences
-- Add CM screen security customisation (Custom pattern size, Dots visibility etc.)
-- Add toggle to DT2W on doze
-- Add battery/notification light customisation
-- Add toggle for on-screen navigation bar with customisation
-- Add option to swap recents and back
-- Add fruity pebbles for switching accent colour
-- Add theme QS tile
-- Improve auto-brightness slider UI/UX
-- Bring back our system themes
-- Fix few theming issues
-- There is a new boot animation!
-- Bug fixes and performance improvements
+ • Merge May security patch (10.0.0_r36)
+ • Add screen recorder
+ • Add long-shot (screenshot) support
+ • Add pocket lock
+ • Add adaptive playback 
+ • Add multi-sim ringtone support
+ • Add smart pixels support
+ • Add support for MicroG
+ • Add support for keyboard themes
+ • Add AOD QS tile
+ • Add reboot/recovery QS tile
+ • Add music QS tile
+ • Add FPS overlay QS tile
+ • Add different battery styles
+ • Add support for new charging animation
+ • Add QS blur 
+ • Add support to hide arrow for back gesture
+ • Improve boring heads up option
+ • Improve partial screenshot
+ • Improve battery bar
+ • Improve themes
+ • Improve QS panels and tiles
+ • Improve volume panel
+ • Improve LS Charging
+ • Fix few theming issues
+ • Update pre-built apps
+ • Update cryptfs
+ • Bug fixes and performance improvements
  
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
