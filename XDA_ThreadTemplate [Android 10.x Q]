@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r36] AospExtended ROM V7.2 [UNOFFICIAL]
+Thread Title - [ROM][10.0.0_r39] AospExtended ROM V7.3 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -128,37 +128,25 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.2 Changelog - 13/05/2020
+[CODE][b] AospExtended v7.3 Changelog - 13/06/2020
 
- • Merge May security patch (10.0.0_r36)
- • Add screen recorder
- • Add long-shot (screenshot) support
- • Add pocket lock
- • Add adaptive playback 
- • Add multi-sim ringtone support
- • Add smart pixels support
- • Add support for MicroG
- • Add support for keyboard themes
- • Add AOD QS tile
- • Add reboot/recovery QS tile
- • Add music QS tile
- • Add FPS overlay QS tile
- • Add different battery styles
- • Add support for new charging animation
- • Add QS blur 
- • Add support to hide arrow for back gesture
- • Improve boring heads up option
- • Improve partial screenshot
- • Improve battery bar
- • Improve themes
+ • Merge June security patch (10.0.0_r39)
+ • Update all of our packages
+ • Update launcher
+ • Add support for data restriction
+ • Add gaming mode
+ • Add live display
+ • Add reading mode QS tile
+ • Add live display QS tile
+ • Add compass QS tile
+ • Add lock screen charging animation
+ • Unlink ringer and notification sounds
  • Improve QS panels and tiles
+ • Improve lock screen
  • Improve volume panel
- • Improve LS Charging
- • Fix few theming issues
- • Update pre-built apps
- • Update cryptfs
+ • Improve MicroG
  • Bug fixes and performance improvements
- 
+
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
