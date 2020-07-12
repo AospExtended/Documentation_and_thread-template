@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r32] AospExtended ROM V7.0 [UNOFFICIAL]
+Thread Title - [ROM][10.0.0_r39] AospExtended ROM V7.3 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -128,30 +128,25 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.0 Changelog - 13/03/2020
+[CODE][b] AospExtended v7.3 Changelog - 13/06/2020
 
-- Merged March Security Patches
-- Added Volume key cursor control
-- Added Incall Vibration option
-- Added Option to Disable Data Disabled Indicator Icon 
-- Added Option to Disable Roaming Indicator
-- Added Button Backlight Customization
-- Added Option to Disable Hardware Navigation Keys
-- Added Home Button Wakeup Support
-- Added CPU info overlay
-- Added permission to camera to use power key as shutter
-- Added Wake on plug option
-- Added Running services icon toggle
-- Added Lockscreen Visualizer feature
-- Added Option to Disable QS Footer Warnings
-- Added Smart Pulldown
-- Added Option to Move QS Brightness Slider [Top/Bottom]
-- Added Auto Brightness Toggle to Quick Settings
-- Added QS Brightness Slider Buttons
-- Added StatusBar Brightness Control
-- Added BatteryBar customization
-- Added Option - Make heads up less annoying [Show heads up only for dialer or messaging app if they are not in foreground]
- 
+ • Merge June security patch (10.0.0_r39)
+ • Update all of our packages
+ • Update launcher
+ • Add support for data restriction
+ • Add gaming mode
+ • Add live display
+ • Add reading mode QS tile
+ • Add live display QS tile
+ • Add compass QS tile
+ • Add lock screen charging animation
+ • Unlink ringer and notification sounds
+ • Improve QS panels and tiles
+ • Improve lock screen
+ • Improve volume panel
+ • Improve MicroG
+ • Bug fixes and performance improvements
+
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
@@ -195,7 +190,6 @@ Checkout our [URL="https://github.com/aospextended"][COLOR="Red"]Github[/COLOR][
 -[URL="https://github.com/ezio84"]ABC ROM[/URL]
 -[URL="https://github.com/GZOSP"]GZOSP Community[/URL]
 -[URL="https://github.com/LakorTi"]Lakor Tools[/URL] for Via Browser
--[URL="https://github.com/h4h13"]Hemanth S Tobi[/URL] for Retro Music Player
 -[MENTION=7580472]AlienCreature7[/MENTION], [MENTION=7772507]Wizper99[/MENTION], [MENTION=7751333]Allstargaurav[/MENTION], [MENTION=7820332]Edozullo[/MENTION] and [MENTION=6357786]harsh sharma[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 
