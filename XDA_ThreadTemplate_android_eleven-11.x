@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r36] AospExtended ROM V7.2 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r32] AospExtended ROM V8.0 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -13,6 +13,7 @@ Thread Title - [ROM][10.0.0_r36] AospExtended ROM V7.2 [UNOFFICIAL]
  * you point the finger at me for messing up your device, I will laugh at you.
  */[/CODE]
 
+
 [SIZE="3"][B]
 Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
 
@@ -22,77 +23,93 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based ROM which provides stock UI/UX experience with useful customizations. Being based on AOSP it provides a smooth experience. We have added useful customizations from various other open-source projects and have tried to keep our things simple. A ROM by a user, for a user. #BeExtended[/COLOR][/SIZE][/B]
 
 
-
 [img]https://i.imgur.com/LXtiYrB.png[/img]
-
 
 [B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We aim to add important features that we think should be here and also what you think. For the addition of more tweaks or features, head on to our Telegram community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
 
 
-
 [CODE][B]
--AOSP Font Engine
--Permission Manager
--Statusbar Date Customizations
--Increasing Volume in Ringtone
--Detailed Location QS Tile!
--Statusbar Traffic Indicators
--DT2S On Statusbar and Lockscreen
--QS Quick Pulldown
--QS Brightness Slider (Enable/Disable)
--QS Tiles Animations
--Force Expand Notifications (Enable/Disable)
--Flashlight Notifications
--Toast Icon
--Power Menu Customizations
--Additional Battery Saver steps
--Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
--Fingerprint Gestures Support
--One Tap Data & Wifi Tile
--Auto-Brightness Icon Toggle
--Long Press Gear Icon in Statusbar Header Launches Extensions
--Show 4G instead of LTE switch
--Long press Caffeine Tile Action
--Customize QS Rows/Columns
--Customize small QS Tiles
--StatusBar Brightness Control
--Lockscreen Shortcut
--Quick Unlock for PIN/Password
--Battery Styles and Percentage
--Flip Button Animation
--Unlink Notification Volume
--Camera Sound Toggle
--Advanced Ambient Display Customizations
--Long-press Power Button on Lockscreen for Torch
--Toggle Lockscreen Media Art
--Disable QS on Secured Lockscreen
--Hide Clock/Date/Alarm Text from Lockscreen
--Heads up Customizations
--Button Backlight Customizations
--Toggle power menu on Secured Lockscreen
--Run SysUI tuner from Extensions
--AEXPapers - our wallpaper app
--Via/Jelly Browser
--Pixel's UI and Ringtones
--Incall Vibration Option
--Option to Disable Data Disabled Indicator Icon
--Option to Disable Roaming Indicator
--Option to Disable Hardware Navigation Keys
--Volume Key Cursor Control
--Hardware Buttons Customization
--CPU info overlay
--Option to use power key as shutter
--Option to Wake on plug 
--Running services icon toggle in quick settings
--Lockscreen Visualizer
--Smart Pulldown
--Option to Move QS Brightness Slider [Top/Bottom]
--QS Brightness Slider Buttons
--BatteryBar customization
+-ADB Root
+-AEXPapers - our wallpaper app.
+-AOSP Font Engine.
+-Adaptive Playback.
+-Additional Battery Saver steps.
+-Advanced Ambient Display Customizations.
+-Auto-Brightness Icon Toggle.
+-Battery Bar.
+-Battery Styles and Percentage.
+-Battery/Notification Light Customisations.
+-Button Backlight Customizations.
+-CPU Info Overlay.
+-Camera Sound Toggle.
+-Carrier Labels.
+-Configurable Audio Panel Location.
+-Custom Pattern Lock Sizes (3x3, 4x4, 5x5, 6x6).
+-Custom QS styles (ambient_display,aod,caffeine,compass,cpuinfo,dataswitch,fpsinfo,gaming,heads_up,mono,music,reboot,screenshot,smartpixels,sound,soundsearch,sync,theme,usb_tether,volume_panel,vpn).
+-Customize QS Rows/Columns.
+-Customize small QS Tiles.
+-DT2S On Statusbar, Lockscreen and Homescreen.
+-DT2W When Locked Device.
+-Detailed Location QS Tile.
+-Disable QS on Secured Lockscreen.
+-DuckDuckGo Browser.
+-Etar (Calendar App)
+-Extended Volume Panel.
+-FPS Info.
+-Face Unlock
+-Fingerprint Gestures Support.
+-Flashlight Notifications.
+-Flip Button Animation.
+-Force Expand Notifications (Enable/Disable).
+-Gaming Mode.
+-HW Key Customisation.
+-Heads Up Customizations.
+-Hide Clock/Date/Alarm Text from Lockscreen.
+-In-Call Vibration Options.
+-Increasing Volume in Ringtone.
+-Kill App Button in Notification Row.
+-LS Visualiser with Customisations.
+-Less Boaring Headsup.
+-Lineage Livedisplay
+-Lineage Touch Hal
+-Lockscreen Charging.
+-Lockscreen Clock Styles.
+-Lockscreen Shortcut.
+-Long Press Gear Icon in Statusbar Header Launches Extensions.
+-Long press Caffeine Tile Action.
+-Long-press Power Button on Lockscreen for Torch.
+-Music Player Go.
+-Navigation Bar Toggle and Customisations.
+-One Tap Data & Wifi Tile.
+-Option to mute Media with Gesture.
+-Per app WiFi, Data & VPN restrictions.
+-Permission Manager.
+-Pixel's UI and Ringtones.
+-Pocket Lock/Pocket Judge.
+-Power Menu Customizations.
+-QS Brightness Slider (Enable/Disable).
+-QS Quick Pulldown.
+-QS Tile Styles.
+-QS Tiles Animations.
+-Quick Access Wallet
+-Quick Unlock for PIN/Password.
+-Run SysUI tuner from Extensions.
+-Show 4G instead of LTE switch.
+-Smart Pixels.
+-StatusBar Brightness Control/Swap.
+-Statusbar Date Customizations.
+-Statusbar Traffic Indicators.
+-Themes and Accents.
+-Toast Icon.
+-Toggle Lockscreen Media Art and Blur Customisation.
+-Toggle Power Menu on Secured Lockscreen.
+-Toggle for FP with Vibration.
+-Toggle for QS Footer Warnings.
+-Unlink Notification Volume.
+-VPN with tethered connection.
+-Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode).
 
-NOTE: Few features might be missing in our initial release
-
-And many more coming in the future! Many extensions are added in each update so we miss out adding new extensions to this list. 
+And many more coming in the future! Many #Extended features are added in each update and we might miss out adding new ones to this list. 
 So always keep on checking the latest changelog on our [URL="https://blog.aospextended.com/"]Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
 
 
@@ -104,7 +121,8 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [color=navy][URL="https://downloads.aospextended.com/"][COLOR="RoyalBlue"][SIZE="3"][B]DEVICE NAME[/B][/SIZE][/COLOR] [/URL][/color]
 
 [SIZE="3"][COLOR="YellowGreen"][B]Google Apps
--[URL="http://opengapps.org"]GApps[/URL][/B][/COLOR][/SIZE]
+-[URL="https://opengapps.org"]OpenGApps[/URL][/B][/COLOR][/SIZE]
+-[URL="https://nikgapps.com"]NikGApps[/URL][/B][/COLOR][/SIZE]
 
 
 [img]https://i.imgur.com/lID1jJJ.png[/img]
@@ -128,37 +146,10 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.2 Changelog - 13/05/2020
+[CODE][b] AospExtended v8.0 Changelog
 
- • Merge May security patch (10.0.0_r36)
- • Add screen recorder
- • Add long-shot (screenshot) support
- • Add pocket lock
- • Add adaptive playback 
- • Add multi-sim ringtone support
- • Add smart pixels support
- • Add support for MicroG
- • Add support for keyboard themes
- • Add AOD QS tile
- • Add reboot/recovery QS tile
- • Add music QS tile
- • Add FPS overlay QS tile
- • Add different battery styles
- • Add support for new charging animation
- • Add QS blur 
- • Add support to hide arrow for back gesture
- • Improve boring heads up option
- • Improve partial screenshot
- • Improve battery bar
- • Improve themes
- • Improve QS panels and tiles
- • Improve volume panel
- • Improve LS Charging
- • Fix few theming issues
- • Update pre-built apps
- • Update cryptfs
- • Bug fixes and performance improvements
- 
+- Initial release with March 2021 patches (Tag:11.0.0_r32)
+
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
@@ -201,7 +192,8 @@ Checkout our [URL="https://github.com/aospextended"][COLOR="Red"]Github[/COLOR][
 -[URL="https://github.com/aospa"]AOSPA[/URL]
 -[URL="https://github.com/ezio84"]ABC ROM[/URL]
 -[URL="https://github.com/GZOSP"]GZOSP Community[/URL]
--[URL="https://github.com/LakorTi"]Lakor Tools[/URL] for Via Browser
+-[URL="https://github.com/johanhil/ddg-android"]Johan Söderholm[/URL] for DuckDuckGo Browser
+-[URL="https://github.com/enricocid/Music-Player-GO"]Enrico D'Ortenzio[/URL] for Music Player Go
 -[MENTION=7580472]AlienCreature7[/MENTION], [MENTION=7772507]Wizper99[/MENTION], [MENTION=7751333]Allstargaurav[/MENTION], [MENTION=7820332]Edozullo[/MENTION] and [MENTION=6357786]harsh sharma[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 
