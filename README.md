@@ -10,12 +10,12 @@ Maintainers are asked to follow the guidelines mentioned below and for the threa
 ## Adding Official Support
 
 If you wish to maintain your device officially then read maintainer requirement mentioned below and make sure that you qualify before moving further or else you will be rejected.
-If you fulfill the criteria mentioned below, fill out this **form (unavailable temporarily)** and wait for our response
+If you fulfill the criteria mentioned below, fill out this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSd3RyjUjb-QAMh231KXlZFipLgFjDlhFCnHS4tptlwlnI_7-w/viewform?usp=pp_url) and wait for our response
 
 ## Maintainer Requirements
 - Must be familiar with Github and have intermediate knowledge of it
 - Must be able to Push/Pull and review changes on [Gerrit](http://gerrit.aospextended.com/)
-- Must be doing Unofficial build for at least 2-3 month before applying
+- Must be doing Unofficial build for at least 2-3 week before applying
 - Must own the device
 - Must have an XDA-thread for their current builds. If not, a link must be provided where they are providing support to users
 - Device tree should not have any Kang and proper authorship of commits should be maintained
