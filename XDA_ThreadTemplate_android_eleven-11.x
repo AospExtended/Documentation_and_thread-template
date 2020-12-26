@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r36] AospExtended ROM V7.2 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r20] AospExtended ROM V8.0 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -37,7 +37,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Increasing Volume in Ringtone
 -Detailed Location QS Tile!
 -Statusbar Traffic Indicators
--DT2S On Statusbar and Lockscreen
+-DT2S On Statusbar, Lockscreen and homescreen
 -QS Quick Pulldown
 -QS Brightness Slider (Enable/Disable)
 -QS Tiles Animations
@@ -74,23 +74,37 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -AEXPapers - our wallpaper app
 -Via/Jelly Browser
 -Pixel's UI and Ringtones
--Incall Vibration Option
--Option to Disable Data Disabled Indicator Icon
--Option to Disable Roaming Indicator
--Option to Disable Hardware Navigation Keys
--Volume Key Cursor Control
--Hardware Buttons Customization
+-QS tile styles
+-Lockscreen clock styles
+-Lockscreen charging
+-Gaming mode
+-Per app wifi, data & vpn restrictions
+-VPN with tethered connection
+-Gaming mode
+-Pocket lock/Pocket judge
+-Smart pixels
+-Adaptive playback
+-Custom pattern lock sizes (3x3, 4x4, 5x5, 6x6)
+-Custom qs styles (caffeine,ambient_display,usb_tether,sync,sound,screenshot,heads_up,theme,fpsinfo,volume_panel,vpn,aod,dataswitch,cpuinfo,reboot,mono,soundsearch,music,compass,smartpixels,gaming)
+-Extended volume panel
+-FPS info
+-Configurable audio panel location
+-Themes and accents
+-Navbar toggle and customisation
+-Battery/notification light customisation
+-Carrier labels
+-Kill app button in notification row
+-Less boaring headsup
+-Statusbar brightness control/Swap
+-LS media art blur customisation
+-Toggle for FP with vibration
+-In-call vibration options
+-HW key xustomisation
 -CPU info overlay
--Option to use power key as shutter
--Option to Wake on plug 
--Running services icon toggle in quick settings
--Lockscreen Visualizer
--Smart Pulldown
--Option to Move QS Brightness Slider [Top/Bottom]
--QS Brightness Slider Buttons
--BatteryBar customization
-
-NOTE: Few features might be missing in our initial release
+-LS visualiser with customisation
+-Toggle for QS footer warnings
+-Battery bar
+-Option to mute media with gesture
 
 And many more coming in the future! Many extensions are added in each update so we miss out adding new extensions to this list. 
 So always keep on checking the latest changelog on our [URL="https://blog.aospextended.com/"]Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
@@ -128,37 +142,10 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v7.2 Changelog - 13/05/2020
+[CODE][b] AospExtended v8.0 Changelog
 
- • Merge May security patch (10.0.0_r36)
- • Add screen recorder
- • Add long-shot (screenshot) support
- • Add pocket lock
- • Add adaptive playback 
- • Add multi-sim ringtone support
- • Add smart pixels support
- • Add support for MicroG
- • Add support for keyboard themes
- • Add AOD QS tile
- • Add reboot/recovery QS tile
- • Add music QS tile
- • Add FPS overlay QS tile
- • Add different battery styles
- • Add support for new charging animation
- • Add QS blur 
- • Add support to hide arrow for back gesture
- • Improve boring heads up option
- • Improve partial screenshot
- • Improve battery bar
- • Improve themes
- • Improve QS panels and tiles
- • Improve volume panel
- • Improve LS Charging
- • Fix few theming issues
- • Update pre-built apps
- • Update cryptfs
- • Bug fixes and performance improvements
- 
+- Initial version with december patches
+
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
@@ -202,6 +189,7 @@ Checkout our [URL="https://github.com/aospextended"][COLOR="Red"]Github[/COLOR][
 -[URL="https://github.com/ezio84"]ABC ROM[/URL]
 -[URL="https://github.com/GZOSP"]GZOSP Community[/URL]
 -[URL="https://github.com/LakorTi"]Lakor Tools[/URL] for Via Browser
+-[URL="https://github.com/h4h13"]Hemanth S Tobi[/URL] for Retro Music Player
 -[MENTION=7580472]AlienCreature7[/MENTION], [MENTION=7772507]Wizper99[/MENTION], [MENTION=7751333]Allstargaurav[/MENTION], [MENTION=7820332]Edozullo[/MENTION] and [MENTION=6357786]harsh sharma[/MENTION] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
 
 

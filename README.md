@@ -10,7 +10,7 @@ Maintainers are asked to follow the guidelines mentioned below and for the threa
 ## Adding Official Support
 
 If you wish to maintain your device officially then read maintainer requirement mentioned below and make sure that you qualify before moving further or else you will be rejected.
-If you fulfill the criteria mentioned below, fill out this **form (unavailable temporarily)** and wait for our response
+If you fulfill the criteria mentioned below, fill out this [**form**](https://docs.google.com/forms/d/e/1FAIpQLSd3RyjUjb-QAMh231KXlZFipLgFjDlhFCnHS4tptlwlnI_7-w/viewform?usp=pp_url) and wait for our response
 
 ## Maintainer Requirements
 - Must be familiar with Github and have intermediate knowledge of it
