@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da4789b9_19acdff3",
+        "filename": "XDA_ThreadTemplate_android_eleven-11.x",
+        "patchSetId": 5
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 1000067
+      },
+      "writtenOn": "2021-03-12T06:55:31Z",
+      "side": 1,
+      "message": "I\u0027m not agree with retro music player. it have in-app purchase. We have open source project and we should find foss with gpl-3 license app from f-droid for example.",
+      "revId": "0264de27dcffce3eb67297235f580da7ab813b96",
+      "serverId": "d5cc2900-f5de-4894-bcd1-c35edbbdd7bf",
+      "unresolved": true
+    }
+  ]
+}
