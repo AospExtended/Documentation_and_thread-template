@@ -1,4 +1,4 @@
-Thread Title - [ROM][11.0.0_r32] AospExtended ROM V8.0 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r37] AospExtended ROM v8.2 [UNOFFICIAL]
 
 [CENTER][img]https://i.imgur.com/0CwUbOx.png[/img]
 
@@ -35,6 +35,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Adaptive Playback.
 -Additional Battery Saver steps.
 -Advanced Ambient Display Customizations.
+-Applock support.
 -Auto-Brightness Icon Toggle.
 -Battery Bar.
 -Battery Styles and Percentage.
@@ -43,11 +44,13 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -CPU Info Overlay.
 -Camera Sound Toggle.
 -Carrier Labels.
+-Clock area visibility toggle.
 -Configurable Audio Panel Location.
 -Custom Pattern Lock Sizes (3x3, 4x4, 5x5, 6x6).
 -Custom QS styles (ambient_display,aod,caffeine,compass,cpuinfo,dataswitch,fpsinfo,gaming,heads_up,mono,music,reboot,screenshot,smartpixels,sound,soundsearch,sync,theme,usb_tether,volume_panel,vpn).
 -Customize QS Rows/Columns.
 -Customize small QS Tiles.
+-Customizable rounded corner radius.
 -DT2S On Statusbar, Lockscreen and Homescreen.
 -DT2W When Locked Device.
 -Detailed Location QS Tile.
@@ -65,7 +68,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -HW Key Customisation.
 -Heads Up Customizations.
 -Hide Clock/Date/Alarm Text from Lockscreen.
--In-Call Vibration Options.
+-In-Call Vibrations Options.
 -Increasing Volume in Ringtone.
 -Kill App Button in Notification Row.
 -LS Visualiser with Customisations.
@@ -79,12 +82,16 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Long press Caffeine Tile Action.
 -Long-press Power Button on Lockscreen for Torch.
 -Music Player Go.
+-MIUI volume style plugin.
 -Navigation Bar Toggle and Customisations.
+-Notch city support.
 -One Tap Data & Wifi Tile.
 -Option to mute Media with Gesture.
 -Per app WiFi, Data & VPN restrictions.
+-Per app network restrictions.
 -Permission Manager.
 -Pixel's UI and Ringtones.
+-POSP's volume style plugin.
 -Pocket Lock/Pocket Judge.
 -Power Menu Customizations.
 -QS Brightness Slider (Enable/Disable).
@@ -96,6 +103,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 -Run SysUI tuner from Extensions.
 -Show 4G instead of LTE switch.
 -Smart Pixels.
+-Smart Charging Support.
 -StatusBar Brightness Control/Swap.
 -Statusbar Date Customizations.
 -Statusbar Traffic Indicators.
@@ -146,9 +154,15 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v8.0 Changelog
+[CODE][b] AospExtended v8.2 Changelog
 
-- Initial release with March 2021 patches (Tag:11.0.0_r32)
+- Merge May’s security patch 11.0.0_r37
+- Update all of our packages
+- Add support for smart charging
+- Add support for MIUI volume style plugin
+- Improvement in volume panel
+- Improvement in battery statistics
+- Bug fixes and performance improvements
 
 A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
