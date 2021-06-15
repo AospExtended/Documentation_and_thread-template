@@ -28,7 +28,7 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 [B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We aim to add important features that we think should be here and also what you think. For the addition of more tweaks or features, head on to our Telegram community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
 
 
-[CODE][B]
+[CODE=rich][B]
 -ADB Root
 -AEXPapers - our wallpaper app.
 -AOSP Font Engine.
@@ -137,7 +137,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 
 [B][SIZE="4"]Want to try this awesomeness?[/SIZE][/B]
 
-[CODE][b]-Download the ROM and GApps of your choice
+[CODE=rich][b]-Download the ROM and GApps of your choice
 -Backup every partition from TWRP Recovery
 -Make a full wipe (system, data, cache, dalvik)
 -Flash AEX Package
@@ -154,7 +154,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [SIZE="3"][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE][b] AospExtended v8.3 Changelog
+[CODE=rich][b] AospExtended v8.3 Changelog
 
 
 - Merge June's security patch 11.0.0_r38
@@ -243,7 +243,7 @@ Checkout our [URL="https://github.com/aospextended"][COLOR="Red"]Github[/COLOR][
 
 [B][SIZE="4"][COLOR="DarkOrange"]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
 
-[HIDE][SIZE="3"][B]-[COLOR="red"]Why no "Incremental/Delta updates" Support?[/COLOR]
+[SPOILER][SIZE="3"][B]-[COLOR="red"]Why no "Incremental/Delta updates" Support?[/COLOR]
 ->The updates we provide monthly are heavily changed and modified than the previous builds. New stuff is merged and added. So we don't provide incremental updates and recommend a clean flash.
 
 -[COLOR="Red"]How do I root this ROM?[/COLOR]
@@ -266,7 +266,7 @@ Checkout our [URL="https://github.com/aospextended"][COLOR="Red"]Github[/COLOR][
 
 [/B][/SIZE]
 
-[/HIDE]
+[/SPOILER]
 [/CENTER]
 
 //Thread designed by Shubham Singh and Amol Amrit//
