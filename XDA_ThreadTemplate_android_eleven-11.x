@@ -219,7 +219,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 [B][SIZE=4]People behind this amazing ROM!
 
 
--[user=5566914]@ishubhamsingh[/user](Owner/Dev/Designer)
+-[user=5566914]@ishubhamsingh[/user] (Owner/Dev/Designer)
 -[URL='https://github.com/AOSP-JF-MM']JDC Team[/URL]
 -[URL='https://github.com/DirtyUnicorns']DirtyUnicorns[/URL]
 -[URL='https://github.com/LineageOS']LineageOS/Cyanogenmod[/URL]
@@ -272,9 +272,8 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 [B][U]Contributors[/U][/B]
 [URL='https://forum.xda-developers.com/member.php?u=5615686']AmolAmrit[/URL], [URL='https://forum.xda-developers.com/member.php?u=5566914']ishubhamsingh[/URL], [USER=10543397]KakatkarAkshay[/USER]
 [B]Source Code:[/B] [URL]https://www.github.com/AospExtended[/URL]
-[B]Kernel Sources:  [/B]
+[B]Kernel Sources:[/B] N/A
 [B]Device Sources:[/B] N/A
-[B]Local Manifest: [/B] N/A
 [B]Vendor:[/B] N/A
 
 
