@@ -248,9 +248,9 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 
 -Also make sure that you have unlocked your bootloader  ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
 
--Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
+-Have a custom recovery installed on your device or use the AEX Recovery provided (Orange fox, TWRP or any other recovery like the PE recovery will work. Don't use LOS recovery)
 
--Boot into custom recovery
+-Boot into the recovery mode
 
 -Clean up your data by format data/factory reset option in the recovery
 
