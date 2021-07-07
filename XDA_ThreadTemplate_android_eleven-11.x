@@ -3,16 +3,19 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
 
-[CODE]/*
-* Your warranty is now void.
-*
-* I am not responsible for bricked devices, dead SD cards,
-* thermonuclear war, or you getting fired because the alarm app failed. Please
-* do some research if you have any concerns about features included in this ROM
-* before flashing it! YOU are choosing to make these modifications, and if
-* you point the finger at me for messing up your device, I will laugh at you.
-*/[/CODE]
+[CODE=rich]* Your warranty is now void.
 
+*
+
+* I am not responsible for bricked devices, dead SD cards,
+
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+
+* do some research if you have any concerns about features included in this ROM
+
+* before flashing it! YOU are choosing to make these modifications, and if
+
+* you point the finger at me for messing up your device, I will laugh at you.[/CODE]
 
 
 [SIZE=4][B]Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
@@ -20,7 +23,7 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/AA1Rh7c.png[/IMG]
 
-[B][SIZE=4][COLOR=rgb(239, 239, 239)]AOSP Extended is an AOSP based ROM which provides stock UI/UX experience with useful customizations. Being based on AOSP it provides a smooth experience. We have added useful customizations from various other open-source projects and have tried to keep our things simple. A ROM by a user, for a user. #BeExtended[/COLOR][/SIZE][/B]
+[B][SIZE=4]AOSP Extended is an AOSP based ROM which provides stock UI/UX experience with useful customizations. Being based on AOSP it provides a smooth experience. We have added useful customizations from various other open-source projects and have tried to keep our things simple. A ROM by a user, for a user. #BeExtended[/SIZE][/B]
 
 
 [IMG]https://i.imgur.com/LXtiYrB.png[/IMG]
@@ -28,103 +31,210 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 [B][SIZE=4]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We aim to add important features that we think should be here and also what you think. For the addition of more tweaks or features, head on to our Telegram community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
 
 
-[CODE=rich]
-[SIZE=4][FONT=tahoma]-ADB Root
--AEXPapers - our wallpaper app.
--AOSP Font Engine.
--Adaptive Playback.
--Additional Battery Saver steps.
--Advanced Ambient Display Customizations.
--Applock support.
--Auto-Brightness Icon Toggle.
--Battery Bar.
--Battery Styles and Percentage.
--Battery/Notification Light Customisations.
--Button Backlight Customizations.
--CPU Info Overlay.
--Camera Sound Toggle.
--Carrier Labels.
--Clock area visibility toggle.
--Configurable Audio Panel Location.
--Custom Pattern Lock Sizes (3x3, 4x4, 5x5, 6x6).
--Custom QS styles (ambient_display,aod,caffeine,compass,cpuinfo,dataswitch,fpsinfo,gaming,heads_up,mono,music,reboot,screenshot,smartpixels,sound,soundsearch,sync,theme,usb_tether,volume_panel,vpn).
--Customize QS Rows/Columns.
--Customize small QS Tiles.
--Customizable rounded corner radius.
--DT2S On Statusbar, Lockscreen and Homescreen.
--DT2W When Locked Device.
--Detailed Location QS Tile.
--Disable QS on Secured Lockscreen.
--DuckDuckGo Browser.
--Etar (Calendar App)
--Extended Volume Panel.
--FPS Info.
--Face Unlock
--Fingerprint Gestures Support.
--Flashlight Notifications.
--Flip Button Animation.
--Force Expand Notifications (Enable/Disable).
--Gaming Mode.
--HW Key Customisation.
--Heads Up Customizations.
--Hide Clock/Date/Alarm Text from Lockscreen.
--In-Call Vibrations Options.
--Increasing Volume in Ringtone.
--Kill App Button in Notification Row.
--LS Visualiser with Customisations.
--Less Boaring Headsup.
--Lineage Livedisplay
--Lineage Touch Hal
--Lockscreen Charging.
--Lockscreen Clock Styles.
--Lockscreen Shortcut.
--Long Press Gear Icon in Statusbar Header Launches Extensions.
--Long press Caffeine Tile Action.
--Long-press Power Button on Lockscreen for Torch.
--Music Player Go.
--MIUI volume style plugin.
--Navigation Bar Toggle and Customisations.
--Notch city support.
--One Tap Data & Wifi Tile.
--Option to mute Media with Gesture.
--Per app WiFi, Data & VPN restrictions.
--Per app network restrictions.
--Permission Manager.
--Pixel's UI and Ringtones.
--POSP's volume style plugin.
--Pocket Lock/Pocket Judge.
--Power Menu Customizations.
--QS Brightness Slider (Enable/Disable).
--QS Quick Pulldown.
--QS Tile Styles.
--QS Tiles Animations.
--Quick Access Wallet
--Quick Unlock for PIN/Password.
--Run SysUI tuner from Extensions.
--Show 4G instead of LTE switch.
--Smart Pixels.
--Smart Charging Support.
--StatusBar Brightness Control/Swap.
--Statusbar Date Customizations.
--Statusbar Traffic Indicators.
--Themes and Accents.
--Toast Icon.
--Toggle Lockscreen Media Art and Blur Customisation.
--Toggle Power Menu on Secured Lockscreen.
--Toggle for FP with Vibration.
--Toggle for QS Footer Warnings.
--Unlink Notification Volume.
--VPN with tethered connection.
--Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode).
+[CODE=rich]-ADB Root
 
-And many more coming in the future! Many #Extended features are added in each update and we might miss out adding new ones to this list. 
-So always keep on checking the latest changelog on our [URL='https://blog.aospextended.com/']Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/FONT][/SIZE][/CODE]
+-AEXPapers - our wallpaper app.
+
+-AOSP font engine.
+
+-Adaptive playback.
+
+-Additional battery saver steps.
+
+-Advanced ambient display customizations.
+
+-App-lock support.
+
+-Auto-brightness icon toggle.
+
+-AI based gestures for navigation.
+
+-Ambient edge lightning feature.
+
+-AOKP's custom system animations.
+
+-AOD when charging.
+
+-Battery bar.
+
+-Battery styles and percentage.
+
+-Battery/notification light customizations.
+
+-Button backlight customizations.
+
+-CPU info overlay.
+
+-Camera sound toggle.
+
+-Carrier labels.
+
+-Clock area visibility toggle.
+
+-Configurable audio panel location.
+
+-Custom pattern lock sizes (3x3, 4x4, 5x5, 6x6).
+
+-Custom QS styles 
+
+-Customize QS Rows/Columns.
+
+-Customize small QS tiles.
+
+-Customizable rounded corner radius.
+
+-Double tap to trigger doze feature.
+
+-DT2S on status bar, lock screen and home screen.
+
+-DT2W when locked device.
+
+-Detailed location QS tile.
+
+-Disable QS on secured lock screen.
+
+-DuckDuckGo browser.
+
+-Etar (Calendar App)
+
+-Extended volume panel.
+
+-FPS info.
+
+-Face unlock
+
+-Fingerprint gestures support.
+
+-Flashlight notifications.
+
+-Flip button animation.
+
+-Force expand notifications (Enable/Disable).
+
+-Gaming mode.
+
+-HW key customization.
+
+-Heads up customizations.
+
+-Hide clock/date/alarm text from lock screen.
+
+-In-Call vibrations options.
+
+-Increasing volume in ringtone.
+
+-Kill app button in notification row.
+
+-LS visualizer with customizations.
+
+-Less boring heads-up.
+
+-Lineage live display
+
+-Lineage touch hal -
+
+-Live volume steps feature.
+
+-Lock screen charging.
+
+-Lock screen blur.
+
+-Lock screen clock styles.
+
+-Lock screen shortcut.
+
+-Long press gear icon in status bar header launches extensions.
+
+-Long press caffeine tile action.
+
+-Long-press power button on lock screen for torch.
+
+-Music player go.
+
+-MIUI volume style plugin.
+
+-Navigation bar toggle and customizations.
+
+-Notch city support.
+
+-One tap data & Wi-Fi tile.
+
+-Option to mute Media with gesture.
+
+-Per app Wi-Fi, Data & VPN restrictions.
+
+-Per app network restrictions.
+
+-Permission manager.
+
+-Pixel's UI and ringtones.
+
+-POSP's volume style plugin.
+
+-Pocket lock/Pocket judge.
+
+-Power menu customizations.
+
+-QS brightness slider (Enable/Disable).
+
+-QS quick pulldown.
+
+-QS tile styles.
+
+-QS tiles animations.
+
+-Quick access Wallet
+
+-Quick unlock for PIN/Password.
+
+-Run SystemUI tuner from extensions.
+
+-Show 4G instead of LTE switch.
+
+-Smart pixels.
+
+-Smart charging support.
+
+-Status bar brightness control/Swap.
+
+-Status bar date customizations.
+
+-Status bar traffic indicators.
+
+-Themes and accents.
+
+-Toast icon.
+
+-Toggle lock screen media art and blur customization.
+
+-Toggle power menu on secured lock screen.
+
+-Toggle for FP with vibration.
+
+-Toggle for QS footer warnings.
+
+-Unlink notification volume.
+
+-VPN with tethered connection.
+
+-Volume rocker tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+
+-Wi-Fi and Bluetooth timeout feature.
+
+
+
+
+
+And many more coming in the future! Many #Extended features are added in each update and we might miss out adding new ones to this list.
+
+So always keep on checking the latest changelog on our Official Blog, and there you can monitor the previous changelogs as well, to see how far we have come![/CODE]
 
 
 [IMG]https://i.imgur.com/d6IoG5C.png[/IMG]
 
 
-[SIZE=4][B][COLOR=rgb(255, 255, 255)]Download ROM for your device![/COLOR][/B][/SIZE]
+[SIZE=4][B]Download ROM for your device![/B][/SIZE]
+
 
 [COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=rgb(61, 142, 185)][FONT=tahoma][COLOR=rgb(65, 168, 95)][SIZE=5][U]YOUR DEVICE NAME[/U][/SIZE][/COLOR][/FONT][/COLOR][/URL][/COLOR]
 
@@ -134,15 +244,30 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 
 [B][SIZE=4]Want to try this awesomeness?[/SIZE][/B]
 
-[FONT=tahoma][SIZE=4]-Make sure that you have backed up your data and are familiar with your device
--Also make sure that you have unlocked your bootloader ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
+[CODE=rich]-Make sure that you have backed up your data and are familiar with your device
+
+-Also make sure that you have unlocked your bootloader (How to unlock your bootloader)
+
 -Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
+
 -Boot into custom recovery
+
 -Clean up your data by format data/factory reset option in the recovery
+
 -Select "apply update from adb"
+
 -Now sideload your AEX package by using command
+
 [ICODE]adb sideload filename.zip[/ICODE]
--Now reboot your device[/SIZE][/FONT]
+
+-Now reboot your device[/CODE]
+
+
+
+First boot will take a few minutes! Have patience
+
+Clean Flash is always recommended!
+
 
 [SIZE=4][FONT=tahoma][COLOR=rgb(65, 168, 95)]First boot will take a few minutes! Have patience[/COLOR]
 [SIZE=4][COLOR=rgb(65, 168, 95)]Clean Flash is always recommended![/COLOR][/SIZE][/FONT][/SIZE]
@@ -153,55 +278,94 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.3 Changelog[/SIZE][/FONT]
+[CODE=rich] AospExtended v8.3 Changelog
 
 
-- [/B][FONT=tahoma][SIZE=4]Merge June's security patch 11.0.0_r38
+
+
+
+- Merge June's security patch 11.0.0_r38
+
 - Update all of our packages
-- Update our pre-built packages
-- Update some translations
-- Add AI based gestures for navigation
-- Add ambient edge lightning feature
-- Add AOKP's custom system animations
-- Add option to enable AOD when charging
-- Add double tap to trigger doze feature
-- Add live volume steps feature
-- Add support for configuring minimum and maximum refresh rates
-- Add support for lock screen blur
-- Add option to hide lock icon on lock screen
-- Add option to hide status bar on lock screen
-- Add anti flicker mode in live display
-- Add option to customize QS tile's title visibility
-- Add customizations for QS rows and columns
-- Add support for global cleartext penalties
-- Add support for Wi-Fi and Bluetooth timeout feature
-- Add support for OnePlus's haptic HAL
-- Add more emojis and themes to our stock keyboard
-- Allow for faster app switching
-- Improve our blur implementation
-- Improve our AOD implementation
-- Improve overall UI/UX
-- Improve volume panel
-- Improve pocket lock
-- Improve battery statistics again
-- Improve and add more lock screen clock styles
-- Fix some incompatibility issues
-- Fix wrong VoLTE/VoWiFi slot detection
-- Fix dual channel support for SBC Bluetooth audio
-- Bug fixes and performance improvements[/SIZE][/FONT]
 
-[SIZE=4][B][COLOR=rgb(97, 189, 109)]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.[/COLOR][/B][/SIZE]
-[B][COLOR=rgb(97, 189, 109)][SIZE=4]Remove any kind of security PINs/Password and Fingerprints before flashing this build.[/SIZE][/COLOR][/B]
+- Update our pre-built packages
+
+- Update some translations
+
+- Add AI based gestures for navigation
+
+- Add ambient edge lightning feature
+
+- Add AOKP's custom system animations
+
+- Add option to enable AOD when charging
+
+- Add double tap to trigger doze feature
+
+- Add live volume steps feature
+
+- Add support for configuring minimum and maximum refresh rates
+
+- Add support for lock screen blur
+
+- Add option to hide lock icon on lock screen
+
+- Add option to hide status bar on lock screen
+
+- Add anti flicker mode in live display
+
+- Add option to customize QS tile's title visibility
+
+- Add customizations for QS rows and columns
+
+- Add support for global cleartext penalties
+
+- Add support for Wi-Fi and Bluetooth timeout feature
+
+- Add support for OnePlus's haptic HAL
+
+- Add more emojis and themes to our stock keyboard
+
+- Allow for faster app switching
+
+- Improve our blur implementation
+
+- Improve our AOD implementation
+
+- Improve overall UI/UX
+
+- Improve volume panel
+
+- Improve pocket lock
+
+- Improve battery statistics again
+
+- Improve and add more lock screen clock styles
+
+- Fix some incompatibility issues
+
+- Fix wrong VoLTE/VoWiFi slot detection
+
+- Fix dual channel support for SBC Bluetooth audio
+
+- Bug fixes and performance improvements
+
+
+
+A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
+
+Remove any kind of security PINs/Password and Fingerprints before flashing this build.
+
+
 
 [/CODE]
-
 
 [IMG]https://i.imgur.com/upJwfar.png[/IMG]
 
 
 [SIZE=4][B][COLOR=darkorchid][COLOR=Red]If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/COLOR][/COLOR][/B]
 
-[COLOR=rgb(247, 218, 100)]LIST YOURBUGS[/COLOR][/SIZE]
+[COLOR=rgb(243, 121, 52)]LIST YOUR BUGS[/COLOR][/SIZE]
 
 [B][COLOR=darkorchid][COLOR=Red]->How to take Logcats?[/COLOR][/COLOR]
 [COLOR=darkorchid][COLOR=Red][URL]https://goo.gl/UcTM9[/URL] and [URL]https://goo.gl/J4CSEP[/URL] [/COLOR][/COLOR][/B][/SIZE]
