@@ -134,19 +134,18 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 
 [B][SIZE=4]Want to try this awesomeness?[/SIZE][/B]
 
-[COLOR=rgb(0, 168, 133)][SIZE=4][COLOR=rgb(84, 172, 210)][FONT=tahoma][SIZE=4]-Make sure that you have backed up your data and are familiar with your device[/SIZE][/FONT][/COLOR][/SIZE][/COLOR]
-[COLOR=rgb(0, 168, 133)][SIZE=4][FONT=tahoma]-Also make sure that you have unlocked your bootloader ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
+[FONT=tahoma][SIZE=4]-Make sure that you have backed up your data and are familiar with your device
+-Also make sure that you have unlocked your bootloader ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
 -Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
--Boot into custom recovery 
+-Boot into custom recovery
 -Clean up your data by format data/factory reset option in the recovery
 -Select "apply update from adb"
 -Now sideload your AEX package by using command
 [ICODE]adb sideload filename.zip[/ICODE]
--Now reboot your device[/FONT][/SIZE][/COLOR]
+-Now reboot your device[/SIZE][/FONT]
 
 [SIZE=4][FONT=tahoma][COLOR=rgb(65, 168, 95)]First boot will take a few minutes! Have patience[/COLOR]
 [SIZE=4][COLOR=rgb(65, 168, 95)]Clean Flash is always recommended![/COLOR][/SIZE][/FONT][/SIZE]
-
 
 [IMG]https://i.imgur.com/9IoRPPA.png[/IMG]
 
