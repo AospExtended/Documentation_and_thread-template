@@ -126,7 +126,7 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 
 [SIZE=4][B][COLOR=rgb(255, 255, 255)]Download ROM for your device![/COLOR][/B][/SIZE]
 
-[COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=rgb(61, 142, 185)][FONT=tahoma][SIZE=5][U]YOUR DEVICE NAME[/U][/SIZE][/FONT][/COLOR][/URL][/COLOR]
+[COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=rgb(61, 142, 185)][FONT=tahoma][COLOR=rgb(65, 168, 95)][SIZE=5][U]YOUR DEVICE NAME[/U][/SIZE][/COLOR][/FONT][/COLOR][/URL][/COLOR]
 
 [B][COLOR=rgb(243, 121, 52)][SIZE=4]*This is an unofficial build so please bear with the bugs and report to me with proper logs*[/SIZE][/COLOR][/B]
 
