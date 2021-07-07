@@ -227,7 +227,7 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 
 And many more coming in the future! Many #Extended features are added in each update and we might miss out adding new ones to this list.
 
-So always keep on checking the latest changelog on our Official Blog, and there you can monitor the previous changelogs as well, to see how far we have come![/CODE]
+So always keep on checking the latest changelog on our [URL='https://blog.aospextended.com/']Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/CODE]
 
 
 [IMG]https://i.imgur.com/d6IoG5C.png[/IMG]
@@ -246,7 +246,7 @@ So always keep on checking the latest changelog on our Official Blog, and there 
 
 [CODE=rich]-Make sure that you have backed up your data and are familiar with your device
 
--Also make sure that you have unlocked your bootloader (How to unlock your bootloader)
+-Also make sure that you have unlocked your bootloader  ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
 
 -Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
 
