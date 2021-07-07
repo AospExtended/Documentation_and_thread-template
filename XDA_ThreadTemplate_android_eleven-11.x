@@ -29,7 +29,7 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 
 
 [CODE=rich]
-[B]-ADB Root
+[SIZE=4][FONT=tahoma]-ADB Root
 -AEXPapers - our wallpaper app.
 -AOSP Font Engine.
 -Adaptive Playback.
@@ -118,29 +118,34 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 -Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode).
 
 And many more coming in the future! Many #Extended features are added in each update and we might miss out adding new ones to this list. 
-So always keep on checking the latest changelog on our [URL='https://blog.aospextended.com/']Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/B][/CODE]
+So always keep on checking the latest changelog on our [URL='https://blog.aospextended.com/']Official Blog[/URL], and there you can monitor the previous changelogs as well, to see how far we have come![/FONT][/SIZE][/CODE]
 
 
 [IMG]https://i.imgur.com/d6IoG5C.png[/IMG]
 
 
-[SIZE=4][B][COLOR=DeepSkyBlue]Download ROM for your device![/COLOR][/B][/SIZE]
+[SIZE=4][B][COLOR=rgb(255, 255, 255)]Download ROM for your device![/COLOR][/B][/SIZE]
 
-[COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=RoyalBlue][SIZE=4][B]DEVICE NAME[/B][/SIZE][/COLOR][/URL][/COLOR]
+[COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=rgb(61, 142, 185)][FONT=tahoma][SIZE=5][U]YOUR DEVICE NAME[/U][/SIZE][/FONT][/COLOR][/URL][/COLOR]
+
+[B][COLOR=rgb(243, 121, 52)][SIZE=4]*This is an unofficial build so please bear with the bugs and report to me with proper logs*[/SIZE][/COLOR][/B]
 
 [IMG]https://i.imgur.com/lID1jJJ.png[/IMG]
 
 [B][SIZE=4]Want to try this awesomeness?[/SIZE][/B]
 
-[CODE=rich][B][COLOR=rgb(65, 168, 95)]-Make sure that you have backed up your data and are familiar with your device[/COLOR][/B]
-[COLOR=rgb(65, 168, 95)][B]-Also make sure that you have unlocked your bootloader ([/B][/COLOR][URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/'][COLOR=rgb(61, 142, 185)][B]How to unlock your bootloader[/B][/COLOR][/URL][COLOR=rgb(65, 168, 95)][B])
+[COLOR=rgb(0, 168, 133)][SIZE=4][COLOR=rgb(84, 172, 210)][FONT=tahoma][SIZE=4]-Make sure that you have backed up your data and are familiar with your device[/SIZE][/FONT][/COLOR][/SIZE][/COLOR]
+[COLOR=rgb(0, 168, 133)][SIZE=4][FONT=tahoma]-Also make sure that you have unlocked your bootloader ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
 -Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
 -Boot into custom recovery 
 -Clean up your data by format data/factory reset option in the recovery
 -Select "apply update from adb"
 -Now sideload your AEX package by using command
 [ICODE]adb sideload filename.zip[/ICODE]
--Now reboot your device 
+-Now reboot your device[/FONT][/SIZE][/COLOR]
+
+[SIZE=4][FONT=tahoma][COLOR=rgb(65, 168, 95)]First boot will take a few minutes! Have patience[/COLOR]
+[SIZE=4][COLOR=rgb(65, 168, 95)]Clean Flash is always recommended![/COLOR][/SIZE][/FONT][/SIZE]
 
 
 [IMG]https://i.imgur.com/9IoRPPA.png[/IMG]
@@ -149,10 +154,10 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] AospExtended v8.3 Changelog
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.3 Changelog[/SIZE][/FONT]
 
 
-- Merge June's security patch 11.0.0_r38
+- [/B][FONT=tahoma][SIZE=4]Merge June's security patch 11.0.0_r38
 - Update all of our packages
 - Update our pre-built packages
 - Update some translations
@@ -184,7 +189,7 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 - Fix some incompatibility issues
 - Fix wrong VoLTE/VoWiFi slot detection
 - Fix dual channel support for SBC Bluetooth audio
-- Bug fixes and performance improvements[/B]
+- Bug fixes and performance improvements[/SIZE][/FONT]
 
 [SIZE=4][B][COLOR=rgb(97, 189, 109)]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.[/COLOR][/B][/SIZE]
 [B][COLOR=rgb(97, 189, 109)][SIZE=4]Remove any kind of security PINs/Password and Fingerprints before flashing this build.[/SIZE][/COLOR][/B]
@@ -195,23 +200,23 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [IMG]https://i.imgur.com/upJwfar.png[/IMG]
 
 
-[SIZE=4][B][COLOR=darkorchid][COLOR=Red]If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/COLOR][/COLOR]
+[SIZE=4][B][COLOR=darkorchid][COLOR=Red]If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.[/COLOR][/COLOR][/B]
 
-BUGS HERE
+[COLOR=rgb(247, 218, 100)]LIST YOURBUGS[/COLOR][/SIZE]
 
-[COLOR=darkorchid][COLOR=Red]->How to take Logcats?[/COLOR][/COLOR]
+[B][COLOR=darkorchid][COLOR=Red]->How to take Logcats?[/COLOR][/COLOR]
 [COLOR=darkorchid][COLOR=Red][URL]https://goo.gl/UcTM9[/URL] and [URL]https://goo.gl/J4CSEP[/URL] [/COLOR][/COLOR][/B][/SIZE]
 
 [IMG]https://i.imgur.com/COh4x0F.png[/IMG]
 
 
 
-[SIZE=4][B]Visit our [URL='https://www.aospextended.com/'][COLOR=rgb(84, 172, 210)]Website[/COLOR][/URL][COLOR=rgb(84, 172, 210)].[/COLOR] Subscribe to our [URL='https://telegram.me/aospextended'][COLOR=rgb(84, 172, 210)]Telegram Channel[/COLOR][/URL]. Also join our [URL='https://telegram.me/aospextendedgroup'][COLOR=rgb(84, 172, 210)]Telegram Group Chat![/COLOR][/URL]
+[SIZE=4]Visit our [URL='https://www.aospextended.com/'][COLOR=rgb(84, 172, 210)]Website[/COLOR][/URL][COLOR=rgb(84, 172, 210)].[/COLOR] Subscribe to our [URL='https://telegram.me/aospextended'][COLOR=rgb(84, 172, 210)]Telegram Channel[/COLOR][/URL]. Also join our [URL='https://telegram.me/aospextendedgroup'][COLOR=rgb(84, 172, 210)]Telegram Group Chat![/COLOR][/URL]
 
 Want to translate to your language? Visit our [URL='http://translate.aospextended.com/'][COLOR=Green]Crowdin[/COLOR][/URL]
 
 Want to contribute to the development of this ROM? 
-Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Github[/COLOR][/URL] and [URL='http://gerrit.aospextended.com/'][COLOR=rgb(0, 168, 133)]Gerrit[/COLOR][/URL] [/B][/SIZE]
+Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Github[/COLOR][/URL] and [URL='http://gerrit.aospextended.com/'][COLOR=rgb(0, 168, 133)]Gerrit[/COLOR][/URL] [/SIZE]
 
 [IMG]https://i.imgur.com/YbLPNze.png[/IMG]
 
@@ -219,7 +224,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 [B][SIZE=4]People behind this amazing ROM!
 
 
--[user=5566914]@ishubhamsingh[/user] (Owner/Dev/Designer)
+-[/SIZE][/B][SIZE=4][user=5566914]@ishubhamsingh[/user] (Owner/Dev/Designer)
 -[URL='https://github.com/AOSP-JF-MM']JDC Team[/URL]
 -[URL='https://github.com/DirtyUnicorns']DirtyUnicorns[/URL]
 -[URL='https://github.com/LineageOS']LineageOS/Cyanogenmod[/URL]
@@ -232,7 +237,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 -[URL='https://github.com/GZOSP']GZOSP Community[/URL]
 -[URL='https://github.com/johanhil/ddg-android']Johan Söderholm[/URL] for DuckDuckGo Browser
 -[URL='https://github.com/enricocid/Music-Player-GO']Enrico D'Ortenzio[/URL] for Music Player Go
--[user=7580472]@AlienCreature7[/user], [user=7772507]@Wizper99[/user], [user=7751333]@Allstargaurav[/user], [user=7820332]@Edozullo[/user] and [user=6357786]@harsh sharma[/user] (For designing the ROM Logo, Fling etc)[/SIZE][/B]
+-[user=7580472]@AlienCreature7[/user], [user=7772507]@Wizper99[/user], [user=7751333]@Allstargaurav[/user], [user=7820332]@Edozullo[/user] and [user=6357786]@harsh sharma[/user] (For designing the ROM Logo, Fling etc)[/SIZE]
 
 
 [IMG]https://i.imgur.com/SQp1iY6.png[/IMG]
@@ -240,7 +245,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 
 [B][SIZE=4][COLOR=darkorange]I guess there is nothing wrong in reading facts![/COLOR][/SIZE][/B]
 
-[SPOILER][SIZE=4][B]-[COLOR=red]Why no "Incremental/Delta updates" Support?[/COLOR]
+[SPOILER][SIZE=4]-[COLOR=red]Why no "Incremental/Delta updates" Support?[/COLOR]
 ->The updates we provide monthly are heavily changed and modified than the previous builds. New stuff is merged and added. So we don't provide incremental updates and recommend a clean flash.
 
 -[COLOR=Red]How do I root this ROM?[/COLOR]
@@ -259,7 +264,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 ->Download it from here [URL='https://forum.xda-developers.com/showthread.php?t=2190753']Adaway[/URL]
 
 -[COLOR=red]SElinux Linux mode changer app is not working nor Busy Box installer app is working.[/COLOR]
-->Everything is good with the sources. You should try other things first and then contact your maintainer.[/B][/SIZE]
+->Everything is good with the sources. You should try other things first and then contact your maintainer.[/SIZE]
 
 
 
