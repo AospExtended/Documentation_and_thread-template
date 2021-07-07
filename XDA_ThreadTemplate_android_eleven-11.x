@@ -124,7 +124,7 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [IMG]https://i.imgur.com/d6IoG5C.png[/IMG]
 
 
-[SIZE=4][B][U][COLOR=DeepSkyBlue]Download ROM for your device![/COLOR][/U][/B][/SIZE]
+[SIZE=4][B][COLOR=DeepSkyBlue]Download ROM for your device![/COLOR][/B][/SIZE]
 
 [COLOR=navy][URL='https://downloads.aospextended.com/'][COLOR=RoyalBlue][SIZE=4][B]DEVICE NAME[/B][/SIZE][/COLOR][/URL][/COLOR]
 
@@ -133,14 +133,14 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [B][SIZE=4]Want to try this awesomeness?[/SIZE][/B]
 
 [CODE=rich][B][COLOR=rgb(65, 168, 95)]-Make sure that you have backed up your data and are familiar with your device[/COLOR][/B]
-[COLOR=rgb(65, 168, 95)][B]-Also make sure that you have unlocked your bootloader
+[COLOR=rgb(65, 168, 95)][B]-Also make sure that you have unlocked your bootloader ([/B][/COLOR][URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/'][COLOR=rgb(61, 142, 185)][B]How to unlock your bootloader[/B][/COLOR][/URL][COLOR=rgb(65, 168, 95)][B])
 -Have a custom recovery installed on your device (Orange fox or any other recovery like the PE recovery will work. Don't use LOS recovery)
 -Boot into custom recovery 
 -Clean up your data by format data/factory reset option in the recovery
--Now sideload your AEX package
+-Select "apply update from adb"
+-Now sideload your AEX package by using command
+[ICODE]adb sideload filename.zip[/ICODE]
 -Now reboot your device 
-[First boot will take a few minutes! Have patience][/B][/COLOR]
-[B][COLOR=rgb(65, 168, 95)]Clean Flash is always recommended![/COLOR][/B][/CODE]
 
 
 [IMG]https://i.imgur.com/9IoRPPA.png[/IMG]
