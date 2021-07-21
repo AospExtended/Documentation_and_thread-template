@@ -1,4 +1,4 @@
-Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r39] AospExtended ROM v8.4 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
@@ -92,6 +92,7 @@ Thread Title - [ROM][11.0.0_r38] AospExtended ROM v8.3 [UNOFFICIAL]
 -Navigation bar toggle and customizations.
 -Notch city support.
 -One tap data & Wi-Fi tile.
+-OOS type aler slider UI
 -Option to mute Media with gesture.
 -Per app Wi-Fi, Data & VPN restrictions.
 -Per app network restrictions.
@@ -162,38 +163,29 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.3 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Merge June's security patch 11.0.0_r38
-- Update all of our packages
-- Update our pre-built packages
-- Update some translations
-- Add AI based gestures for navigation
-- Add ambient edge lightning feature
-- Add AOKP's custom system animations
-- Add option to enable AOD when charging
-- Add double tap to trigger doze feature
-- Add live volume steps feature
-- Add support for configuring minimum and maximum refresh rates
-- Add support for lock screen blur
-- Add option to hide lock icon on lock screen
-- Add option to hide status bar on lock screen
-- Add anti flicker mode in live display
-- Add option to customize QS tile's title visibility
-- Add customizations for QS rows and columns
-- Add support for global cleartext penalties
-- Add support for Wi-Fi and Bluetooth timeout feature
-- Add support for OnePlus's haptic HAL
-- Add more emojis and themes to our stock keyboard
-- Allow for faster app switching
-- Improve our blur implementation
-- Improve our AOD implementation
-- Improve overall UI/UX
-- Improve volume panel
-- Improve pocket lock
-- Improve battery statistics again
-- Improve and add more lock screen clock styles
-- Fix some incompatibility issues
-- Fix wrong VoLTE/VoWiFi slot detection
-- Fix dual channel support for SBC Bluetooth audio
+- [/B][FONT=tahoma][SIZE=4]Merge July’s security patch 11.0.0_r39
+- Update Extension’s bottom bar
+- Add few more LS clock styles
+- Add UI to preview clocks in extensions
+- Add support for screen off FOD
+- App lock improvements
+- Add support for OOS alert slider toast UI
+- Add config to show battery in QS header
+- Add option to suppress notification sound/vibration when screen is on
+- Add legacy WFD output video mode settings
+- Add support for AOSP WFD
+- Add safety net hacks to fix issues with banking apps
+- Add support for custom AVB key for supported devices
+- Add support for local installation to our system updates app
+- Add Oneplus Sans font
+- Add support to update/downgrade and flash zips via adb sideload, to our recovery
+- Rebrand AOSP recovery to AEX recovery 
+- Replace Snap camera with Gcam GO
+- Improve FOD
+- Improve face unlock
+- Fix crash on lock screen mic shortcut
+- Fix issues with LS clocks
+- Fix statusbar icon pack issues
 - Bug fixes and performance improvements[/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
