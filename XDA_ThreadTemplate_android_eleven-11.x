@@ -141,14 +141,21 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 
 [B][SIZE=4]Want to try this awesomeness?[/SIZE][/B][/CENTER]
 [CODE=rich][FONT=tahoma][SIZE=4]-Make sure that you have backed up your data and are familiar with your device
--Also make sure that you have unlocked your bootloader ([URL='https://www.thecustomdroid.com/oneplus-nord-bootloader-unlock-relock-guide/']How to unlock your bootloader[/URL])
+-Also make sure that you have unlocked your bootloader
 -Have a custom recovery installed on your device or use the AEX Recovery provided (Orange fox, TWRP or any other recovery like the PE recovery will work. Don't use LOS recovery)
 -Boot into the recovery mode
 -Clean up your data by format data/factory reset option in the recovery
--Select "apply update from adb"
+
+ADB Sideload Method:
+-Select "apply update from adb" 
 -Now sideload your AEX package by using command
 [ICODE]adb sideload filename.zip[/ICODE]
--Now reboot your device[/SIZE][/FONT][/CODE]
+-Now reboot your device
+
+Direct ZIP Flash Method:
+-Flash the ROM.zip (+Gapps if necessary) via the Recovery UI itself
+-Wipe dalvik/cache
+-Reboot your device[/SIZE][/FONT][/CODE]
 [CENTER]
 [SIZE=4][FONT=tahoma][COLOR=rgb(65, 168, 95)]First boot will take a few minutes! Have patience[/COLOR]
 [SIZE=4][COLOR=rgb(65, 168, 95)]Clean Flash is always recommended![/COLOR][/SIZE][/FONT][/SIZE]
@@ -160,7 +167,7 @@ So always keep on checking the latest changelog on our [URL='https://blog.aospex
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.3 Changelog[/SIZE][/FONT]
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.4 Changelog[/SIZE][/FONT]
 
 
 - [/B][FONT=tahoma][SIZE=4]Merge July’s security patch 11.0.0_r39
