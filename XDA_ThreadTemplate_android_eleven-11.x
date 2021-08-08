@@ -1,4 +1,4 @@
-Thread Title - [ROM][11.0.0_r39] AospExtended ROM v8.4 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
@@ -66,16 +66,19 @@ Thread Title - [ROM][11.0.0_r39] AospExtended ROM v8.4 [UNOFFICIAL]
 -Face unlock
 -Fingerprint gestures support.
 -Flashlight notifications.
--Flip button animation.
+-Flip button animations.
+-FOD customisations.
 -Force expand notifications (Enable/Disable).
 -Gaming mode.
 -HW key customization.
 -Heads up customizations.
 -Hide clock/date/alarm text from lock screen.
+-Immersive navigation.
 -In-Call vibrations options.
 -Increasing volume in ringtone.
 -Kill app button in notification row.
 -LS visualizer with customizations.
+-LS clock customisations.
 -Less boring heads-up.
 -Lineage live display.
 -Lineage touch HAL.
@@ -96,6 +99,7 @@ Thread Title - [ROM][11.0.0_r39] AospExtended ROM v8.4 [UNOFFICIAL]
 -Option to mute Media with gesture.
 -Per app Wi-Fi, Data & VPN restrictions.
 -Per app network restrictions.
+-Per app volume control.
 -Permission manager.
 -Pixel's UI and ringtones.
 -POSP's volume style plugin.
@@ -167,32 +171,35 @@ Direct ZIP Flash Method:
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.4 Changelog[/SIZE][/FONT]
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.5 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Merge July’s security patch 11.0.0_r39
-- Update Extension’s bottom bar
-- Add few more LS clock styles
-- Add UI to preview clocks in extensions
-- Add support for screen off FOD
-- App lock improvements
-- Add support for OOS alert slider toast UI
-- Add config to show battery in QS header
-- Add option to suppress notification sound/vibration when screen is on
-- Add legacy WFD output video mode settings
-- Add support for AOSP WFD
-- Add safety net hacks to fix issues with banking apps
-- Add support for custom AVB key for supported devices
-- Add support for local installation to our system updates app
-- Add Oneplus Sans font
-- Add support to update/downgrade and flash zips via adb sideload, to our recovery
-- Rebrand AOSP recovery to AEX recovery 
-- Replace Snap camera with Gcam GO
-- Improve FOD
+- [/B][FONT=tahoma][SIZE=4]Merge August security patch 11.0.0_r40
+- Update all of our packages
+- Update our pre-built packages
+- Update some translations
+- Add our new stock wallpaper
+- Add per-app volume control
+- Add rounded corner styles
+- Add clock customizations
+- Add new lock screen clocks
+- Add more switch styles 
+- Add icon pack support in launcher
+- Add colored status bar icons
+- Add notification header hide toggle
+- Add centred notification toggle
+- Add immersive navigation
+- Allow to hide in call UI in gaming mode
+- Add FOD icon/animation customisations
+- Add themepicker (Styles and Wallpaper) app with our theme support
 - Improve face unlock
-- Fix crash on lock screen mic shortcut
-- Fix issues with LS clocks
-- Fix statusbar icon pack issues
+- Improve data usage info
+- Improve volume panel
+- Improve offline charging animation
+- Improve stock launcher
+- Improve pocket lock
+- Improve app lock
+- Improve themes & customisations extensions UI
 - Bug fixes and performance improvements[/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
