@@ -1,4 +1,4 @@
-Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r43] AospExtended ROM v8.6 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
@@ -30,6 +30,7 @@ Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 [/CENTER]
 [CODE=rich][FONT=tahoma][SIZE=4]-ADB Root
 -AEXPapers - our wallpaper app.
+-AEXLauncher.
 -AOSP font engine.
 -Adaptive playback.
 -Additional battery saver steps.
@@ -40,13 +41,18 @@ Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 -Ambient edge lightning feature.
 -AOKP's custom system animations.
 -AOD when charging.
+-Agressive battery mode.
+-Automated sleep mode feature.
 -Battery bar.
 -Battery styles and percentage.
 -Battery/notification light customizations.
 -Button backlight customizations.
+-Brightness slide styles
 -CPU info overlay.
 -Camera sound toggle.
 -Carrier labels.
+-Center clock.
+-Charging animations.
 -Clock area visibility toggle.
 -Configurable audio panel location.
 -Custom pattern lock sizes (3x3, 4x4, 5x5, 6x6).
@@ -67,6 +73,7 @@ Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 -Fingerprint gestures support.
 -Flashlight notifications.
 -Flip button animations.
+-Font engine.
 -FOD customisations.
 -Force expand notifications (Enable/Disable).
 -Gaming mode.
@@ -90,6 +97,7 @@ Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 -Long press gear icon in status bar header launches extensions.
 -Long press caffeine tile action.
 -Long-press power button on lock screen for torch.
+-Mac address firewall. 
 -Music player go.
 -MIUI volume style plugin.
 -Navigation bar toggle and customizations.
@@ -111,6 +119,7 @@ Thread Title - [ROM][11.0.0_r40] AospExtended ROM v8.5 [UNOFFICIAL]
 -QS tiles animations.
 -Quick access Wallet
 -Quick unlock for PIN/Password.
+-Recents locking.
 -Run SystemUI tuner from extensions.
 -Show 4G instead of LTE switch.
 -Smart pixels.
@@ -171,35 +180,35 @@ Direct ZIP Flash Method:
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.5 Changelog[/SIZE][/FONT]
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.6 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Merge August security patch 11.0.0_r40
+- [/B][FONT=tahoma][SIZE=4]Merge September security patch 11.0.0_r43
 - Update all of our packages
 - Update our pre-built packages
 - Update some translations
-- Add our new stock wallpaper
-- Add per-app volume control
-- Add rounded corner styles
-- Add clock customizations
-- Add new lock screen clocks
-- Add more switch styles 
-- Add icon pack support in launcher
-- Add colored status bar icons
-- Add notification header hide toggle
-- Add centred notification toggle
-- Add immersive navigation
-- Allow to hide in call UI in gaming mode
-- Add FOD icon/animation customisations
-- Add themepicker (Styles and Wallpaper) app with our theme support
-- Improve face unlock
-- Improve data usage info
-- Improve volume panel
-- Improve offline charging animation
-- Improve stock launcher
-- Improve pocket lock
-- Improve app lock
-- Improve themes & customisations extensions UI
+- Add our new AEX launcher
+- Add more UI style overlays
+- Add brightness slide styles
+- Add sensor off QS tile
+- Add Montserrat font
+- Add more charging animations
+- Add mac address firewall
+- Add center clock for some devices 
+- Add toggle and customizations for QS media player
+- Add support for Dirac and MiSoundFX API sound for some devices
+- Add delete notification for screen records
+- Add aggressive battery mode
+- Add automated sleep mode feature
+- Allow for handling sensor permissions for applications
+- Allow locking tasks in recent menu
+- Allow customizations of fonts for user apps 
+- Implement android twelve fragments in settings app
+- Improve android twelve clock style
+- Improve QS media player
+- Fix few theming issues
+- Fix battery estimate toggle
+- Fix safety net issue for some devices
 - Bug fixes and performance improvements[/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
