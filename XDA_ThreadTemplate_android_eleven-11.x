@@ -41,7 +41,7 @@ Thread Title - [ROM][11.0.0_r43] AospExtended ROM v8.6 [UNOFFICIAL]
 -Ambient edge lightning feature.
 -AOKP's custom system animations.
 -AOD when charging.
--Agressive battery mode.
+-Aggressive battery mode.
 -Automated sleep mode feature.
 -Battery bar.
 -Battery styles and percentage.
