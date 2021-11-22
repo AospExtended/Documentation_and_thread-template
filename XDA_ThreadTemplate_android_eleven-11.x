@@ -1,4 +1,4 @@
-Thread Title - [ROM][11.0.0_r43] AospExtended ROM v8.6 [UNOFFICIAL]
+Thread Title - [ROM][11.0.0_r46] AospExtended ROM v8.7 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
@@ -72,6 +72,7 @@ Thread Title - [ROM][11.0.0_r43] AospExtended ROM v8.6 [UNOFFICIAL]
 -Face unlock
 -Fingerprint gestures support.
 -Flashlight notifications.
+-Flashlight blink on incoming calls.
 -Flip button animations.
 -Font engine.
 -FOD customisations.
@@ -102,6 +103,7 @@ Thread Title - [ROM][11.0.0_r43] AospExtended ROM v8.6 [UNOFFICIAL]
 -MIUI volume style plugin.
 -Navigation bar toggle and customizations.
 -Notch city support.
+-Notification opacity.
 -One tap data & Wi-Fi tile.
 -OOS type aler slider UI
 -Option to mute Media with gesture.
@@ -180,36 +182,20 @@ Direct ZIP Flash Method:
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.6 Changelog[/SIZE][/FONT]
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v8.7 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Merge September security patch 11.0.0_r43
+- [/B][FONT=tahoma][SIZE=4]Merge October & November security patch 11.0.0_r46
 - Update all of our packages
-- Update our pre-built packages
 - Update some translations
-- Add our new AEX launcher
-- Add more UI style overlays
-- Add brightness slide styles
-- Add sensor off QS tile
-- Add Montserrat font
-- Add more charging animations
-- Add mac address firewall
-- Add center clock for some devices 
-- Add toggle and customizations for QS media player
-- Add support for Dirac and MiSoundFX API sound for some devices
-- Add delete notification for screen records
-- Add aggressive battery mode
-- Add automated sleep mode feature
-- Allow for handling sensor permissions for applications
+- Add flashlight blink on incoming calls
+- Allow for the adjustment of notification opacity
 - Allow locking tasks in recent menu
 - Allow customizations of fonts for user apps 
-- Implement android twelve fragments in settings app
-- Improve android twelve clock style
-- Improve QS media player
-- Fix few theming issues
-- Fix battery estimate toggle
-- Fix safety net issue for some devices
-- Bug fixes and performance improvements[/SIZE][/FONT]
+- Fix issue with status bar time refreshment
+- Fix issues with charging info
+- Fix issues with system fonts
+- Bug fixes and under the hood improvements[/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.[/FONT][/SIZE][/COLOR]
