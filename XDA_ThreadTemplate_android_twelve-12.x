@@ -137,7 +137,7 @@ Direct ZIP Flash Method:
 [CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v9.1 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Initial Android Twelve dot one release with May security patch [/SIZE][/FONT]
+- [/B][FONT=tahoma][SIZE=4]Initial release based on Android Twelve L with the May security patch! [/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.[/FONT][/SIZE][/COLOR]
