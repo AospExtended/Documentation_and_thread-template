@@ -1,4 +1,4 @@
-Thread Title - [ROM][12.0.0_r29] AospExtended ROM v9.0 [UNOFFICIAL]
+Thread Title - [ROM][12.1.0_r5 AospExtended ROM v9.1 [UNOFFICIAL]
 
 [IMG]https://i.imgur.com/0CwUbOx.png[/IMG]
 [CENTER]
@@ -134,10 +134,10 @@ Direct ZIP Flash Method:
 [SIZE=4][B]Monitor the changelog here![/B][/SIZE]
 
 
-[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v9.0 Changelog[/SIZE][/FONT]
+[CODE=rich][B] [FONT=tahoma][SIZE=4]AospExtended v9.1 Changelog[/SIZE][/FONT]
 
 
-- [/B][FONT=tahoma][SIZE=4]Initial Android Twelve release with February security patch [/SIZE][/FONT]
+- [/B][FONT=tahoma][SIZE=4]Initial Android Twelve dot one release with May security patch [/SIZE][/FONT]
 
 [COLOR=rgb(97, 189, 109)][SIZE=4][FONT=tahoma]A clean flash is always recommended. Bug reports are not appreciated if not clean flashed.
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.[/FONT][/SIZE][/COLOR]
@@ -231,7 +231,7 @@ Checkout our [URL='https://github.com/aospextended'][COLOR=rgb(0, 168, 133)]Gith
 [B]Vendor:[/B] N/A
 
 
-[B]ROM OS Version:[/B] 12.x Twelve
+[B]ROM OS Version:[/B] 12.1.x Twelve
 [B]ROM Kernel:[/B] N/A
 [B]ROM Firmware Required:[/B] N/A
 [B]Based On:[/B] AOSP
